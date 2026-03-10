@@ -294,21 +294,21 @@ California Northstate University,CA,4-year,private_forprofit,https://www.cnsu.ed
 California Nurses Educational Institute,CA,2-year,private_forprofit,https://www.cnei.edu,,,,,,,,pending
 California Polytechnic State University-San Luis Obispo,CA,4-year,public,https://calpoly.edu,Yes,Poly Access (Follett),Per-course,Follett,Various via Canvas,Follett Poly Access; free first-day digital then charged after add/drop; opt-out; CSU Affordable Learning Solutions,https://bkstr.com/calpolyslotextbooks; https://calpoly.edu,done
 California State Polytechnic University-Humboldt,CA,4-year,public,https://www.humboldt.edu,,,,,,,,pending
-California State Polytechnic University-Pomona,CA,4-year,public,https://www.cpp.edu,Yes,Instant Access Complete,"$250/sem UG, $150/sem grad",CPP Bookstore,Various,Launched 2023,https://bkstr.com/calpomona; https://cpp.edu,done
+California State Polytechnic University-Pomona,CA,4-year,public,https://www.cpp.edu,yes,Instant Access Complete,$250/semester undergrad; $150/semester grad; flat rate,VitalSource / University bookstore,VitalSource; various,Fall 2023 launch. ~20k students opted in. Automated digital delivery. Opt-out by add/drop.,https://cpp.edu; https://vitalsource.com; https://thepolypost.com,done
 California State University Maritime Academy,CA,4-year,public,https://www.csum.edu,,,,,,,,pending
 California State University-Bakersfield,CA,4-year,public,https://www.csub.edu,,,,,,,,pending
 California State University-Channel Islands,CA,4-year,public,https://www.csuci.edu,,,,,,,,pending
 California State University-Chico,CA,4-year,public,https://www.csuchico.edu,,,,,,,,pending
-California State University-Dominguez Hills,CA,4-year,public,https://www.csudh.edu,,,,,,,,pending
+California State University-Dominguez Hills,CA,4-year,public,https://www.csudh.edu,yes,DH Immediate Access,Auto-enrolled; reduced cost digital; opt-out available,University bookstore,Various publishers; digital e-books,"Collaboration between university, publishers, and bookstore. Auto-enrolled, opt-out.",https://csudhauxiliarypartners.org,done
 California State University-East Bay,CA,4-year,public,https://www.csueastbay.edu,,,,,,,,pending
 California State University-Fresno,CA,4-year,public,https://www.fresnostate.edu,Yes,Immediate Access / Follett Access,Per-course,Follett (Kennel Bookstore),Various,Follett Immediate Access since Fall 2017; significant expansion by Fall 2020; opt-out; Kennel Bookstore,https://kennel.bkstr.com; https://fresnostate.edu,done
-California State University-Fullerton,CA,4-year,public,https://www.fullerton.edu,Yes,Titan Direct Access (TDA),Per-course + SmartAccess+ flat Spring 2027,Titan Shops,Various via Campus Portal,TDA free until add/drop then billed; SmartAccess+ flat-rate launching Spring 2027; opt-out,https://bkstr.com/csufstore; https://fullerton.edu,done
+California State University-Fullerton,CA,4-year,public,https://www.fullerton.edu,yes,Titan Direct Access / SmartAccess+,Free 2-wk trial then opt-in purchase; SmartAccess+ flat fee launching Spring 2027,Titan Shops,Various; Titan Direct Access platform,Free digital access first 2 weeks then discounted purchase. SmartAccess+ flat-rate coming Spring 2027.,https://fullerton.edu; https://titanshops.com,done
 California State University-Long Beach,CA,4-year,public,https://www.csulb.edu,Yes,Day 1 Textbook Access (D1TA),"$250/semester (FT), $165 (PT)",CSULB Bookstore,Various via Canvas,"D1DA→D1TA Fall 2024; $250/sem FT, $165 PT; auto-enrolled; opt-out; Canvas delivery",https://csulb.bkstr.com; https://csulb.edu,done
 California State University-Los Angeles,CA,4-year,public,https://www.calstatela.edu,,,,,,,,pending
 California State University-Monterey Bay,CA,4-year,public,https://csumb.edu,,,,,,,,pending
-California State University-Northridge,CA,4-year,public,https://www.csun.edu,Yes,myCSUNDigitalAccess → CSUN Ready,Per-course + transitioning to EA,CSUN Bookstore (Follett),Various via Canvas,myCSUNDigitalAccess IA; Canvas delivery; opt-out after add/drop; transitioning to CSUN Ready EA,https://matadorbookstore.csun.edu; https://csun.edu,done
+California State University-Northridge,CA,4-year,public,https://www.csun.edu,yes,myCSUNDigitalAccess,Auto-enrolled; charged to student account if no opt-out by deadline,Follett,Various; digital via Canvas,Digital materials via Canvas before first day. Opt-out by add/drop. Also has Lending Library for transfers.,https://csun.edu; https://bkstr.com/csun,done
 California State University-Sacramento,CA,4-year,public,https://www.csus.edu,Yes,Follett Access (Hornet Bookstore),Per-course,Follett (Hornet Bookstore),Various via LMS,Follett Access; eBooks by first day; opt-out; evaluated since 2019; Hornet Bookstore managed by Follett,https://bkstr.com/csusacramentostore; https://csus.edu,done
-California State University-San Bernardino,CA,4-year,public,https://www.csusb.edu,Yes,CDOTA (Coyote Day One) pilot Fall 2024,Set cost/credit unit (pilot),CSUSB Bookstore,Various,CDOTA pilot Fall 2024 replaces prior IA; auto-enrolled UG; per-credit; opt-out; former IA paused during pilot,https://bkstr.com/csusanbernardinostore,done
+California State University-San Bernardino,CA,4-year,public,https://www.csusb.edu,yes,Coyote Day One Textbook Access (CDOTA),$21.50/credit hour; auto-enrolled; opt-out by census date,University bookstore,Various; digital materials,Launched Fall 2024. Replaced previous IA program. Materials before term starts.,https://csusb.edu,done
 California State University-San Marcos,CA,4-year,public,https://www.csusm.edu,,,,,,,,pending
 California State University-Stanislaus,CA,4-year,public,https://www.csustan.edu,Planned,StanBooks (Fall 2026),$20/credit hour (planned),Stan State Bookstore,Various,Under consideration Fall 2026,https://bkstr.com/csustanislausstore,done
 California University of Science and Medicine,CA,4-year,private_nonprofit,https://www.cusm.edu,,,,,,,,pending
@@ -909,7 +909,7 @@ Flagler College,FL,4-year,private_nonprofit,https://www.flagler.edu,,,,,,,,pendi
 Flagler Technical College,FL,2-year,public,https://flaglertech.edu,,,,,,,,pending
 Florida Academy of Nursing,FL,4-year,private_forprofit,https://www.fan.edu,,,,,,,,pending
 Florida Agricultural and Mechanical University,FL,4-year,public,https://www.famu.edu,,,,,,,,pending
-Florida Atlantic University,FL,4-year,public,https://www.fau.edu,Yes,Follett Access → Equitable Access,Per-course → flat fee (Fall 2023),Follett,Various,IA-First Day pilot Spring 2020; expanded to 8K students; transitioning to EA flat fee for UG Fall 2023; 60% savings,https://fau.bncollege.com; https://fau.edu,done
+Florida Atlantic University,FL,4-year,public,https://www.fau.edu,yes,Follett Access / Equitable Access,Avg $36/course; auto-enrolled; opt-out; transitioning to flat-fee Equitable Access Fall 2023,Follett,Follett Access; various,Launched Spring 2020. Avg $36/course. Transitioning to all-in flat-fee Equitable Access for undergrads.,https://fau.edu; https://follett.com,done
 Florida Career College-Boynton Beach,FL,2-year,private_forprofit,https://www.floridacareercollege.edu,,,,,,,,pending
 Florida Career College-Hialeah,FL,2-year,private_forprofit,https://www.floridacareercollege.edu,,,,,,,,pending
 Florida Career College-Lauderdale Lakes,FL,2-year,private_forprofit,https://www.floridacareercollege.edu,,,,,,,,pending
@@ -923,7 +923,7 @@ Florida Gateway College,FL,4-year,public,https://www.fgc.edu,,,,,,,,pending
 Florida Gulf Coast University,FL,4-year,public,https://www.fgcu.edu,Yes,FGCU First Day Ready,$20/credit hour (Fall 2025),BN College,Various via Canvas,FGCU First Day Ready Fall 2025; $20/cr UG; auto-enrolled; physical+digital; pickup/delivery; financial aid eligible,https://fgcu.bncollege.com; https://fgcu.edu,done
 Florida Institute of Technology,FL,4-year,private_nonprofit,https://www.fit.edu,,,,,,,,pending
 Florida Institute of Technology-Online,FL,4-year,private_nonprofit,https://www.fit.edu,,,,,,,,pending
-Florida International University,FL,4-year,public,https://www.fiu.edu,Yes,Panther Book Pack,$20-20.50/UG credit hour,FIU Bookstore (BN),Various,"Panther Book Pack since Fall 2021; $20/cr; 40,800+ students; rental; opt-out; first-day access",https://fiu.bncollege.com; https://fiu.edu,done
+Florida International University,FL,4-year,public,https://www.fiu.edu,yes,Panther Book Pack,$20/credit hour; undergrad; flat fee rental; ~50% savings,Barnes & Noble College,BN First Day Complete; multiple,Fall 2021 launch. Largest university to adopt BN comprehensive program. $20/cr. Opt-out.,https://fiu.edu; https://bncollege.com/fiu,done
 Florida Memorial University,FL,4-year,private_nonprofit,https://www.fmuniv.edu,,,,,,,,pending
 Florida National University Training Center,FL,4-year,private_forprofit,https://www.fnu.edu,,,,,,,,pending
 Florida National University-Main Campus,FL,4-year,private_forprofit,https://www.fnu.edu,,,,,,,,pending
@@ -933,7 +933,7 @@ Florida School of Traditional Midwifery,FL,2-year,private_nonprofit,https://midw
 Florida SouthWestern State College,FL,4-year,public,https://www.fsw.edu,,,,,,,,pending
 Florida Southern College,FL,4-year,private_nonprofit,https://www.flsouthern.edu,,,,,,,,pending
 Florida State College at Jacksonville,FL,4-year,public,https://www.fscj.edu,,,,,,,,pending
-Florida State University,FL,4-year,public,https://www.fsu.edu,Yes,Follett Access (FSU IA),Per-course (discounted),Bill's Bookstore (Follett),Various,Follett Access; auto-enrolled; opt-out; FSU Libraries eTextbook Program (free eBooks); discounted rates,https://bkstr.com/floridastatebookstore; https://fsu.edu,done
+Florida State University,FL,4-year,public,https://www.fsu.edu,yes,Inclusive Access / Follett Access,Discounted rate; on tuition/fees invoice; auto-enrolled; opt-out ~2nd week,Bill's Bookstore / Follett,"Follett Access; textbooks, lab kits, supplies","Partnership between Student Business Services and Bill's Bookstore. Covers textbooks, labs, supplies.",https://fsu.edu,done
 Fort Myers Technical College,FL,2-year,public,https://www.fortmyerstech.edu,,,,,,,,pending
 Fortis College-Cutler Bay,FL,2-year,private_forprofit,https://www.fortis.edu,,,,,,,,pending
 Fortis College-Orange Park,FL,2-year,private_forprofit,https://fortis.edu,,,,,,,,pending
@@ -1085,13 +1085,13 @@ Ultrasound Medical Institute,FL,2-year,private_forprofit,https://www.nriinstitut
 United International College,FL,4-year,private_forprofit,https://www.uinternational.edu,,,,,,,,pending
 Universal Technical Institute-Orlando,FL,2-year,private_forprofit,https://www.uti.edu,,,,,,,,pending
 Universal Technical Institute-South Florida Miramar,FL,2-year,private_forprofit,https://www.uti.edu,,,,,,,,pending
-University of Central Florida,FL,4-year,public,https://www.ucf.edu,Yes,"First Day (BN, opt-in)",Per-course (opt-in),Barnes & Noble,Various,BN First Day; notable opt-in model (rare); Digital Course Material charge; student choice advocacy,https://ucf.bncollege.com; https://ucf.edu,done
+University of Central Florida,FL,4-year,public,https://www.ucf.edu,yes,First Day (opt-in model),Additional course charge; opt-in (not auto-enrolled); free trial during opt-in period,Barnes & Noble College,BN First Day; digital via Webcourses@UCF,Opt-IN model (unusual). 2021 decision to maintain opt-in. Free access during opt-in period.,https://ucf.edu; https://bncollege.com/ucf,done
 University of Florida,FL,4-year,public,https://www.ufl.edu,Yes,UF All Access,Per-course (opt-in),UF Bookstore,Various via Canvas,UF All Access; opt-in model; negotiated discounts; auto-charged then opt-out; Canvas delivery,https://sgabookstore.com/inclusive-access; https://ufl.edu,done
 University of Florida-Online,FL,4-year,public,https://www.ufonline.ufl.edu,,,,,,,,pending
 University of Fort Lauderdale,FL,4-year,private_nonprofit,https://uftl.edu,,,,,,,,pending
 University of Miami,FL,4-year,private_nonprofit,https://www.miami.edu,Yes,IA E-Textbook Project,Per-course (Bursar),eCampus,Various via Canvas,Fall 2021; faculty opt-in; Bursar billing,https://bkstr.com/miamibookstore; https://miami.edu,done
 University of North Florida,FL,4-year,public,https://www.unf.edu,Yes,Follett Access,Per-course (discounted),Follett,Various via LMS,Follett Access; auto-enrolled; opt-out; first-day digital; discounted,https://unf.bncollege.com; https://unf.edu,done
-University of South Florida,FL,4-year,public,https://www.usf.edu,Yes,USF ACCESS,Per-course (50% off),Follett,"MindTAP, CONNECT",Follett; auto-enrolled; opt-out; TAP project,https://usf.bncollege.com; https://usf.edu,done
+University of South Florida,FL,4-year,public,https://www.usf.edu,yes,USF ACCESS,Up to 50% savings; auto-enrolled; opt-out,Follett / USF Bookstore,Follett; various digital titles,Follett-powered. Up to 50% savings. Auto-enrolled with opt-out. Email notification.,https://usf.edu; https://bkstr.com/usf,done
 University of West Florida,FL,4-year,public,https://uwf.edu,,,,,,,,pending
 Valencia College,FL,4-year,public,https://valenciacollege.edu,,,,,,,,pending
 Warner University,FL,4-year,private_nonprofit,https://www.warner.edu,,,,,,,,pending
@@ -1113,7 +1113,7 @@ Atlanta Metropolitan State College,GA,4-year,public,https://www.atlm.edu,,,,,,,,
 Atlanta Technical College,GA,2-year,public,https://atlantatech.edu,,,,,,,,pending
 Atlanta's John Marshall Law School,GA,4-year,private_forprofit,https://www.johnmarshall.edu,,,,,,,,pending
 Augusta Technical College,GA,2-year,public,https://www.augustatech.edu,,,,,,,,pending
-Augusta University,GA,4-year,public,https://www.augusta.edu,,,,,,,,pending
+Augusta University,GA,4-year,public,https://www.augusta.edu,yes,Inclusive Access (Roar Store),Discounted price; auto-enrolled; course charge on student account; opt-out,Roar Store (self-operated),Various; digital via LMS,IA managed through Roar Store. Auto-enrolled. Opt-out available.,https://roarstore.net,done
 Aviation Institute of Maintenance-Atlanta,GA,2-year,private_forprofit,https://aviationmaintenance.edu/campuses/atlanta-ga,,,,,,,,pending
 Berry College,GA,4-year,private_nonprofit,https://www.berry.edu,,,,,,,,pending
 Beulah Heights University,GA,4-year,private_nonprofit,https://www.beulah.edu,,,,,,,,pending
@@ -1146,7 +1146,7 @@ Emory University,GA,4-year,private_nonprofit,https://www.emory.edu,,,,,,,,pendin
 Emory University-Oxford College,GA,2-year,private_nonprofit,https://www.oxford.emory.edu,,,,,,,,pending
 Fort Valley State University,GA,4-year,public,https://www.fvsu.edu,,,,,,,,pending
 Fortis College-Smyrna,GA,2-year,private_forprofit,https://fortis.edu,,,,,,,,pending
-Georgia College & State University,GA,4-year,public,https://www.gcsu.edu,,,,,,,,pending
+Georgia College & State University,GA,4-year,public,https://www.gcsu.edu,yes,Bobcat First Day Access (BN First Day by Course),Discounted digital; auto-enrolled; opt-out; charged to student account,Barnes & Noble College,BN First Day; e-textbooks/courseware,BN First Day by Course. Auto-enrolled. Opt-out available.,https://gcsu.edu; https://bned.com,done
 Georgia Gwinnett College,GA,4-year,public,https://www.ggc.edu,,,,,,,,pending
 Georgia Highlands College,GA,4-year,public,https://www.highlands.edu,,,,,,,,pending
 Georgia Institute of Technology-Main Campus,GA,4-year,public,https://www.gatech.edu,No,OER focus (no IA),OER / traditional,Georgia Tech Bookstore (BN),"OER, various",Library textbook affordability + OER focus; GT 1000 seminar uses OER; no university-wide IA billing program,https://gatech.bncollege.com; https://gatech.edu,done
@@ -1164,7 +1164,7 @@ Georgia Military College - Valdosta,GA,2-year,public,https://www.gmc.edu,,,,,,,,
 Georgia Military College - Zebulon,GA,2-year,public,https://www.gmc.edu,,,,,,,,pending
 Georgia Northwestern Technical College,GA,2-year,public,https://www.gntc.edu,,,,,,,,pending
 Georgia Piedmont Technical College,GA,2-year,public,https://www.gptc.edu,,,,,,,,pending
-Georgia Southern University,GA,4-year,public,https://www.georgiasouthern.edu,,,,,,,,pending
+Georgia Southern University,GA,4-year,public,https://www.georgiasouthern.edu,yes,Day1Access,Reduced cost; opt-out during drop/add,MBS Books / University bookstore,Various; digital via Folio (LMS),Day1Access via Folio. Saved students millions. Opt-out during drop/add.,https://georgiasouthern.edu; https://mbsbooks.com,done
 Georgia Southwestern State University,GA,4-year,public,https://gsw.edu,,,,,,,,pending
 Georgia State University,GA,4-year,public,https://www.gsu.edu,Yes,Panther Book Access (PBOK),Per-course (course fee),GSU Bookstore (Follett),Various via iCollege,PBOK pilot Fall 2025; 20-80% off digital; iCollege delivery; course fee; opt-out; Follett Access also available,https://gsu.bncollege.com; https://gsu.edu,done
 Georgia State University-Perimeter College,GA,2-year,public,https://perimeter.gsu.edu,,,,,,,,pending
@@ -1181,7 +1181,7 @@ Interactive College of Technology-Chamblee,GA,2-year,private_forprofit,https://w
 Interactive College of Technology-Gainesville,GA,2-year,private_forprofit,https://www.ict.edu,,,,,,,,pending
 Interactive College of Technology-Morrow,GA,2-year,private_forprofit,https://ict.edu,,,,,,,,pending
 Interdenominational Theological Center,GA,4-year,private_nonprofit,https://www.itc.edu,,,,,,,,pending
-Kennesaw State University,GA,4-year,public,https://www.kennesaw.edu,Yes,Day One Access (D1A),Per-course,KSU Bookstore,Various via D2L,Day One Access; D2L delivery; auto-enrolled; opt-out; $2.5M+ saved; USG no-cost/low-cost ≤$40 designation,https://kennesaw.bncollege.com; https://kennesaw.edu,done
+Kennesaw State University,GA,4-year,public,https://www.kennesaw.edu,yes,Day One Access (D1A),Reduced cost; opt-out available,MBS Books / University bookstore,Various; e-books/courseware via D2L,D1A via D2L. Saved KSU students millions. Opt-out available.,https://kennesaw.edu; https://mbsbooks.com,done
 LaGrange College,GA,4-year,private_nonprofit,https://www.lagrange.edu,,,,,,,,pending
 Lanier Technical College,GA,2-year,public,https://www.laniertech.edu,,,,,,,,pending
 Life University,GA,4-year,private_nonprofit,https://www.life.edu,,,,,,,,pending
@@ -1234,7 +1234,7 @@ Truett McConnell University,GA,4-year,private_nonprofit,https://truett.edu,,,,,,
 University of Georgia,GA,4-year,public,https://www.uga.edu,Yes,Course-by-Course Affordable Access,Per-course (reduced),UGA Bookstore (Follett),Various,Follett course-by-course IA; faculty opt-in courses; auto-enrolled students; opt-out; digital+physical; price match,https://uga.bncollege.com; https://uga.edu,done
 University of North Georgia,GA,4-year,public,https://www.ung.edu,,,,,,,,pending
 University of West Georgia,GA,4-year,public,https://www.westga.edu,,,,,,,,pending
-Valdosta State University,GA,4-year,public,https://www.valdosta.edu,,,,,,,,pending
+Valdosta State University,GA,4-year,public,https://www.valdosta.edu,yes,VSU Day 1,Competitive pricing; per-course; opt-out period,Barnes & Noble College,BN First Day; digital via LMS,VSU Day 1 IA model. Instructors request. Opt-out period for students.,https://valdosta.edu; https://bncollege.com/valdosta,done
 Virginia University of Integrative Medicine - Georgia,GA,4-year,private_nonprofit,https://www.vuim.edu,,,,,,,,pending
 Wesleyan College,GA,4-year,private_nonprofit,https://www.wesleyancollege.edu,,,,,,,,pending
 West Georgia Technical College,GA,2-year,public,https://www.westgatech.edu,,,,,,,,pending
@@ -1776,9 +1776,9 @@ Louisiana State University and Agricultural & Mechanical College,LA,4-year,publi
 Louisiana State University-Alexandria,LA,4-year,public,https://www.lsua.edu,,,,,,,,pending
 Louisiana State University-Eunice,LA,2-year,public,https://www.lsue.edu,,,,,,,,pending
 Louisiana State University-Shreveport,LA,4-year,public,https://www.lsus.edu,,,,,,,,pending
-Louisiana Tech University,LA,4-year,public,https://www.latech.edu,,,,,,,,pending
+Louisiana Tech University,LA,4-year,public,https://www.latech.edu,yes,Bulldog Bundle,$23/credit hour; auto-enrolled; covers all materials,Barnes & Noble College,BN First Day Complete; multiple,Comprehensive rental for undergrads. In-store/shipping/Canvas delivery.,https://latech.edu; https://bncollege.com/latech,done
 Loyola University New Orleans,LA,4-year,private_nonprofit,https://www.loyno.edu,,,,,,,,pending
-McNeese State University,LA,4-year,public,https://www.mcneese.edu,,,,,,,,pending
+McNeese State University,LA,4-year,public,https://www.mcneese.edu,yes,Inclusive Access (select courses),Course-level IA; some mandate no opt-out,Follett,Various; e-textbooks via IA,IA for some courses. Some syllabi mandate no opt-out.,https://mcneese.edu; https://bkstr.com/mcneese,done
 Miller-Motte College-McCann-Monroe,LA,2-year,private_forprofit,https://www.mccann.edu,,,,,,,,pending
 NationsUniversity,LA,4-year,private_nonprofit,https://www.nationsu.edu,,,,,,,,pending
 New Orleans Baptist Theological Seminary,LA,4-year,private_nonprofit,https://www.nobts.edu,,,,,,,,pending
@@ -1796,7 +1796,7 @@ River Parishes Community College,LA,2-year,public,https://www.rpcc.edu,,,,,,,,pe
 SOWELA Technical Community College,LA,2-year,public,https://www.sowela.edu,,,,,,,,pending
 Saint Joseph Seminary College,LA,4-year,private_nonprofit,https://www.sjasc.edu,,,,,,,,pending
 South Louisiana Community College,LA,2-year,public,https://www.solacc.edu,,,,,,,,pending
-Southeastern Louisiana University,LA,4-year,public,https://www.southeastern.edu,,,,,,,,pending
+Southeastern Louisiana University,LA,4-year,public,https://www.southeastern.edu,yes,Textbook Rental System (Follett),Per-course charge on student invoice,Follett,Follett; various,Textbooks issued per-course charge. Follett partnership.,https://southeastern.edu; https://bkstr.com/southeastern,done
 Southeastern Louisiana University - Albert Cammon Middle School,LA,4-year,public,https://www.southeastern.edu,,,,,,,,pending
 Southeastern Louisiana University - Destrahan High School,LA,4-year,public,https://www.southeastern.edu,,,,,,,,pending
 Southeastern Louisiana University - EBR Parish School System Prof Dev,LA,4-year,public,https://www.southeastern.edu,,,,,,,,pending
@@ -1810,7 +1810,7 @@ Tulane University of Louisiana,LA,4-year,private_nonprofit,https://tulane.edu,Ye
 University of Holy Cross,LA,4-year,private_nonprofit,https://uhcno.edu,,,,,,,,pending
 University of Louisiana at Lafayette,LA,4-year,public,https://www.louisiana.edu,,,,,,,,pending
 University of Louisiana at Monroe,LA,4-year,public,https://www.ulm.edu,Yes,Warhawk Bundle (BN FDC),Per-course (35-50% off),Barnes & Noble,Various,August 2022 launch; BN FDC; auto-enrolled; opt-out,https://ulm.bncollege.com; https://ulm.edu,done
-University of New Orleans,LA,4-year,public,https://new.uno.edu,,,,,,,,pending
+University of New Orleans,LA,4-year,public,https://new.uno.edu,yes,Follett ACCESS,$27/credit hour; on tuition/fees,Follett,Follett ACCESS; multiple,All-inclusive. $27/cr on tuition. Materials on first day.,https://uno.edu; https://bkstr.com/unobookstore,done
 Xavier University of Louisiana,LA,4-year,private_nonprofit,https://www.xula.edu,,,,,,,,pending
 American International College,MA,4-year,private_nonprofit,https://www.aic.edu,,,,,,,,pending
 Amherst College,MA,4-year,private_nonprofit,https://www.amherst.edu,,,,,,,,pending
@@ -2836,7 +2836,7 @@ Berkeley College-New York,NY,4-year,private_forprofit,https://berkeleycollege.ed
 Bet Medrash Gadol Ateret Torah,NY,4-year,private_nonprofit,https://betmedrashgadolaterettorah.com,,,,,,,,pending
 Beth Hamedrash Shaarei Yosher Institute,NY,4-year,private_nonprofit,https://bhsy.edu,,,,,,,,pending
 Beth Medrash Meor Yitzchok,NY,4-year,private_nonprofit,https://bethmedrashmeoryitzchok.com,,,,,,,,pending
-Binghamton University,NY,4-year,public,https://www.binghamton.edu,,,,,,,,pending
+Binghamton University,NY,4-year,public,https://www.binghamton.edu,yes,First Day (Inclusive Access Fee),Additional course fee; 30-50% savings; opt-out,Barnes & Noble College,BN First Day; digital via Brightspace,Discounted digital via Brightspace. 30-50% lower than physical. Opt-out available.,https://binghamton.edu; https://bncollege.com/binghamton,done
 Bnos Zion Of Bobov Seminary,NY,2-year,private_nonprofit,https://www.bnoszionbobov.com,,,,,,,,pending
 Boricua College,NY,4-year,private_nonprofit,https://www.boricuacollege.edu,,,,,,,,pending
 Brooklyn Law School,NY,4-year,private_nonprofit,https://www.brooklaw.edu,,,,,,,,pending
@@ -3019,7 +3019,7 @@ Russell Sage College,NY,4-year,private_nonprofit,https://sage.edu,,,,,,,,pending
 SUNY Adirondack,NY,2-year,public,https://www.sunyacc.edu,,,,,,,,pending
 SUNY Brockport,NY,4-year,public,https://www.brockport.edu,,,,,,,,pending
 SUNY Broome Community College,NY,2-year,public,https://www.sunybroome.edu,,,,,,,,pending
-SUNY Buffalo State University,NY,4-year,public,https://suny.buffalostate.edu,,,,,,,,pending
+SUNY Buffalo State University,NY,4-year,public,https://suny.buffalostate.edu,yes,First Day Complete (BN College),Included in college bill; all materials print+digital,Barnes & Noble College,BN First Day Complete; print & digital,First SUNY comprehensive school to adopt First Day Complete. All materials in bill.,https://buffalostate.edu; https://bncollege.com,done
 SUNY College at Geneseo,NY,4-year,public,https://www.geneseo.edu,,,,,,,,pending
 SUNY College at Potsdam,NY,4-year,public,https://www.potsdam.edu,,,,,,,,pending
 SUNY College of Agriculture and Technology at Cobleskill,NY,4-year,public,https://www.cobleskill.edu,,,,,,,,pending
@@ -3067,7 +3067,7 @@ State University of New York at Cortland,NY,4-year,public,https://www2.cortland.
 State University of New York at New Paltz,NY,4-year,public,https://www.newpaltz.edu,,,,,,,,pending
 State University of New York at Oswego,NY,4-year,public,https://www.oswego.edu,,,,,,,,pending
 State University of New York at Plattsburgh,NY,4-year,public,https://www.plattsburgh.edu,,,,,,,,pending
-Stony Brook University,NY,4-year,public,https://www.stonybrook.edu,Partial,BN rental + eCampus IA,Per-course (rental),Barnes & Noble / eCampus,Various,BN textbook rental pilot; eCampus IA available; SUNYLA OER/IA discussions; not campus-wide auto-billing,https://stonybrook.bncollege.com; https://stonybrook.edu,done
+Stony Brook University,NY,4-year,public,https://www.stonybrook.edu,yes,Equitable Access (eCampus),Billed to student account; opt-out; digital before first day,eCampus.com,eCampus; various; digital materials,Partnered with eCampus.com. Digital before first day. Previously had BN textbook rental.,https://ecampus.com; https://sbstatesman.com,done
 Suffolk County Community College,NY,2-year,public,https://www.sunysuffolk.edu,,,,,,,,pending
 Sullivan County Community College,NY,2-year,public,https://www.sunysullivan.edu,,,,,,,,pending
 Swedish Institute a College of Health Sciences,NY,2-year,private_forprofit,https://www.swedishinstitute.edu,,,,,,,,pending
@@ -3093,7 +3093,7 @@ Union Theological Seminary in the City of New York,NY,4-year,private_nonprofit,h
 United States Merchant Marine Academy,NY,4-year,public,https://www.usmma.edu,,,,,,,,pending
 United States Military Academy,NY,4-year,public,https://www.westpoint.edu,,,,,,,,pending
 United Talmudical Seminary,NY,4-year,private_nonprofit,https://utsny.edu,,,,,,,,pending
-University at Albany,NY,4-year,public,https://www.albany.edu,,,,,,,,pending
+University at Albany,NY,4-year,public,https://www.albany.edu,yes,First Day (BN College IA),Additional course fee; lowest publisher price; 14-day opt-out,Barnes & Noble College,BN First Day; digital via LMS,Negotiated lowest publisher price. 14-day trial opt-out. Federal/state textbook transparency compliance.,https://albany.edu; https://bncollege.com/albany,done
 University at Buffalo,NY,4-year,public,https://www.buffalo.edu,Partial,OER/affordability initiatives,OER + traditional,UB Bookstore,"OER, various",Free eTextbooks for intl partnerships; Inclusive Excellence syllabus guidance on textbook costs; OER focus; no formal campus-wide IA,https://buffalo.bncollege.com; https://buffalo.edu,done
 University of Mount Saint Vincent,NY,4-year,private_nonprofit,https://www.mountsaintvincent.edu,,,,,,,,pending
 University of Rochester,NY,4-year,private_nonprofit,https://www.rochester.edu,Yes,UR Essentials,Included in tuition (no direct cost),Barnes & Noble,Various via Blackboard,UR Essentials; FT UG textbook rental included in tuition (no charge); Blackboard delivery; physical/digital; Provost funded,https://rochester.bkstr.com; https://rochester.edu,done
@@ -3430,8 +3430,8 @@ Northwest College-Tualatin,OR,2-year,private_forprofit,https://www.nwcollege.edu
 Oregon Coast Community College,OR,2-year,public,https://www.oregoncoastcc.org,,,,,,,,pending
 Oregon College of Oriental Medicine,OR,4-year,private_nonprofit,https://ocom.edu,,,,,,,,pending
 Oregon Health & Science University,OR,4-year,public,https://www.ohsu.edu,,,,,,,,pending
-Oregon Institute of Technology,OR,4-year,public,https://www.oit.edu,,,,,,,,pending
-Oregon State University,OR,4-year,public,https://oregonstate.edu,Partial,Affordable Content Initiative + Open Oregon State,Free (OER) + Unizin/BN negotiated,Beaver Store / BN,"OER, Unizin Engage",100% no/low-cost goal; Open Oregon State; Unizin Engage eReader; HB 2871 OER labeling; OER-forward,https://osu.bncollege.com; https://oregonstate.edu,done
+Oregon Institute of Technology,OR,4-year,public,https://www.oit.edu,yes,First Day (Barnes & Noble College),Course materials fee; via LMS,Barnes & Noble College,BN First Day; digital via LMS,BN College First Day IA. Materials via LMS.,https://oit.edu; https://bncollege.com/oit,done
+Oregon State University,OR,4-year,public,https://oregonstate.edu,no,OER Grants + Textbook Lending,Free OER; faculty grants; lending,Independent,OER; open textbooks; library grants,OER priority via library grants. Lending for need. State legislative support.,https://oregonstate.edu; https://library.oregonstate.edu,done
 Oregon State University-Cascades Campus,OR,4-year,public,https://osucascades.edu,,,,,,,,pending
 Pacific Bible College,OR,4-year,private_nonprofit,https://pacificbible.edu,,,,,,,,pending
 Pacific Northwest College of Art,OR,4-year,private_nonprofit,https://willamette.edu/pnca/index.html,,,,,,,,pending
@@ -3444,7 +3444,7 @@ Phagans School of Beauty,OR,2-year,private_forprofit,https://www.phagans-schools
 Phagans School of Hair Design,OR,2-year,private_forprofit,https://www.phagans.com,,,,,,,,pending
 Portland Actors Conservatory,OR,2-year,private_nonprofit,https://pac.edu,,,,,,,,pending
 Portland Community College,OR,2-year,public,https://www.pcc.edu,,,,,,,,pending
-Portland State University,OR,4-year,public,https://www.pdx.edu,No,N/A (PDXOpen OER),Free (OER),PSU Bookstore,OER via PDXOpen,PDXOpen since 2013; 35+ OERs; $1M+ saved; library-led; no commercial IA model,https://psu.bkstr.com; https://pdx.edu,done
+Portland State University,OR,4-year,public,https://www.pdx.edu,no,PDXOpen (OER initiative),Free/low-cost OER; grant-funded,Independent,OER; Pressbooks; PDXOpen,OER focus. Student leaders opposed IA billing.,https://pdx.edu; https://pressbooks.pub/pdxopen,done
 Reed College,OR,4-year,private_nonprofit,https://www.reed.edu,,,,,,,,pending
 Rogue Community College,OR,2-year,public,https://www.roguecc.edu,,,,,,,,pending
 Southern Oregon University,OR,4-year,public,https://www.sou.edu,,,,,,,,pending
@@ -3454,7 +3454,7 @@ Sumner College,OR,4-year,private_forprofit,https://sumnercollege.edu,,,,,,,,pend
 Tillamook Bay Community College,OR,2-year,public,https://tillamookbaycc.edu,,,,,,,,pending
 Treasure Valley Community College,OR,2-year,public,https://www.tvcc.cc,,,,,,,,pending
 Umpqua Community College,OR,2-year,public,https://www.umpqua.edu,,,,,,,,pending
-University of Oregon,OR,4-year,public,https://www.uoregon.edu,No,N/A (OER/subsidy focus),Subsidies ($150) + OER,UO Bookstore,"OER, library",No formal IA; $150 textbook subsidy; lending libraries; CMAE Resource Pond; low-cost course labeling; OER focus,https://duckstore.com; https://uoregon.edu,done
+University of Oregon,OR,4-year,public,https://www.uoregon.edu,partial,OER Initiative + limited IA pilot (2016),OER focus; Duck Store piloted IA 2016,The Duck Store,OER; various,Strong OER. Duck Store piloted IA 2016. Students opposed auto billing.,https://uoregon.edu; https://dailyemerald.com,done
 University of Portland,OR,4-year,private_nonprofit,https://www.up.edu,,,,,,,,pending
 University of Western States,OR,4-year,private_nonprofit,https://www.uws.edu,,,,,,,,pending
 Warner Pacific University,OR,4-year,private_nonprofit,https://www.warnerpacific.edu,,,,,,,,pending
@@ -3505,8 +3505,8 @@ Delaware County Community College,PA,2-year,public,https://www.dccc.edu,,,,,,,,p
 Delaware Valley University,PA,4-year,private_nonprofit,https://www.delval.edu,,,,,,,,pending
 Dickinson College,PA,4-year,private_nonprofit,https://www.dickinson.edu,,,,,,,,pending
 Douglas Education Center,PA,2-year,private_forprofit,https://www.dec.edu,,,,,,,,pending
-Drexel University,PA,4-year,private_nonprofit,https://drexel.edu,Yes,First Day Complete (BN) + eCampus IA,Per-course,Barnes & Noble → eCampus (June 2025),Various via LMS,BN FDC; transitioning to eCampus June 2025 with IA/equitable access; OTN member since 2018; OER also supported,https://drexel.edu/bookstore; https://ecampus.com/drexel,done
-Duquesne University,PA,4-year,private_nonprofit,https://www.duq.edu,,,,,,,,pending
+Drexel University,PA,4-year,private_nonprofit,https://drexel.edu,yes,First Day Complete / Equitable Access,Cost in tuition; all undergrads get first-day materials,eCampus.com,eCampus; various; equitable access program,Partnered with eCampus.com. All undergrads receive first-day access. Cost in tuition.,https://ecampus.com; https://prnewswire.com,done
+Duquesne University,PA,4-year,private_nonprofit,https://www.duq.edu,partial,Inclusive Access (select courses),Per-course; up to 60% savings; auto-enrolled,Follett,Various; chemistry IA textbooks,IA for select courses (chemistry noted). Faced antitrust allegations re: overcharging.,https://bkstr.com/duquesne; https://edsurge.com,done
 East Stroudsburg University of Pennsylvania,PA,4-year,public,https://www.esu.edu,,,,,,,,pending
 Eastern University,PA,4-year,private_nonprofit,https://www.eastern.edu/about/student-consumer-information,,,,,,,,pending
 Elizabethtown College,PA,4-year,private_nonprofit,https://www.etown.edu,,,,,,,,pending
@@ -3594,7 +3594,7 @@ Pennsylvania College of Technology,PA,4-year,public,https://www.pct.edu,,,,,,,,p
 Pennsylvania Gunsmith School,PA,2-year,private_forprofit,https://pagunsmith.edu,,,,,,,,pending
 Pennsylvania Highlands Community College,PA,2-year,public,https://www.pennhighlands.edu,,,,,,,,pending
 Pennsylvania Institute of Technology,PA,4-year,private_nonprofit,https://www.pit.edu,,,,,,,,pending
-Pennsylvania State University-Main Campus,PA,4-year,public,https://www.psu.edu,Yes,First Day / Unizin Engage,Per-course (70% off pilot),Barnes & Noble,"Unizin Engage, BN",Fall 2017 pilot via Unizin; BN FDC expanded Spring 2018; OER initiative; 40-60% savings target,https://psu.edu/bookstore; https://bkstr.com/pennstatebookstore,done
+Pennsylvania State University-Main Campus,PA,4-year,public,https://www.psu.edu,yes,First Day / First Day Complete,Per-course IA; also World Campus free e-books; opt-out,Barnes & Noble College,BN First Day; Unizin Engage (pilot 2017),Piloted first-day access Fall 2017 with Unizin. Expanded to BN Spring 2018. World Campus free e-books.,https://psu.edu; https://bncollege.com/pennstate,done
 Pennsylvania State University-Penn State Abington,PA,4-year,public,https://www.abington.psu.edu,,,,,,,,pending
 Pennsylvania State University-Penn State Altoona,PA,4-year,public,https://altoona.psu.edu,,,,,,,,pending
 Pennsylvania State University-Penn State Beaver,PA,4-year,public,https://beaver.psu.edu,,,,,,,,pending
@@ -3650,7 +3650,7 @@ Studio Incamminati,PA,2-year,private_nonprofit,https://www.studioincamminati.edu
 Susquehanna University,PA,4-year,private_nonprofit,https://www.susqu.edu,,,,,,,,pending
 Swarthmore College,PA,4-year,private_nonprofit,https://www.swarthmore.edu,,,,,,,,pending
 Talmudical Yeshiva of Philadelphia,PA,4-year,private_nonprofit,https://www.meterware.com/typ/Talmudical_Yeshiva_of_Philadelphia/?C=N;O=D,,,,,,,,pending
-Temple University,PA,4-year,public,https://www.temple.edu,No,"TAP (anti-IA, OER focus)",Traditional + OER grants,Temple Bookstore,OER + various,Explicitly rejected IA (SPARC); Textbook Affordability Project since 2011; $1M+ saved via OER grants; anti-vendor-lock-in stance,https://temple.edu/tap; https://library.temple.edu/oer,done
+Temple University,PA,4-year,public,https://www.temple.edu,no,N/A (declined IA programs),Traditional purchase; professors may share free resources,Barnes & Noble College,Various; library digital copies,Library Dean Joe Lucia declined IA from publishers in 2019 citing vendor lock-in concerns. Profs share free codes.,https://temple.edu; https://sparcopen.org,done
 Thaddeus Stevens College of Technology,PA,2-year,public,https://stevenscollege.edu,,,,,,,,pending
 Theological Seminary of the Reformed Episcopal Church,PA,4-year,private_nonprofit,https://reseminary.edu,,,,,,,,pending
 Thiel College,PA,4-year,private_nonprofit,https://www.thiel.edu,,,,,,,,pending
@@ -3673,7 +3673,7 @@ University of Pennsylvania,PA,4-year,private_nonprofit,https://www.upenn.edu,Par
 University of Pittsburgh-Bradford,PA,4-year,public,https://www.upb.pitt.edu,,,,,,,,pending
 University of Pittsburgh-Greensburg,PA,4-year,public,https://www.greensburg.pitt.edu,,,,,,,,pending
 University of Pittsburgh-Johnstown,PA,4-year,public,https://www.upj.pitt.edu,,,,,,,,pending
-University of Pittsburgh-Pittsburgh Campus,PA,4-year,public,https://www.pitt.edu,Yes,Inclusive Access (RedShelf),"Per-course (PittPAY, opt-out Add/Drop)",University Store on Fifth,"RedShelf, various via Canvas",IA via RedShelf; Canvas delivery; PittPAY auto-charge; opt-out during Add/Drop; Pitt-Greensburg Bobcat Book Bundle separate,https://pitt.edu/bookstore; https://pittuniversitystore.com,done
+University of Pittsburgh-Pittsburgh Campus,PA,4-year,public,https://www.pitt.edu,yes,Inclusive Access (RedShelf),Course materials fee in PittPAY; auto-enrolled; opt-out during add/drop,University Store on Fifth / RedShelf,RedShelf; digital via Canvas,Discounted digital via Canvas. RedShelf platform. Pitt-Greensburg has Bobcat Book Bundle ($24.75/cr).,https://pittuniversitystore.com; https://pitt.edu,done
 University of Pittsburgh-Titusville,PA,2-year,public,https://www.titusville.pitt.edu/home,,,,,,,,pending
 University of Scranton,PA,4-year,private_nonprofit,https://www.scranton.edu,,,,,,,,pending
 University of Valley Forge,PA,4-year,private_nonprofit,https://www.valleyforge.edu,,,,,,,,pending
@@ -3823,11 +3823,11 @@ Charleston School of Law,SC,4-year,private_forprofit,https://www.charlestonlaw.e
 Charleston Southern University,SC,4-year,private_nonprofit,https://www.charlestonsouthern.edu,,,,,,,,pending
 Citadel Military College of South Carolina,SC,4-year,public,https://citadel.edu,,,,,,,,pending
 Claflin University,SC,4-year,private_nonprofit,https://www.claflin.edu,,,,,,,,pending
-Clemson University,SC,4-year,public,https://www.clemson.edu,Yes,First Day (BN),Per-course,Barnes & Noble,Various,BN First Day; Digital Textbook Manager on staff; SPARC discussion on IA implications; select courses,https://bncollege.com/clemson-first-day; https://clemson.edu,done
+Clemson University,SC,4-year,public,https://www.clemson.edu,yes,First Day (Barnes & Noble College),Course charge; per-course,Barnes & Noble College,BN First Day; OER; Textbook Lending,BN First Day. Also OER and Textbook Lending via library.,https://clemson.edu; https://bncollege.com/clemson,done
 Clinton College,SC,4-year,private_nonprofit,https://www.clintoncollege.edu,,,,,,,,pending
-Coastal Carolina University,SC,4-year,public,https://www.coastal.edu,Yes,First Day Complete (BN),Per-credit fee,Barnes & Noble (Chanticleer Store),Various via Moodle,BN FDC; per-credit fee; Moodle delivery; print rental+digital; auto-enrolled opt-out per semester; email material confirmation,https://coastal.edu/bookstore; https://bncollege.com/coastal-carolina,done
+Coastal Carolina University,SC,4-year,public,https://www.coastal.edu,yes,First Day Complete,Reduced cost rental; all required materials,Barnes & Noble College,BN First Day Complete; multiple,Started Fall 2022. Guarantees first-day access.,https://coastal.edu; https://bncollege.com/coastal,done
 Coker University,SC,4-year,private_nonprofit,https://coker.edu,,,,,,,,pending
-College of Charleston,SC,4-year,public,https://www.charleston.edu,Yes,Cougar Complete,$22/credit hour (eBill),Campus bookstore,Various,Cougar Complete since Fall 2023; $22/cr; auto-enrolled opt-out by add/drop; all required materials; UG degree-seeking,https://cofc.edu/cougar-complete; https://cofc.bkstr.com,done
+College of Charleston,SC,4-year,public,https://www.charleston.edu,yes,Cougar Complete,$22/credit hour; auto-enrolled; opt-out by Drop/Add,Barnes & Noble,BN First Day Complete; multiple,Fall 2023 launch. All undergrads auto-enrolled. $22/cr.,https://cofc.edu; https://charleston.edu,done
 Columbia College,SC,4-year,private_nonprofit,https://www.columbiasc.edu,,,,,,,,pending
 Columbia International University,SC,4-year,private_nonprofit,https://www.ciu.edu,,,,,,,,pending
 Converse University,SC,4-year,private_nonprofit,https://www.converse.edu,,,,,,,,pending
@@ -3838,12 +3838,12 @@ ECPI University-Greenville,SC,4-year,private_forprofit,https://www.ecpi.edu,,,,,
 Erskine College,SC,4-year,private_nonprofit,https://www.erskine.edu,,,,,,,,pending
 Florence-Darlington Technical College,SC,2-year,public,https://www.fdtc.edu,,,,,,,,pending
 Fortis College-Columbia,SC,2-year,private_forprofit,https://www.fortis.edu,,,,,,,,pending
-Francis Marion University,SC,4-year,public,https://www.fmarion.edu,,,,,,,,pending
-Furman University,SC,4-year,private_nonprofit,https://www.furman.edu,,,,,,,,pending
+Francis Marion University,SC,4-year,public,https://www.fmarion.edu,no,N/A,Traditional purchase; individual course codes,Independent,Various; some Perusall,No formal university-wide IA program.,https://fmarion.edu,done
+Furman University,SC,4-year,private_nonprofit,https://www.furman.edu,no,N/A,Traditional purchase; promotes OER,Independent,Various; OER,OER and affordability focus. No formal IA.,https://furman.edu,done
 Galen Health Institutes-Myrtle Beach,SC,2-year,private_forprofit,https://galencollege.edu/campuses/myrtle-beach,,,,,,,,pending
 Greenville Technical College,SC,4-year,public,https://www.gvltec.edu,,,,,,,,pending
 Horry-Georgetown Technical College,SC,2-year,public,https://www.hgtc.edu,,,,,,,,pending
-Lander University,SC,4-year,public,https://www.lander.edu,,,,,,,,pending
+Lander University,SC,4-year,public,https://www.lander.edu,no,N/A,Traditional purchase; some OER,Independent,Various; some OER,No formal IA program. Some OER materials.,https://lander.edu,done
 Limestone University,SC,4-year,private_nonprofit,https://www.limestone.edu,,,,,,,,pending
 Medical University of South Carolina,SC,4-year,public,https://web.musc.edu,,,,,,,,pending
 Midlands Technical College,SC,2-year,public,https://www.midlandstech.edu,,,,,,,,pending
@@ -3857,7 +3857,7 @@ Orangeburg Calhoun Technical College,SC,2-year,public,https://www.octech.edu,,,,
 Piedmont Technical College,SC,2-year,public,https://www.ptc.edu,,,,,,,,pending
 Presbyterian College,SC,4-year,private_nonprofit,https://www.presby.edu,,,,,,,,pending
 Sherman College of Chiropractic,SC,4-year,private_nonprofit,https://www.sherman.edu,,,,,,,,pending
-South Carolina State University,SC,4-year,public,https://scsu.edu,,,,,,,,pending
+South Carolina State University,SC,4-year,public,https://scsu.edu,no,N/A,Traditional purchase,Follett,Various,No formal IA. Blackboard opens 7 days before classes.,https://scsu.edu; https://bkstr.com/scsu,done
 South University-Columbia,SC,4-year,private_forprofit,"https://www.southuniversity.edu/columbia#location=Columbia, SC",,,,,,,,pending
 Southeastern College-Charleston,SC,2-year,private_forprofit,https://www.sec.edu,,,,,,,,pending
 Southeastern College-Columbia,SC,2-year,private_forprofit,https://www.sec.edu,,,,,,,,pending
@@ -3870,17 +3870,17 @@ Strayer University-South Carolina,SC,4-year,private_forprofit,https://www.straye
 Technical College of the Lowcountry,SC,2-year,public,https://www.tcl.edu,,,,,,,,pending
 Tri-County Technical College,SC,2-year,public,https://www.tctc.edu,,,,,,,,pending
 Trident Technical College,SC,2-year,public,https://www.tridenttech.edu,,,,,,,,pending
-University of South Carolina Aiken,SC,4-year,public,https://www.usca.edu,,,,,,,,pending
+University of South Carolina Aiken,SC,4-year,public,https://www.usca.edu,yes,Off-the-Shelf,$23/credit hour; on registration; FA eligible,Barnes & Noble College,BN First Day Complete; multiple,Auto-enrolled. $23/cr. Opt-out window. FA eligible.,https://usca.edu; https://bncollege.com/usca,done
 University of South Carolina Beaufort,SC,4-year,public,https://www.uscb.edu,,,,,,,,pending
 University of South Carolina-Columbia,SC,4-year,public,https://www.sc.edu,Yes,Inclusive Access / FDC (system-wide),Per-course / per-credit ($22-25/cr at branches),Barnes & Noble,Various via Blackboard,USC system IA; Lancaster FDC $25/cr; Salkehatchie IA; Upstate IA Blackboard; Aiken Off-the-Shelf $23/cr; opt-out; multi-campus,https://sc.edu/bookstore; https://bncollege.com/usc,done
 University of South Carolina-Lancaster,SC,2-year,public,https://www.sc.edu/about/system_and_campuses/lancaster/index.php,,,,,,,,pending
 University of South Carolina-Salkehatchie,SC,2-year,public,https://sc.edu/about/system_and_campuses/salkehatchie/index.php,,,,,,,,pending
 University of South Carolina-Sumter,SC,2-year,public,https://www.sc.edu/about/system_and_campuses/sumter/index.php,,,,,,,,pending
 University of South Carolina-Union,SC,2-year,public,https://www.sc.edu/about/system_and_campuses/union/index.php,,,,,,,,pending
-University of South Carolina-Upstate,SC,4-year,public,https://www.uscupstate.edu,,,,,,,,pending
+University of South Carolina-Upstate,SC,4-year,public,https://www.uscupstate.edu,yes,Inclusive Access,Cost on tuition bill; opt-out by deadline,Barnes & Noble College,Various; e-books/digital,E-books at reduced cost on first day. Opt-out.,https://uscupstate.edu,done
 Voorhees University,SC,4-year,private_nonprofit,https://www.voorhees.edu,,,,,,,,pending
 Williamsburg Technical College,SC,2-year,public,https://www.wiltech.edu,,,,,,,,pending
-Winthrop University,SC,4-year,public,https://www.winthrop.edu,,,,,,,,pending
+Winthrop University,SC,4-year,public,https://www.winthrop.edu,yes,First Day (Barnes & Noble College),Course charge; digital via LMS,Barnes & Noble College,BN First Day; digital via LMS,Digital materials as course charge via LMS.,https://winthrop.edu; https://bncollege.com/winthrop,done
 Wofford College,SC,4-year,private_nonprofit,https://www.wofford.edu,,,,,,,,pending
 York Technical College,SC,2-year,public,https://www.yorktech.edu,,,,,,,,pending
 Augustana University,SD,4-year,private_nonprofit,https://www.augie.edu,,,,,,,,pending
@@ -3907,10 +3907,10 @@ University of Sioux Falls,SD,4-year,private_nonprofit,https://www.usiouxfalls.ed
 University of South Dakota,SD,4-year,public,https://www.usd.edu,Yes,First Day Access (Board of Regents),Per-course (billed to account),USD Bookstore,Various via D2L,Board of Regents system-wide FDA; D2L delivery; auto-billed; opt-out by deadline,https://usd.bncollege.com; https://usd.edu,done
 Western Dakota Technical College,SD,2-year,public,https://www.wdt.edu,,,,,,,,pending
 American Baptist College,TN,4-year,private_nonprofit,https://www.abcnash.edu,,,,,,,,pending
-Austin Peay State University,TN,4-year,public,https://www.apsu.edu,,,,,,,,pending
+Austin Peay State University,TN,4-year,public,https://www.apsu.edu,yes,First Day (Barnes & Noble College),Additional course charge; opt-out available,Barnes & Noble College,BN First Day; digital via LMS,Piloted in 2019 to reduce textbook costs.,https://apsu.edu; https://bncollege.com/apsu,done
 Austin Presbyterian Theological Seminary- YMCA Outdoor Center,TN,4-year,private_nonprofit,https://www.austinseminary.edu,,,,,,,,pending
 Baptist Health Sciences University,TN,4-year,private_nonprofit,https://www.baptistu.edu,,,,,,,,pending
-Belmont University,TN,4-year,private_nonprofit,https://www.belmont.edu,,,,,,,,pending
+Belmont University,TN,4-year,private_nonprofit,https://www.belmont.edu,partial,Inclusive Access (select courses),Course materials delivery; some IA for specific courses,Independent/MBS,Various; IA for select courses,Bookstore ensures first-day delivery including dorm delivery. Some courses use IA.,https://belmont.edu; https://mbsbooks.com,done
 Bethel University,TN,4-year,private_nonprofit,https://www.bethelu.edu,,,,,,,,pending
 Bryan College-Dayton,TN,4-year,private_nonprofit,https://www.bryan.edu,,,,,,,,pending
 Carson-Newman University,TN,4-year,private_nonprofit,https://www.cn.edu,,,,,,,,pending
@@ -3923,7 +3923,7 @@ Columbia State Community College,TN,2-year,public,https://www.columbiastate.edu,
 Concorde Career College-Memphis,TN,2-year,private_forprofit,https://www.concorde.edu/campus/memphis-tennessee,,,,,,,,pending
 Cumberland University,TN,4-year,private_nonprofit,https://www.cumberland.edu,,,,,,,,pending
 Dyersburg State Community College,TN,2-year,public,https://www.dscc.edu,,,,,,,,pending
-East Tennessee State University,TN,4-year,public,https://www.etsu.edu,,,,,,,,pending
+East Tennessee State University,TN,4-year,public,https://www.etsu.edu,partial,Textbook Rental Program,Textbook rental through bookstore; no formal IA billing,Barnes & Noble (SBX),Various; traditional rental,No formal IA. Offers textbook rental through ETSU Bookstore and SBX/BN.,https://etsu.edu; https://bncollege.com/etsu,done
 Fisk University,TN,4-year,private_nonprofit,https://www.fisk.edu,,,,,,,,pending
 Fortis Institute-Cookeville,TN,2-year,private_forprofit,https://www.fortis.edu,,,,,,,,pending
 Fortis Institute-Nashville,TN,2-year,private_forprofit,https://www.fortis.edu,,,,,,,,pending
@@ -3939,17 +3939,17 @@ Johnson University,TN,4-year,private_nonprofit,https://johnsonu.edu,,,,,,,,pendi
 King University,TN,4-year,private_nonprofit,https://www.king.edu,,,,,,,,pending
 Lane College,TN,4-year,private_nonprofit,https://www.lanecollege.edu,,,,,,,,pending
 Le Moyne-Owen College,TN,4-year,private_nonprofit,https://www.loc.edu,,,,,,,,pending
-Lee University,TN,4-year,private_nonprofit,https://www.leeuniversity.edu,,,,,,,,pending
+Lee University,TN,4-year,private_nonprofit,https://www.leeuniversity.edu,yes,Lee U Book Bundle,Course charge; primarily e-books; opt-out available,Barnes & Noble College / BibliU,BibliU Universal Learning; BN,Partners with BibliU for electronic textbook delivery.,https://leeuniversity.edu; https://bkstr.com/leebookstore,done
 Lincoln College of Technology-Nashville,TN,2-year,private_forprofit,https://www.lincolntech.edu/campus/nashville-tn,,,,,,,,pending
 Lincoln Memorial University,TN,4-year,private_nonprofit,https://www.lmunet.edu,,,,,,,,pending
-Lipscomb University,TN,4-year,private_nonprofit,https://www.lipscomb.edu,,,,,,,,pending
-Maryville College,TN,4-year,private_nonprofit,https://www.maryvillecollege.edu,,,,,,,,pending
+Lipscomb University,TN,4-year,private_nonprofit,https://www.lipscomb.edu,yes,Inclusive Access (Pearson partnership),Course charge for digital materials via Pearson IA,Independent,Pearson Inclusive Access,Uses Pearson IA for first-day digital material delivery.,https://lipscomb.edu; https://pearson.com,done
+Maryville College,TN,4-year,private_nonprofit,https://www.maryvillecollege.edu,yes,Slingshot (auto-fulfillment),Auto-billed to student account; opt-out; rent or purchase,Independent,Various; auto-fulfillment,All new students auto-enrolled. Books auto-billed and delivered.,https://maryvillecollege.edu,done
 Meharry Medical College,TN,4-year,private_nonprofit,https://www.mmc.edu,,,,,,,,pending
 Memphis Theological Seminary,TN,4-year,private_nonprofit,https://www.memphisseminary.edu,,,,,,,,pending
 Meridian Institute of Surgical Assisting,TN,2-year,private_forprofit,https://www.meridian-institute.edu,,,,,,,,pending
 Mid-South Christian College,TN,4-year,private_nonprofit,https://www.midsouthchristian.edu,,,,,,,,pending
 Middle Tennessee School of Anesthesia Inc,TN,4-year,private_nonprofit,https://mtsa.edu,,,,,,,,pending
-Middle Tennessee State University,TN,4-year,public,https://www.mtsu.edu,,,,,,,,pending
+Middle Tennessee State University,TN,4-year,public,https://www.mtsu.edu,yes,First Day (Barnes & Noble College),Additional course charge; opt-out available,Barnes & Noble College,BN First Day; promotes OER,Digital materials via LMS. Also expanding OER program.,https://mtsu.edu; https://bncollege.com/mtsu,done
 Miller-Motte College-Chattanooga,TN,4-year,private_forprofit,https://www.miller-motte.edu,,,,,,,,pending
 Milligan University,TN,4-year,private_nonprofit,https://www.milligan.edu,,,,,,,,pending
 Motlow State Community College,TN,2-year,public,https://www.mscc.edu,,,,,,,,pending
@@ -4001,19 +4001,19 @@ Tennessee College of Applied Technology-Oneida-Huntsville,TN,2-year,public,https
 Tennessee College of Applied Technology-Pulaski,TN,2-year,public,https://www.tcatpulaski.edu,,,,,,,,pending
 Tennessee College of Applied Technology-Shelbyville,TN,2-year,public,https://www.tcatshelbyville.edu,,,,,,,,pending
 Tennessee College of Applied Technology-Upper Cumberland,TN,2-year,public,https://tcatuppercumberland.edu,,,,,,,,pending
-Tennessee State University,TN,4-year,public,https://www.tnstate.edu,,,,,,,,pending
-Tennessee Technological University,TN,4-year,public,https://www.tntech.edu,,,,,,,,pending
+Tennessee State University,TN,4-year,public,https://www.tnstate.edu,yes,Book Bundle / Campus-Wide Affordable Access,Flat rate fee on student account; digital-first,Follett,Follett Access; various,Targets 1st/2nd-year students for retention. Auto-enrolled with opt-out.,https://tnstate.edu; https://bkstr.com/tnstatebookstore,done
+Tennessee Technological University,TN,4-year,public,https://www.tntech.edu,partial,First Day programs (select courses),Digital items via First Day; per-course,Barnes & Noble College,BN First Day; various,First Day for digital items. Not all courses participate.,https://tntech.edu; https://bncollege.com/tntech,done
 Tennessee Wesleyan University,TN,4-year,private_nonprofit,https://www.tnwesleyan.edu,,,,,,,,pending
 The University of Tennessee Health Science Center,TN,4-year,public,https://www.uthsc.edu,,,,,,,,pending
 The University of Tennessee Southern,TN,4-year,public,https://www.utsouthern.edu,,,,,,,,pending
-The University of Tennessee-Chattanooga,TN,4-year,public,https://utc.edu,,,,,,,,pending
+The University of Tennessee-Chattanooga,TN,4-year,public,https://utc.edu,yes,First Day (Barnes & Noble College),Additional course charge; opt-out available,Barnes & Noble College,BN First Day; digital via Canvas,Digital materials via Canvas. Auto-enrolled with opt-out.,https://utc.edu; https://bncollege.com/utc,done
 The University of Tennessee-Knoxville,TN,4-year,public,https://www.utk.edu,Yes,Total Access (evolved from IA),Flat fee/term (UG),VolShop,Various via Canvas,Total Access flat fee for UG; Course Access per-course for grad; evolved from 2019 IA pilot; VolShop+UT Libraries; Canvas; opt-out,https://utk.bncollege.com; https://utk.edu,done
 The University of Tennessee-Martin,TN,4-year,public,https://www.utm.edu,,,,,,,,pending
 The University of the South,TN,4-year,private_nonprofit,https://www.sewanee.edu,,,,,,,,pending
 Trevecca Nazarene University,TN,4-year,private_nonprofit,https://www.trevecca.edu,,,,,,,,pending
 Tusculum University,TN,4-year,private_nonprofit,https://www.tusculum.edu,,,,,,,,pending
 Union University,TN,4-year,private_nonprofit,https://www.uu.edu,,,,,,,,pending
-University of Memphis,TN,4-year,public,https://www.memphis.edu,,,,,,,,pending
+University of Memphis,TN,4-year,public,https://www.memphis.edu,yes,Tigers SmartStart,Flat fee per credit hour; includes all textbooks/labs/codes/e-books,Barnes & Noble College,BN First Day Complete; multiple,For undergrads. Comprehensive bundle.,https://memphis.edu; https://bncollege.com/memphis,done
 Vanderbilt University,TN,4-year,private_nonprofit,https://www.vanderbilt.edu,No,N/A,Traditional,Vanderbilt Bookstore (Follett),Various,No formal IA program found; traditional bookstore purchasing,https://vanderbilt.bkstr.com; https://vanderbilt.edu,done
 Visible Music College,TN,4-year,private_nonprofit,https://www.visible.edu,,,,,,,,pending
 Volunteer State Community College,TN,2-year,public,https://www.volstate.edu,,,,,,,,pending
@@ -4164,7 +4164,7 @@ Remington College-Online Dallas,TX,4-year,private_nonprofit,https://www.remingto
 Rice University,TX,4-year,private_nonprofit,https://www.rice.edu,No,N/A (OpenStax OER),Free (OER),Rice Campus Store (Follett),OpenStax (free),OpenStax OER pioneer; no formal IA for Rice students; OER used by other institutions in their IA programs,https://rice.bkstr.com; https://rice.edu,done
 Rio Grande Valley College,TX,2-year,private_forprofit,https://www.rgvcollege.edu,,,,,,,,pending
 Saint Edward's University,TX,4-year,private_nonprofit,https://www.stedwards.edu,,,,,,,,pending
-Sam Houston State University,TX,4-year,public,https://www.shsu.edu,,,,,,,,pending
+Sam Houston State University,TX,4-year,public,https://www.shsu.edu,yes,Bearkat Bundle,Per-credit fee; auto-enrolled undergrads; opt-out; 35-50% savings,Barnes & Noble College,BN First Day Complete; multiple,"Custom BN First Day Complete. All textbooks, lab manuals, access codes, e-books. Auto-enrolled.",https://shsu.edu; https://bncollege.com/shsu,done
 San Antonio College,TX,4-year,public,https://www.alamo.edu/sac,,,,,,,,pending
 San Jacinto College-North Campus,TX,2-year,public,https://www.sanjac.edu,,,,,,,,pending
 San Jacinto College-South Campus,TX,2-year,public,https://www.sanjac.edu,,,,,,,,pending
@@ -4207,7 +4207,7 @@ Temple College,TX,2-year,public,https://www.templejc.edu,,,,,,,,pending
 Texarkana College,TX,2-year,public,https://www.texarkanacollege.edu,,,,,,,,pending
 Texas A & M International University,TX,4-year,public,https://www.tamiu.edu,,,,,,,,pending
 Texas A & M University Health Science Center,TX,4-year,public,https://health.tamu.edu,,,,,,,,pending
-Texas A & M University-Corpus Christi,TX,4-year,public,https://www.tamucc.edu,,,,,,,,pending
+Texas A & M University-Corpus Christi,TX,4-year,public,https://www.tamucc.edu,partial,Course-by-Course Affordable Access,Per-course; auto-enrolled; opt-out; up to 60% savings,Follett,Various; digital via LMS,No campus-wide IA. Offers ZTC courses. Considers 'inclusive access' a misnomer.,https://tamucc.edu; https://bkstr.com/tamucc,done
 Texas A&M University-Central Texas,TX,4-year,public,https://tamuct.edu,,,,,,,,pending
 Texas A&M University-College Station,TX,4-year,public,https://www.tamu.edu,,,,,,,,pending
 Texas A&M University-Kingsville,TX,4-year,public,https://www.tamuk.edu,,,,,,,,pending
@@ -4224,7 +4224,7 @@ Texas Southern University,TX,4-year,public,https://www.tsu.edu,,,,,,,,pending
 Texas Southmost College,TX,2-year,public,https://www.tsc.edu,,,,,,,,pending
 Texas State Technical College,TX,2-year,public,https://www.tstc.edu,,,,,,,,pending
 Texas State University,TX,4-year,public,https://www.txst.edu,,,,,,,,pending
-Texas Tech University,TX,4-year,public,https://www.ttu.edu,Yes,Inclusive Access (Raider Depot),Per-course (tuition add-on),Raider Depot Campus Store,Various,IA via Raider Depot; TTUHSC El Paso DDAC; OER promoted alongside; digital materials on tuition statement,https://ttu.bncollege.com; https://ttu.edu,done
+Texas Tech University,TX,4-year,public,https://www.ttu.edu,partial,Digital Direct Access Courses (DDAC),Course fee on tuition statement; per-course,BN College,Various; digital learning materials,DDAC cost added to tuition. Info on library website 30 days before. OER promoted.,https://ttu.edu; https://ttuhscep.edu,done
 Texas Tech University Health Sciences Center,TX,4-year,public,https://www.ttuhsc.edu,,,,,,,,pending
 Texas Tech University Health Sciences Center-El Paso,TX,4-year,public,https://elpaso.ttuhsc.edu,,,,,,,,pending
 Texas Wesleyan University,TX,4-year,private_nonprofit,https://www.txwes.edu,,,,,,,,pending
@@ -4248,7 +4248,7 @@ The University of Texas MD Anderson Cancer Center,TX,4-year,public,https://www.m
 The University of Texas Medical Branch at Galveston,TX,4-year,public,https://www.utmb.edu,,,,,,,,pending
 The University of Texas Permian Basin,TX,4-year,public,https://www.utpb.edu,,,,,,,,pending
 The University of Texas Rio Grande Valley,TX,4-year,public,https://www.utrgv.edu,,,,,,,,pending
-The University of Texas at Arlington,TX,4-year,public,https://www.uta.edu,,,,,,,,pending
+The University of Texas at Arlington,TX,4-year,public,https://www.uta.edu,partial,Course-by-Course Affordable Access + OER,Per-course IA; digital auto-billed; opt-out,Follett,Various; strong OER via UTA Libraries,IA explored since 2020. UT System day-one access model. Strong OER via libraries.,https://uta.edu; https://utsystem.edu; https://bkstr.com/uta,done
 The University of Texas at Austin,TX,4-year,public,https://www.utexas.edu,Yes,Longhorn Textbook Access (LTA),Per-course (What I Owe acct),University Co-op,Various via Canvas,"LTA; $5M+ saved; 1,238 courses 2024-25; Canvas delivery; University Co-op partner; opt-out by 12th class day",https://texasbook.com; https://utexas.edu,done
 The University of Texas at Dallas,TX,4-year,public,https://www.utdallas.edu,,,,,,,,pending
 The University of Texas at El Paso,TX,4-year,public,https://www.utep.edu,,,,,,,,pending
@@ -4266,7 +4266,7 @@ University of Houston-Clear Lake,TX,4-year,public,https://www.uhcl.edu,,,,,,,,pe
 University of Houston-Downtown,TX,4-year,public,https://www.uhd.edu,,,,,,,,pending
 University of Houston-Victoria,TX,4-year,public,https://uhv.edu,,,,,,,,pending
 University of Mary Hardin-Baylor,TX,4-year,private_nonprofit,https://go.umhb.edu,,,,,,,,pending
-University of North Texas,TX,4-year,public,https://www.unt.edu,,,,,,,,pending
+University of North Texas,TX,4-year,public,https://www.unt.edu,partial,Access Day One (AD1) pilot,Course fee; significantly less than market; pilot under review,BN College,BN First Day; various; OER via Open Textbook Network,2018-2019 pilot. Currently under review. Joined Open Textbook Network 2016.,https://unt.edu; https://bncollege.com/unt,done
 University of North Texas Health Science Center,TX,4-year,public,https://www.unthsc.edu,,,,,,,,pending
 University of North Texas at Dallas,TX,4-year,public,https://untdallas.edu,,,,,,,,pending
 University of Phoenix-Texas,TX,4-year,private_forprofit,https://www.phoenix.edu,,,,,,,,pending
@@ -4596,21 +4596,21 @@ Southwest Wisconsin Technical College,WI,2-year,public,https://www.swtc.edu,,,,,
 The Professional Hair Design Academy,WI,2-year,private_forprofit,https://phdacademy.edu,,,,,,,,pending
 The Salon Professional Academy-Appleton,WI,2-year,private_forprofit,https://www.tspaappleton.com,,,,,,,,pending
 The Salon Professional Academy-Onalaska,WI,2-year,private_forprofit,https://salonproacademy.com,,,,,,,,pending
-University of Wisconsin-Eau Claire,WI,4-year,public,https://www.uwec.edu,,,,,,,,pending
-University of Wisconsin-Green Bay,WI,4-year,public,https://www.uwgb.edu,,,,,,,,pending
-University of Wisconsin-La Crosse,WI,4-year,public,https://www.uwlax.edu,,,,,,,,pending
+University of Wisconsin-Eau Claire,WI,4-year,public,https://www.uwec.edu,yes,Textbook Rental (in tuition/fees),Rental as part of tuition/fees,Self-operated,Various; exploring IA,Textbook rental in tuition/fees. Attended UW System IA summit.,https://uwec.edu,done
+University of Wisconsin-Green Bay,WI,4-year,public,https://www.uwgb.edu,yes,Inclusive Access / Equitable Access,Cost in registration fee; opt-out available,Follett,Various; e-books via IA,Uses both IA and Equitable Access models.,https://uwgb.edu; https://bkstr.com/uwgb,done
+University of Wisconsin-La Crosse,WI,4-year,public,https://www.uwlax.edu,yes,Textbook Rental Program,Rental fee in tuition; undergrads,Self-operated,Various; digital via LMS,Long-standing rental for undergrads. Supplemental materials purchased separately.,https://uwlax.edu,done
 University of Wisconsin-Madison,WI,4-year,public,https://www.wisc.edu,Yes,Inclusive Access (Unizin Engage),Per-course (40-80% off),University Bookstore,Unizin Engage via Canvas,Unizin Engage platform; Canvas delivery; 40-80% off; lifetime access during enrollment; auto-billed; opt-out; student advocacy for optionality,https://uwbookstore.com; https://wisc.edu,done
-University of Wisconsin-Milwaukee,WI,4-year,public,https://uwm.edu,,,,,,,,pending
+University of Wisconsin-Milwaukee,WI,4-year,public,https://uwm.edu,yes,Inclusive Access / Day One,Cost added to tuition bill,Follett,Various; promotes OER,IA and Day One programs provide first-day digital access. Strong OER initiative.,https://uwm.edu; https://bkstr.com/uwmbookstore,done
 University of Wisconsin-Milwaukee Flex,WI,4-year,public,https://flex.wisconsin.edu,,,,,,,,pending
-University of Wisconsin-Oshkosh,WI,4-year,public,https://www.uwosh.edu,,,,,,,,pending
+University of Wisconsin-Oshkosh,WI,4-year,public,https://www.uwosh.edu,yes,Instant Access,Auto-billed; opt-out available,Follett,Various incl. McGraw-Hill Connect; Canvas,Digital textbooks via Canvas on first day.,https://uwosh.edu; https://bkstr.com/uwosh,done
 University of Wisconsin-Parkside,WI,4-year,public,https://www.uwp.edu,,,,,,,,pending
 University of Wisconsin-Parkside Flex,WI,4-year,public,https://flex.wisconsin.edu,,,,,,,,pending
-University of Wisconsin-Platteville,WI,4-year,public,https://www.uwplatt.edu,,,,,,,,pending
+University of Wisconsin-Platteville,WI,4-year,public,https://www.uwplatt.edu,yes,Textbook Rental + McGraw-Hill IA,Rental in fees; some McGraw-Hill IA at discount,Self-operated,Various; McGraw-Hill IA,Textbook rental in fees. Also offers McGraw-Hill IA.,https://uwplatt.edu,done
 University of Wisconsin-River Falls,WI,4-year,public,https://www.uwrf.edu,,,,,,,,pending
-University of Wisconsin-Stevens Point,WI,4-year,public,https://www.uwsp.edu,,,,,,,,pending
-University of Wisconsin-Stout,WI,4-year,public,https://www.uwstout.edu,,,,,,,,pending
+University of Wisconsin-Stevens Point,WI,4-year,public,https://www.uwsp.edu,yes,Text Rental Program,Rental fee in tuition; undergrads,Self-operated,Various; exploring IA for digital,Textbook rental in tuition. Exploring IA for digital content.,https://uwsp.edu,done
+University of Wisconsin-Stout,WI,4-year,public,https://www.uwstout.edu,yes,Textbook Affordability Program (100+ yr),Per-credit fee covers all materials,Self-operated,Various; strong OER,Over 100-year-old textbook rental tradition. Also uses OER.,https://uwstout.edu,done
 University of Wisconsin-Superior,WI,4-year,public,https://www.uwsuper.edu,,,,,,,,pending
-University of Wisconsin-Whitewater,WI,4-year,public,https://www.uww.edu,,,,,,,,pending
+University of Wisconsin-Whitewater,WI,4-year,public,https://www.uww.edu,yes,Textbook Rental (self-operated),Rental in tuition/fees,Self-operated,Various; exploring IA,Self-operated rental institution.,https://uww.edu,done
 VICI Beauty School,WI,2-year,private_forprofit,https://www.vicibeautyschool.com,,,,,,,,pending
 Viterbo University,WI,4-year,private_nonprofit,https://www.viterbo.edu,,,,,,,,pending
 Waukesha County Technical College,WI,2-year,public,https://www.wctc.edu,,,,,,,,pending
