@@ -149,8 +149,8 @@ Arizona State University - The Gila Valley,AZ,4-year,public,https://www.asu.edu,
 Arizona State University - Tucson,AZ,4-year,public,https://www.asu.edu,,,,,,,https://asusundevilbookstores.com/inclusive-access; https://asu.edu/academics/bookstore,pending
 Arizona State University - Yavapai,AZ,4-year,public,https://www.asu.edu,,,,,,,https://asusundevilbookstores.com/inclusive-access; https://asu.edu/academics/bookstore,pending
 Arizona State University - Yuma,AZ,4-year,public,https://www.asu.edu,,,,,,,https://asusundevilbookstores.com/inclusive-access; https://asu.edu/academics/bookstore,pending
-Arizona State University Campus Immersion,AZ,4-year,public,https://www.asu.edu,,,,,,,https://asusundevilbookstores.com/inclusive-access; https://asu.edu/academics/bookstore,pending
-Arizona State University Digital Immersion,AZ,4-year,public,https://www.asu.edu,,,,,,,https://asusundevilbookstores.com/inclusive-access; https://asu.edu/academics/bookstore,pending
+Arizona State University Campus Immersion,AZ,4-year,public,https://www.asu.edu,yes,Inclusive Access,Auto-charged after add/drop; discounted digital; opt-out,Follett,Various; digital via Canvas; access ~5 days before class,41%+ courses use IA. Auto-charged after add/drop if no opt-out. Digital via Canvas.,https://asu.edu; https://bkstr.com/asu,done
+Arizona State University Digital Immersion,AZ,4-year,public,https://www.asu.edu,yes,Inclusive Access,Auto-charged after add/drop; discounted digital; opt-out,Follett,Various; digital via Canvas,ASU Online IA program. Same model as campus immersion. 41%+ courses.,https://asu.edu; https://bkstr.com/asu,done
 Arizona State University-Downtown Phoenix,AZ,4-year,public,https://www.asu.edu,Yes,Inclusive Access (ASU system),Per-course discounted,ASU Bookstore (BN),"Pearson, McGraw Hill, Cengage, Wiley",ASU system IA,https://asusundevilbookstores.com/inclusive-access; https://asu.edu/academics/bookstore,done
 Arizona State University-Polytechnic,AZ,4-year,public,https://www.asu.edu,Yes,Inclusive Access (ASU system),Per-course discounted,ASU Bookstore (BN),"Pearson, McGraw Hill, Cengage, Wiley",ASU system IA,https://asusundevilbookstores.com/inclusive-access; https://asu.edu/academics/bookstore,done
 Arizona State University-West Valley,AZ,4-year,public,https://www.asu.edu,,,,,,,https://asusundevilbookstores.com/inclusive-access; https://asu.edu/academics/bookstore,pending
@@ -174,11 +174,11 @@ Crestpoint University,AZ,4-year,private_forprofit,https://www.crestpoint.edu,,,,
 DeVry University-Arizona,AZ,4-year,private_forprofit,https://www.devry.edu,,,,,,,,pending
 Dine College,AZ,4-year,public,https://www.dinecollege.edu,,,,,,,,pending
 Eastern Arizona College,AZ,2-year,public,https://www.eac.edu,Yes,Equitable Access (Akademos),Per-course + $500 charge program,Akademos,Various,Akademos partnership; $500 charge to student account with fin aid,https://eac.edu; https://bkstr.com,done
-Embry-Riddle Aeronautical University-Prescott,AZ,4-year,private_nonprofit,https://prescott.erau.edu,Yes,Inclusive Access,Per-course,ERAU Bookstore,"Macmillan, Cengage, Pearson","IA via LMS; Mastering Physics, MyLab Math access codes",https://erau.edu; https://bkstr.com/eraubookstore,done
+Embry-Riddle Aeronautical University-Prescott,AZ,4-year,private_nonprofit,https://prescott.erau.edu,yes,Inclusive Access,Via LMS; up to 60% savings; opt-out,Follett,Various; Pearson + Routledge; digital + physical via LMS,IA via Follett bookstore. Up to 60% savings. Materials via LMS on first day. Opt-out available.,https://erau.edu; https://bkstr.com/erau,done
 Estrella Mountain Community College,AZ,2-year,public,https://www.estrellamountain.edu,No (OER),Open Maricopa (ZTC/LTC/OER),Zero or <$40 LTC,Maricopa Bookstores,OER materials,Open Maricopa since 2013; $270M+ saved; ZTC/LTC/OER leader,https://estrellamountain.edu; https://bkstr.com/maricopabookstores,done
 GateWay Community College,AZ,4-year,public,https://www.gatewaycc.edu,No (OER),Open Maricopa (ZTC/LTC/OER),Zero or <$40 LTC,Maricopa Bookstores,OER materials,Open Maricopa since 2013; $270M+ saved; ZTC/LTC/OER leader,https://gatewaycc.edu; https://bkstr.com/maricopabookstores,done
 Glendale Community College,AZ,4-year,public,https://www.gccaz.edu,No (OER),Open Maricopa (ZTC/LTC/OER),Zero or <$40 LTC,Maricopa Bookstores,OER materials,Open Maricopa since 2013; $270M+ saved; ZTC/LTC/OER leader,https://bkstr.com/glendaleccbookstore,done
-Grand Canyon University,AZ,4-year,private_forprofit,https://www.gcu.edu,Yes,Inclusive Access + BibliU/Webbooks,Per-course (billed with tuition),GCU Campus Store,"BibliU, GCU Webbooks, Evolve/Pageburst, W.W. Norton",Digital-first; +$ in registration; opt-out; some GCU-created Webbooks,https://gcu.edu; https://bkstr.com/gcubookstore,done
+Grand Canyon University,AZ,4-year,private_forprofit,https://www.gcu.edu,yes,Digital Textbook Access (BibliU),Digital access via Halo classroom; e-book fee for some courses,BibliU platform,Various; digital via BibliU + Microsoft login; Halo classroom,Digital textbooks via BibliU platform accessible through Halo classroom. Not formally named 'Inclusive Access' but functionally similar.,https://gcu.edu; https://bibliu.com,done
 Indian Bible College,AZ,4-year,private_nonprofit,https://www.indianbible.org,,,,,,,,pending
 International Baptist College and Seminary,AZ,4-year,private_nonprofit,https://www.ibcs.edu,,,,,,,,pending
 Jersey College - Tucson,AZ,2-year,private_forprofit,https://www.jerseycollege.edu/campuses/arizona/tucson-az,,,,,,,,pending
@@ -187,7 +187,7 @@ Mesa Community College,AZ,2-year,public,https://www.mesacc.edu,No (OER),Open Mar
 Midwestern University-Glendale,AZ,4-year,private_nonprofit,https://www.midwestern.edu,,,,,,,,pending
 Miller-Motte College-Arizona Automotive Institute,AZ,2-year,private_forprofit,https://www.aai.edu,,,,,,,,pending
 Mohave Community College,AZ,2-year,public,https://www.mohave.edu,Partial,Cengage subscription,Subscription,MCC Bookstore,Cengage,Cengage subscriptions; no formal college-wide IA,https://mohave.edu; https://bkstr.com,done
-Northern Arizona University,AZ,4-year,public,https://nau.edu,Yes,Inclusive Access (Access Program),Per-course discounted,NAU Bookstore (BN),"Pearson, McGraw Hill, Cengage, BVT Publishing",IA growing; Library OER tensions; bookstore Access Program,https://bkstr.com/naubookstore/follett-access; https://nau.edu,done
+Northern Arizona University,AZ,4-year,public,https://nau.edu,yes,Follett Access (Equitable Access),Auto-enrolled; up to 60% savings; digital via LMS; opt-out,Follett,Various; digital via LMS,Follett Access equitable access model. Up to 60% savings. Digital via LMS. Auto-enrolled. Opt-out.,https://nau.edu; https://bkstr.com/nau,done
 Northland Pioneer College,AZ,2-year,public,https://www.npc.edu,,,,,,,,pending
 Ottawa University-Surprise,AZ,4-year,private_nonprofit,https://www.ottawa.edu/ouaz/home,,,,,,,,pending
 Paradise Valley Community College,AZ,4-year,public,https://www.paradisevalley.edu,No (OER),Open Maricopa (ZTC/LTC/OER),Zero or <$40 LTC,Maricopa Bookstores,OER materials,Open Maricopa since 2013; $270M+ saved; ZTC/LTC/OER leader,https://pvc.edu; https://bkstr.com/maricopabookstores,done
@@ -214,7 +214,7 @@ Tohono O'odham Community College,AZ,2-year,public,https://www.tocc.edu,,,,,,,,pe
 Universal Technical Institute of Arizona Inc,AZ,2-year,private_forprofit,https://www.uti.edu,,,,,,,,pending
 Universal Technical Institute-Phoenix,AZ,2-year,private_forprofit,https://www.uti.edu,,,,,,,,pending
 University of Advancing Technology,AZ,4-year,private_forprofit,https://www.uat.edu,,,,,,,,pending
-University of Arizona,AZ,4-year,public,https://www.arizona.edu,Yes,Pay One Price + Inclusive Access,$275/term flat (undergrad); per-course IA (grad/online),UA Campus Store,"VitalSource, Pearson, McGraw Hill, Cengage, Wiley",Pay One Price for main campus undergrad; IA for others; Library promotes OER; up to 60% savings,https://arizona.edu/pay-one-price; https://arizona.edu/inclusive-access,done
+University of Arizona,AZ,4-year,public,https://www.arizona.edu,yes,Inclusive Access + Pay One Price,"IA: opt-out, up to 60% savings. Pay One Price: $275/sem flat rate for undergrads",University bookstore,Various; digital via Brightspace,"Two programs: course-level IA (opt-out, 60% savings) + Pay One Price $275/sem flat rate for all undergrads.",https://arizona.edu,done
 University of Phoenix-Arizona,AZ,4-year,private_forprofit,https://www.phoenix.edu,Yes,Digital Course Materials (BibliU),"Bundled with tuition (~$1,416/yr)",UoP Online Bookstore (BN),"BibliU (100K students), various",One of largest digital textbook programs in US; digital-first via LMS,https://phoenix.edu,done
 Western Maricopa Education Center,AZ,2-year,public,https://www.west-mec.edu/adult-students,,,,,,,,pending
 Yavapai College,AZ,4-year,public,https://www.yc.edu,Partial,Z-classes (OER) + Access Program,Zero (OER) or per-course,YC Bookstore (BN),OER + select publisher IA,Z-classes/Z-degrees (zero cost); OER regional leader,https://yc.edu; https://bkstr.com/yavapaibookstore,done
@@ -713,11 +713,11 @@ Colorado College,CO,4-year,private_nonprofit,https://www.coloradocollege.edu,,,,
 Colorado Mesa University,CO,4-year,public,https://www.coloradomesa.edu,,,,,,,,pending
 Colorado Mountain College,CO,4-year,public,https://coloradomtn.edu,,,,,,,,pending
 Colorado Northwestern Community College,CO,2-year,public,https://www.cncc.edu,,,,,,,,pending
-Colorado School of Mines,CO,4-year,public,https://www.mines.edu,Yes,Inclusive Access (Textbook Brokers),Per-course (student acct charge),Textbook Brokers (Oredigger Outfitters),Various via LMS,IA via Textbook Brokers; LMS delivery; student acct charge; opt-out available; reduced cost digital materials,https://mines.edu/bookstore; https://orediggeroutfitters.com,done
+Colorado School of Mines,CO,4-year,public,https://www.mines.edu,yes,Inclusive Access,Added to tuition/course fees; digital; auto-enrolled,Oredigger Outfitters + Textbook Brokers partnership,Various; digital via LMS; rental + IA textbook program,IA via Oredigger Outfitters. Recently partnered with Textbook Brokers for expanded rental + IA program.,https://orediggeroutfitters.com; https://minesnewsroom.com,done
 Colorado School of Trades,CO,2-year,private_forprofit,https://schooloftrades.edu,,,,,,,,pending
 Colorado State University Global,CO,4-year,public,https://csuglobal.edu,,,,,,,,pending
 Colorado State University Pueblo,CO,4-year,public,https://www.csupueblo.edu,,,,,,,,pending
-Colorado State University-Fort Collins,CO,4-year,public,https://colostate.edu,Yes,Day One Access (fka Inclusive Access),Per-course (auto-charged),CSU Bookstore,Various via LMS,Day One Access (renamed from IA); auto digital delivery; student acct charge; opt-out before add/drop; millions saved annually,https://bkstr.com/colostatebookstore; https://colostate.edu,done
+Colorado State University-Fort Collins,CO,4-year,public,https://colostate.edu,yes,Day One Access (formerly Inclusive Access),Auto-enrolled; digital; opt-out; reduced cost,University bookstore,Various; digital courseware via LMS,Day One Access (renamed from Inclusive Access). Physical→digital conversion. Auto-enrolled. Opt-out.,https://colostate.edu,done
 Colorado Technical University-Colorado Springs,CO,4-year,private_forprofit,https://www.coloradotech.edu/Colorado-Springs,,,,,,,,pending
 Colorado Technical University-Denver South,CO,4-year,private_forprofit,https://www.coloradotech.edu/Denver,,,,,,,,pending
 Columbia College - Denver,CO,4-year,private_nonprofit,https://www.ccis.edu/locations/denver,,,,,,,,pending
@@ -759,11 +759,11 @@ Spartan College of Aeronautics and Technology,CO,2-year,private_forprofit,https:
 Taft University System,CO,4-year,private_forprofit,https://www.taftu.edu,,,,,,,,pending
 Trinidad State College,CO,4-year,public,https://www.trinidadstate.edu,,,,,,,,pending
 United States Air Force Academy,CO,4-year,public,https://www.usafa.edu,,,,,,,,pending
-University of Colorado Boulder,CO,4-year,public,https://www.colorado.edu,Yes,CU Book Access (Equitable Access),$259/sem flat-rate UG,CU Book Store,Various via Canvas,CU Book Access since Fall 2023; $259/sem flat-rate UG; cascading access model (equitable+IA); Canvas delivery; opt-out by drop deadline; digital-first+print pickup,https://cubookstore.com/cu-book-access; https://colorado.edu,done
+University of Colorado Boulder,CO,4-year,public,https://www.colorado.edu,yes,CU Book Access,$259/sem (+tax) flat rate for fall/spring; undergrads auto-enrolled,CU Bookstore,Various; primarily digital via Canvas,CU Book Access: flat $259/sem for 2025-26. Degree-seeking undergrads auto-enrolled. Digital via Canvas.,https://cubookstore.com; https://colorado.edu,done
 University of Colorado Colorado Springs,CO,4-year,public,https://www.uccs.edu,,,,,,,,pending
 University of Colorado Denver/Anschutz Medical Campus,CO,4-year,public,https://www.ucdenver.edu,,,,,,,,pending
-University of Denver,CO,4-year,private_nonprofit,https://www.du.edu,Yes,First Day (Follett/BN),Per-course (tuition bill),Barnes & Noble / Follett,Various,First Day program; tuition-billed; Follett FDC partnership; auto-billing; faculty book adoption deadlines emphasized,https://du.edu/bookstore; https://bkstr.com/dubookstore,done
-University of Northern Colorado,CO,4-year,public,https://www.unco.edu,,,,,,,,pending
+University of Denver,CO,4-year,private_nonprofit,https://www.du.edu,no,N/A,Traditional purchase,Barnes & Noble College,Various,No formal IA. Focus on inclusive teaching practices. Common reading initiative for first-years.,https://du.edu; https://bncollege.com,done
+University of Northern Colorado,CO,4-year,public,https://www.unco.edu,no,N/A (OER supported),Traditional; sales + rentals + price matching + buyback,UNC Bookstore,Various; OER supported,No formal IA. Traditional bookstore services. OER encouraged for low/no-cost materials.,https://unco.edu,done
 Western Colorado University,CO,4-year,public,https://www.western.edu,,,,,,,,pending
 Albertus Magnus College,CT,4-year,private_nonprofit,https://www.albertus.edu,,,,,,,,pending
 American Institute of Healthcare & Technology,CT,2-year,private_forprofit,https://www.aiht.edu,,,,,,,,pending
@@ -3367,15 +3367,15 @@ Northwestern Oklahoma State University,OK,4-year,public,https://www.nwosu.edu,,,
 Oklahoma Baptist University,OK,4-year,private_nonprofit,https://www.okbu.edu,,,,,,,,pending
 Oklahoma Christian University,OK,4-year,private_nonprofit,https://www.oc.edu,,,,,,,,pending
 Oklahoma City Community College,OK,2-year,public,https://www.occc.edu,,,,,,,,pending
-Oklahoma City University,OK,4-year,private_nonprofit,https://www.okcu.edu,,,,,,,,pending
+Oklahoma City University,OK,4-year,private_nonprofit,https://www.okcu.edu,yes,Materials Delivery Program,Charged to student account; shipped pre-class; opt-out/return,University bookstore,Various; books + supplies shipped directly,Not formally named IA but functionally similar. Materials shipped to dorm rooms before classes. Opt-out/return available.,https://okcu.edu,done
 Oklahoma Panhandle State University,OK,4-year,public,https://opsu.edu,,,,,,,,pending
 Oklahoma State University Center for Health Sciences,OK,4-year,public,https://medicine.okstate.edu,,,,,,,,pending
 Oklahoma State University Institute of Technology,OK,4-year,public,https://osuit.edu,,,,,,,,pending
-Oklahoma State University-Main Campus,OK,4-year,public,https://www.okstate.edu,Yes,Inclusive Access / Direct Bill,Per-course (up to 65% off),OSU University Store,Various,IA via University Store; up to 65% off printed; OSUIT flat-rate campus-wide; opt-out,https://osu.bncollege.com; https://okstate.edu,done
+Oklahoma State University-Main Campus,OK,4-year,public,https://www.okstate.edu,yes,Inclusive Access,Significantly reduced price; digital from first day; opt-out,University Store,Various; digital via LMS,IA via University Store. Significantly reduced price. Digital from day one. OSUIT has flat-rate Textbook Affordability Program.,https://okstate.edu,done
 Oklahoma State University-Oklahoma City,OK,4-year,public,https://osuokc.edu,,,,,,,,pending
 Oklahoma Technical College,OK,2-year,private_nonprofit,https://www.oklahomatechnicalcollege.com,,,,,,,,pending
 Oklahoma Wesleyan University,OK,4-year,private_nonprofit,https://www.okwu.edu,,,,,,,,pending
-Oral Roberts University,OK,4-year,private_nonprofit,https://oru.edu,,,,,,,,pending
+Oral Roberts University,OK,4-year,private_nonprofit,https://oru.edu,yes,ORU Course+ / First Day,Lower cost; guaranteed access by first day,Barnes & Noble College,BN First Day; various,ORU Course+ lowers material costs. BN First Day inclusive access model.,https://oru.edu; https://bncollege.com/oru,done
 Phillips Theological Seminary,OK,4-year,private_nonprofit,https://www.ptstulsa.edu,,,,,,,,pending
 Randall University,OK,4-year,private_nonprofit,https://www.ru.edu,,,,,,,,pending
 Redlands Community College,OK,2-year,public,https://www.redlandscc.edu,,,,,,,,pending
@@ -3392,9 +3392,9 @@ Tulsa Technology Center,OK,2-year,public,https://tulsatech.edu,,,,,,,,pending
 Tulsa Welding School-Tulsa,OK,2-year,private_forprofit,https://www.tws.edu,,,,,,,,pending
 University of Central Oklahoma,OK,4-year,public,https://www.uco.edu,,,,,,,,pending
 University of Oklahoma-Health Sciences Center,OK,4-year,public,https://ouhsc.edu,,,,,,,,pending
-University of Oklahoma-Norman Campus,OK,4-year,public,https://www.ou.edu,Yes,Inclusive Access (Textbook Brokers),Per-course (auto-billed),Textbook Brokers / OU Bookstore,Various via Canvas,IA via Canvas; Textbook Brokers partnership; some courses (ENGL 1113); opt-out,https://ou.bncollege.com; https://ou.edu,done
+University of Oklahoma-Norman Campus,OK,4-year,public,https://www.ou.edu,yes,Inclusive Access + ACMI,Discounted digital via Canvas; auto-charged; opt-out,Soonerbooks + Textbook Brokers,Various; digital via Canvas; OER via ACMI,IA w/ Soonerbooks + publishers. Plus ACMI for OER adoption. Textbook rental program also available.,https://ou.edu; https://textbookbrokers.com,done
 University of Science and Arts of Oklahoma,OK,4-year,public,https://usao.edu,,,,,,,,pending
-University of Tulsa,OK,4-year,private_nonprofit,https://utulsa.edu,,,,,,,,pending
+University of Tulsa,OK,4-year,private_nonprofit,https://utulsa.edu,yes,Total Access Program / Undergrad Textbook Program,Required textbooks at no cost to all undergrads,Follett,Various; digital + physical,Remarkable: free required textbooks for ALL undergrads. Total Access Program. Digital + physical materials.,https://utulsa.edu; https://bkstr.com/utulsa,done
 Western Oklahoma State College,OK,2-year,public,https://www.wosc.edu,,,,,,,,pending
 American College of Healthcare Sciences,OR,4-year,private_forprofit,https://www.achs.edu,,,,,,,,pending
 Aveda Institute-Portland,OR,2-year,private_forprofit,https://avedapdx.com,,,,,,,,pending
