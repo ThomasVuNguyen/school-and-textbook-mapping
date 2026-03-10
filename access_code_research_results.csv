@@ -769,7 +769,7 @@ Albertus Magnus College,CT,4-year,private_nonprofit,https://www.albertus.edu,,,,
 American Institute of Healthcare & Technology,CT,2-year,private_forprofit,https://www.aiht.edu,,,,,,,,pending
 American Institute-West Hartford,CT,2-year,private_forprofit,https://americaninstitute.edu,,,,,,,,pending
 CT Aerotech,CT,2-year,public,https://ctaero.cttech.org,,,,,,,,pending
-Central Connecticut State University,CT,4-year,public,https://www.ccsu.edu,Proposed,CSCU Equitable Access (proposed),$18.75/credit (proposed),Barnes & Noble (proposed),Various,BOR proposed then reconsidered; student/staff opposition; NoLo CC initiative,https://ccsu.bncollege.com; https://ccsu.edu,done
+Central Connecticut State University,CT,4-year,public,https://www.ccsu.edu,yes,First Day Complete (CSCU system),Per credit hour or course fee; auto-enrolled; opt-out,Barnes & Noble College,BN First Day Complete; textbooks + digital,Part of CSCU system adoption of BN First Day Complete. Auto-enrolled. Opt-out available.,https://ccsu.edu; https://bncollege.com,done
 Charter Oak State College,CT,4-year,public,https://www.charteroak.edu,,,,,,,,pending
 Connecticut Aero Tech  School,CT,2-year,public,https://ctaero.cttech.org,,,,,,,,pending
 Connecticut College,CT,4-year,private_nonprofit,https://www.conncoll.edu,,,,,,,,pending
@@ -786,16 +786,16 @@ Lincoln Technical Institute-Shelton,CT,2-year,private_forprofit,https://www.linc
 Mitchell College,CT,4-year,private_nonprofit,https://www.mitchell.edu,,,,,,,,pending
 Paier College,CT,4-year,private_forprofit,https://www.paier.edu,,,,,,,,pending
 Post University,CT,4-year,private_forprofit,https://www.post.edu,,,,,,,,pending
-Quinnipiac University,CT,4-year,private_nonprofit,https://www.qu.edu,,,,,,,,pending
+Quinnipiac University,CT,4-year,private_nonprofit,https://www.qu.edu,no,N/A,Traditional; rentals + digital available,Follett,Various; McGraw Hill products used; rentals + digital via LMS,No formal university-wide IA. Bookstore offers rentals and digital. Uses McGraw Hill products.,https://quinnipiac.edu; https://bkstr.com/quinnipiac,done
 Relay Graduate School of Education - Connecticut,CT,4-year,private_nonprofit,https://relay.edu/location/relay-connecticut,,,,,,,,pending
 Rensselaer at Hartford,CT,4-year,private_nonprofit,https://ewp.rpi.edu/index.html,,,,,,,,pending
-Sacred Heart University,CT,4-year,private_nonprofit,https://www.sacredheart.edu,,,,,,,,pending
+Sacred Heart University,CT,4-year,private_nonprofit,https://www.sacredheart.edu,no,N/A,Traditional purchase,University bookstore,Various; OER discussions ongoing,No formal IA program. General discussions about OER and textbook affordability.,https://sacredheart.edu,done
 Southern Connecticut State University,CT,4-year,public,https://www.southernct.edu,Proposed,CSCU Equitable Access (proposed),$18.75/credit (proposed),Barnes & Noble (proposed),Various,Part of CSCU system proposal; faced opposition; reconsidered,https://scsu.bncollege.com; https://southernct.edu,done
 Stratford School for Aviation Maintenance Technicians,CT,2-year,public,https://ssamt.cttech.org,,,,,,,,pending
 Trinity College,CT,4-year,private_nonprofit,https://www.trincoll.edu,Yes,First Day (BN),Per-course charge,Barnes & Noble,Various,BN First Day; digital materials via LMS; opt for loose-leaf physical,https://bkstr.com/trinitybookstore; https://trincoll.edu,done
 United States Coast Guard Academy,CT,4-year,public,https://www.uscga.edu,,,,,,,,pending
 University of Bridgeport,CT,4-year,private_nonprofit,https://www.bridgeport.edu,,,,,,,,pending
-University of Connecticut,CT,4-year,public,https://uconn.edu,Yes,Husky Book Bundle,$285/sem flat-rate UG,Barnes & Noble,Various via HuskyCT,Husky Book Bundle; $285/sem flat-rate UG; auto-enrolled opt-out; HuskyCT delivery; print rental+digital; opt-out by drop deadline,https://uconn.bncollege.com/husky-book-bundle; https://uconn.edu,done
+University of Connecticut,CT,4-year,public,https://uconn.edu,yes,Husky Book Bundle,Added to university fee bill; reduced price; opt-out available,Barnes & Noble Education,Various; reduced-price course materials,Husky Book Bundle: reduced price materials. Added to fee bill. Opt-out available. Partnership w/ BNED.,https://uconn.edu; https://bned.com,done
 University of Connecticut-Avery Point,CT,4-year,public,https://averypoint.uconn.edu,,,,,,,,pending
 University of Connecticut-Hartford Campus,CT,4-year,public,https://hartford.uconn.edu,,,,,,,,pending
 University of Connecticut-Stamford,CT,4-year,public,https://stamford.uconn.edu,,,,,,,,pending
@@ -804,7 +804,7 @@ University of Hartford,CT,4-year,private_nonprofit,https://www.hartford.edu,Yes,
 University of New Haven,CT,4-year,private_nonprofit,https://www.newhaven.edu,,,,,,,,pending
 University of Saint Joseph,CT,4-year,private_nonprofit,https://www.usj.edu,,,,,,,,pending
 Wesleyan University,CT,4-year,private_nonprofit,https://www.wesleyan.edu,Unknown,N/A,Traditional,Wesleyan Bookstore,Various,Faculty discussions on IA underway; no confirmed program,https://wesleyan.bkstr.com; https://wesleyan.edu,done
-Western Connecticut State University,CT,4-year,public,https://www.wcsu.edu,Proposed,CSCU Equitable Access (proposed),$18.75/credit (proposed),Barnes & Noble (proposed),Various,Part of CSCU system proposal,https://wcsu.bncollege.com; https://wcsu.edu,done
+Western Connecticut State University,CT,4-year,public,https://www.wcsu.edu,yes,Inclusive Access (CSCU system),Bookstore inclusive access model; opt-out,University bookstore,Various via bookstore IA,Part of CSCU system. Inclusive access with bookstore. Details via CSCU governance discussions.,https://wcsu.edu,done
 Yale University,CT,4-year,private_nonprofit,https://www.yale.edu,No,No formal IA,Traditional purchase,Yale Bookstore (BN),Various,No university-wide IA; traditional bookstore purchasing; YUP provided free ebook access during COVID 2020,https://yale.edu/bookstore; https://yalebooks.yale.edu,done
 American University,DC,4-year,private_nonprofit,https://www.american.edu,Yes,Eagle Access,Per-course (tuition bill),Follett,Various via Canvas,Follett; up to 60% off; auto-enrolled; opt-out by add/drop,https://american.bncollege.com; https://american.edu,done
 Arizona State University - Washington D.C.,DC,4-year,public,https://www.asu.edu,,,,,,,https://asusundevilbookstores.com/inclusive-access; https://asu.edu/academics/bookstore,pending
@@ -1520,7 +1520,7 @@ Anabaptist Mennonite Biblical Seminary,IN,4-year,private_nonprofit,https://www.a
 Anderson University,IN,4-year,private_nonprofit,https://anderson.edu,,,,,,,,pending
 Art22 Academy,IN,2-year,private_forprofit,https://art22academy.com,,,,,,,,pending
 Aviation Institute of Maintenance-Indianapolis,IN,2-year,private_forprofit,https://aviationmaintenance.edu/campuses/indianapolis-in,,,,,,,,pending
-Ball State University,IN,4-year,public,https://www.bsu.edu,Yes,"Ball State First Day (BN, Fall 2025)",$22.75/credit hour ($273/12cr),Barnes & Noble,Various,BN First Day launching Fall 2025; $22.75/cr; auto-enrolled; opt-out; TABS (2023) per-course predecessor; textbooks+ebooks+lab manuals,https://bsu.bncollege.com; https://bsu.edu,done
+Ball State University,IN,4-year,public,https://www.bsu.edu,yes,First Day + TABS Initiative,Flat rate per credit hour; auto-enrolled; opt-out; $40 cap per course (TABS),Barnes & Noble College,BN First Day; digital + physical formats,BN First Day IA. TABS initiative caps materials at $40/course. Flat rate per credit hour.,https://bsu.edu; https://bncollege.com/bsu,done
 Bethany Theological Seminary,IN,4-year,private_nonprofit,https://www.bethanyseminary.edu,,,,,,,,pending
 Bethel University,IN,4-year,private_nonprofit,https://betheluniversity.edu,,,,,,,,pending
 Butler University,IN,4-year,private_nonprofit,https://www.butler.edu,No,No formal IA,Traditional (charge to acct),Butler Bookstore,Various,No formal IA; students can charge books to acct; PALNI PALSave OER grant addressing IA; no campus-wide program,https://butler.bkstr.com; https://butler.edu,done
@@ -1542,10 +1542,10 @@ Horizon University,IN,4-year,private_nonprofit,https://www.horizonuniversity.edu
 Huntington University,IN,4-year,private_nonprofit,https://www.huntington.edu,,,,,,,,pending
 Indiana Institute of Technology,IN,4-year,private_nonprofit,https://www.indianatech.edu,,,,,,,,pending
 Indiana Institute of Technology-College of Professional Studies,IN,4-year,private_nonprofit,https://cps.indianatech.edu,,,,,,,,pending
-Indiana State University,IN,4-year,public,https://indianastate.edu,,,,,,,,pending
+Indiana State University,IN,4-year,public,https://indianastate.edu,no,N/A,Traditional purchase via bookstore,University bookstore,Various,No formal IA program found.,https://indstate.edu,done
 Indiana University-Bloomington,IN,4-year,public,https://bloomington.iu.edu,Yes,IU eText Program,Per-course (up to 90% off),IU Bookstore,Various via Canvas (Unizin),"IU eText since 2009 pilot, expanded all IU campuses 2012; up to 90% off retail; Canvas delivery; Bursar billed; faculty-driven; OER fellowship also",https://iubookstore.com; https://iu.edu,done
 Indiana University-East,IN,4-year,public,https://east.iu.edu,,,,,,,,pending
-Indiana University-Indianapolis,IN,4-year,public,https://indianapolis.iu.edu,,,,,,,,pending
+Indiana University-Indianapolis,IN,4-year,public,https://indianapolis.iu.edu,yes,IU e-Text Program (Inclusive Access),Day-one digital access; opt-out if same ISBN available elsewhere,Unizin / IU system,Various; digital eBooks via Canvas/Unizin,"IU e-Text since 2009, all campuses by 2012. Faculty-driven. Saved students millions. Opt-out if same ISBN available.",https://iu.edu; https://unizin.org,done
 Indiana University-Kokomo,IN,4-year,public,https://kokomo.iu.edu,,,,,,,,pending
 Indiana University-Northwest,IN,4-year,public,https://northwest.iu.edu,,,,,,,,pending
 Indiana University-South Bend,IN,4-year,public,https://southbend.iu.edu,,,,,,,,pending
@@ -1595,7 +1595,7 @@ Purdue University - Purdue Polytechnic Vincennes,IN,4-year,public,https://polyte
 Purdue University - Westgate Academy,IN,4-year,public,,,,,,,,,pending
 Purdue University Fort Wayne,IN,4-year,public,https://www.pfw.edu,Yes,Instructional Materials Access,Fee in student fees,Follett,Various,PFW Follett; costs in student fees,https://pfw.bncollege.com; https://pfw.edu,done
 Purdue University Global,IN,4-year,public,https://www.purdueglobal.edu,,,,,,,,pending
-Purdue University Northwest,IN,4-year,public,https://www.pnw.edu,,,,,,,,pending
+Purdue University Northwest,IN,4-year,public,https://www.pnw.edu,yes,Instructional Materials Access,Single flat fee campus-wide; auto-enrolled; opt-out,Follett,Various; all required course materials covered,Campus-wide since Fall 2023. Single flat fee covers all required materials. Auto-enrolled. Opt-out available.,https://pnw.edu; https://bkstr.com/pnw,done
 Purdue University-Main Campus,IN,4-year,public,https://www.purdue.edu,Partial,Some McGraw-Hill IA courses,Per-course (some courses),Purdue Bookstore,"McGraw-Hill, various",No universal IA at West Lafayette; PNW/PFW have Follett IA (Fall 2023); some courses use MH IA; textbook listing via ECN,https://purdue.bncollege.com; https://purdue.edu,done
 Relay Graduate School of Education - Indiana,IN,4-year,private_nonprofit,https://relay.edu/location/relay-indianapolis,,,,,,,,pending
 Rose-Hulman Institute of Technology,IN,4-year,private_nonprofit,https://www.rose-hulman.edu,,,,,,,,pending
@@ -1612,7 +1612,7 @@ Trine University-Regional/Non-Traditional Campuses,IN,4-year,private_nonprofit,h
 Union Bible College,IN,4-year,private_nonprofit,https://ubca.org,,,,,,,,pending
 University of Evansville,IN,4-year,private_nonprofit,https://www.evansville.edu,,,,,,,,pending
 University of Indianapolis,IN,4-year,private_nonprofit,https://uindy.edu,,,,,,,,pending
-University of Notre Dame,IN,4-year,private_nonprofit,https://www.nd.edu,,,,,,,,pending
+University of Notre Dame,IN,4-year,private_nonprofit,https://www.nd.edu,no,N/A (BN partnership for affordability),Traditional; rental + used exchange; digital titles available,Hammes Notre Dame Bookstore (Barnes & Noble College),Various; digital + rental + used exchange,"No formal IA. BN College partnership. Rental, used exchange, digital titles. Faculty adoption submission encouraged.",https://nd.edu; https://bncollege.com,done
 University of Saint Francis-Fort Wayne,IN,4-year,private_nonprofit,https://www.sf.edu,,,,,,,,pending
 University of Southern Indiana,IN,4-year,public,https://www.usi.edu,,,,,,,,pending
 Valparaiso University,IN,4-year,private_nonprofit,https://www.valpo.edu,,,,,,,,pending
@@ -1951,13 +1951,13 @@ Maryland Institute College of Art,MD,4-year,private_nonprofit,https://www.mica.e
 Maryland University of Integrative Health,MD,4-year,private_nonprofit,https://www.muih.edu,,,,,,,,pending
 McDaniel College,MD,4-year,private_nonprofit,https://www.mcdaniel.edu,,,,,,,,pending
 Montgomery College,MD,2-year,public,https://www.montgomerycollege.edu,,,,,,,,pending
-Morgan State University,MD,4-year,public,https://www.morgan.edu,,,,,,,,pending
+Morgan State University,MD,4-year,public,https://www.morgan.edu,yes,Bear Books (First Day Complete),Per credit hour fee in tuition; undergrads auto-enrolled; opt-out,Barnes & Noble College,BN First Day Complete; textbooks + lab manuals + access codes + digital,Bear Books: all required materials for undergrads. Per credit hour. Aims to lower costs. Opt-out available.,https://morgan.edu; https://bncollege.com,done
 Mount St. Mary's University,MD,4-year,private_nonprofit,https://msmary.edu,,,,,,,,pending
 Ner Israel Rabbinical College,MD,4-year,private_nonprofit,https://nirc.edu,,,,,,,,pending
 Notre Dame of Maryland University,MD,4-year,private_nonprofit,https://www.ndm.edu,,,,,,,,pending
 Prince George's Community College,MD,2-year,public,https://www.pgcc.edu,,,,,,,,pending
 SANS Technology Institute,MD,4-year,private_forprofit,https://www.sans.edu,,,,,,,,pending
-Salisbury University,MD,4-year,public,https://www.salisbury.edu,,,,,,,,pending
+Salisbury University,MD,4-year,public,https://www.salisbury.edu,yes,Inclusive Access,Charged to Gullnet account; discounted eBooks; opt-out by deadline,University bookstore + VitalSource,Various; VitalSource eBooks + publisher access codes + OER via MyClasses,IA w/ VitalSource partnership. Discounted eBooks + access codes. Via MyClasses. Opt-out by deadline.,https://salisbury.edu,done
 St. John's College,MD,4-year,private_nonprofit,https://www.sjc.edu,,,,,,,,pending
 St. Mary's College of Maryland,MD,4-year,public,https://www.smcm.edu,,,,,,,,pending
 Stevenson University,MD,4-year,private_nonprofit,https://www.stevenson.edu,,,,,,,,pending
@@ -1965,14 +1965,14 @@ Strayer University-Anne Arundel Campus,MD,4-year,private_forprofit,https://www.s
 Strayer University-Maryland,MD,4-year,private_forprofit,https://www.strayer.edu/campus-locations/maryland/prince-georges,,,,,,,,pending
 Strayer University-Rockville Campus,MD,4-year,private_forprofit,https://www.strayer.edu/campus-locations/maryland/rockville,,,,,,,,pending
 Strayer University-White Marsh Campus,MD,4-year,private_forprofit,https://www.strayer.edu/campus-locations/maryland/white-marsh,,,,,,,,pending
-Towson University,MD,4-year,public,https://www.towson.edu,,,,,,,,pending
+Towson University,MD,4-year,public,https://www.towson.edu,yes,Direct Access,Auto-charged; digital content; opt-out by drop/add deadline,University bookstore (MBS partnership),Various; digital via LMS; interactive learning platforms,Direct Access since 2017. Physical→digital conversion. Auto-charged. Opt-out by drop/add. Includes interactive platforms.,https://towsonustore.com,done
 United States Naval Academy,MD,4-year,public,https://www.usna.edu,,,,,,,,pending
 University of Baltimore,MD,4-year,public,https://www.ubalt.edu,,,,,,,,pending
 University of Maryland Baltimore,MD,4-year,public,https://www.umaryland.edu,,,,,,,,pending
 University of Maryland Eastern Shore,MD,4-year,public,https://wwwcp.umes.edu,,,,,,,,pending
 University of Maryland Global Campus,MD,4-year,public,https://www.umgc.edu,,,,,,,,pending
-University of Maryland-Baltimore County,MD,4-year,public,https://umbc.edu,,,,,,,,pending
-University of Maryland-College Park,MD,4-year,public,https://www.umd.edu,Yes,First Day (BN) / Inclusive Access,Per-course (tuition),Barnes & Noble,Various,BN First Day; auto-billed; opt-out; library Top Textbooks on Reserve alternative,https://umd.bncollege.com; https://umd.edu,done
+University of Maryland-Baltimore County,MD,4-year,public,https://umbc.edu,yes,Course Materials Initiative (CMI),Course charge on tuition bill; digital via Blackboard; opt-out w/ full refund,University bookstore,Various; digital textbooks + publisher integrations via Blackboard,CMI since Spring 2016. Affordable materials + enhanced student experience via Blackboard. Opt-out w/ full refund.,https://umbc.edu,done
+University of Maryland-College Park,MD,4-year,public,https://www.umd.edu,yes,First Day,Additional course charge on tuition/fees; auto-enrolled; FA eligible,Barnes & Noble College,Various; digital via LMS,BN First Day model. Cost added to tuition/fees. Library Top Textbooks program separate. Broader campus-wide IA under evaluation.,https://umd.edu; https://bncollege.com,done
 Washington Adventist University,MD,4-year,private_nonprofit,https://www.wau.edu,,,,,,,,pending
 Washington College,MD,4-year,private_nonprofit,https://www.washcoll.edu,,,,,,,,pending
 Women's Institute of Torah Seminary and College,MD,4-year,private_nonprofit,https://www.wits.edu,,,,,,,,pending
@@ -2031,7 +2031,7 @@ Calvin Theological Seminary,MI,4-year,private_nonprofit,https://www.calvinsemina
 Calvin University,MI,4-year,private_nonprofit,https://www.calvin.edu,,,,,,,,pending
 Calvin University - Handlon Campus,MI,4-year,private_nonprofit,https://www.calvin.edu/prison-initiative,,,,,,,,pending
 Carnegie Institute,MI,2-year,private_forprofit,https://www.carnegie-institute.edu,,,,,,,,pending
-Central Michigan University,MI,4-year,public,https://www.cmich.edu,Yes,Inclusive Access (CMU Bookstore),Per-course (60-75% off),CMU Bookstore,Various via Blackboard,IA; 60-75% off digital; Blackboard delivery; auto-charged; opt-out; ACMP faculty incentives for OER,https://cmu.bncollege.com; https://cmich.edu,done
+Central Michigan University,MI,4-year,public,https://www.cmich.edu,no,N/A,Traditional purchase via bookstore,CMU Bookstore,Various,No formal IA program. Standard bookstore purchasing.,https://cmich.edu; https://cmubookstore.com,done
 Chamberlain University-Michigan,MI,4-year,private_forprofit,https://www.chamberlain.edu,,,,,,,,pending
 Cleary University,MI,4-year,private_nonprofit,https://www.cleary.edu,,,,,,,,pending
 College for Creative Studies,MI,4-year,private_nonprofit,https://www.ccsdetroit.edu,,,,,,,,pending
@@ -2058,7 +2058,7 @@ Glen Oaks Community College,MI,2-year,public,https://www.glenoaks.edu,,,,,,,,pen
 Gogebic Community College,MI,2-year,public,https://gogebic.edu,,,,,,,,pending
 Grace Christian University,MI,4-year,private_nonprofit,https://www.gracechristian.edu,,,,,,,,pending
 Grand Rapids Community College,MI,2-year,public,https://www.grcc.edu,,,,,,,,pending
-Grand Valley State University,MI,4-year,public,https://www.gvsu.edu,Yes,GVSU SAVE (First Day Digital),Per-course (tuition-billed),Laker Store,Various via Blackboard,GVSU SAVE; first-day digital; Blackboard delivery; auto-enrolled; opt-out; tuition-billed; significant savings,https://gvsu.bncollege.com; https://gvsu.edu,done
+Grand Valley State University,MI,4-year,public,https://www.gvsu.edu,yes,GVSU Save,Charged to student account; negotiated price; opt-out within 2 weeks,Laker Store,Various; digital via Blackboard,GVSU Save: Laker Store negotiates prices. Digital via Blackboard on first day. Opt-out within 2 weeks.,https://gvsu.edu; https://lanthorn.com,done
 Great Lakes Christian College,MI,4-year,private_nonprofit,https://www.glcc.edu,,,,,,,,pending
 Henry Ford College,MI,4-year,public,https://www.hfcc.edu,,,,,,,,pending
 Hillsdale College,MI,4-year,private_nonprofit,https://www.hillsdale.edu,,,,,,,,pending
@@ -2080,7 +2080,7 @@ Macomb Community College,MI,2-year,public,https://www.macomb.edu,,,,,,,,pending
 Madonna University,MI,4-year,private_nonprofit,https://www.madonna.edu,,,,,,,,pending
 Metro Detroit Barber College,MI,2-year,private_nonprofit,https://mdbcollege.org,,,,,,,,pending
 Michigan School of Psychology,MI,4-year,private_nonprofit,https://msp.edu,,,,,,,,pending
-Michigan State University,MI,4-year,public,https://www.msu.edu,Yes,Inclusive Access (RedShelf),Per-course (reduced),MSU Bookstore Inc.,"RedShelf, various",IA via RedShelf; charged after 15th day; opt-out by drop date; reduced vs traditional packages,https://msu.bncollege.com; https://msu.edu,done
+Michigan State University,MI,4-year,public,https://www.msu.edu,yes,Inclusive Access,Charged after 15th day; reduced cost; opt-out by drop date,MSU Bookstore Inc.,Various; publisher learning systems + eBook via Canvas,IA via MSU Bookstore. Reduced cost. Access via Canvas. Charged after 15th day. Also has library Affordable Textbook Program.,https://msubookstore.org; https://msu.edu,done
 Michigan Technological University,MI,4-year,public,https://www.mtu.edu,,,,,,,,pending
 Mid Michigan College,MI,2-year,public,https://www.midmich.edu,,,,,,,,pending
 Monroe County Community College,MI,2-year,public,https://www.monroeccc.edu,,,,,,,,pending
@@ -2117,10 +2117,10 @@ University of Michigan-Flint,MI,4-year,public,https://www.umflint.edu,,,,,,,,pen
 Walsh College,MI,4-year,private_nonprofit,https://walshcollege.edu,,,,,,,,pending
 Washtenaw Community College,MI,2-year,public,https://www.wccnet.edu,,,,,,,,pending
 Wayne County Community College District,MI,2-year,public,https://www.wcccd.edu,,,,,,,,pending
-Wayne State University,MI,4-year,public,https://wayne.edu,Yes,Warrior Day One Access + First Day,Per-course (WSU e-bill),Barnes & Noble + WSU Bookstore,Various via Canvas,WDO + BN First Day; auto-billed; opt-out by deadline; negotiated pricing,https://wayne.bncollege.com; https://wayne.edu,done
+Wayne State University,MI,4-year,public,https://wayne.edu,yes,Warrior Day One Access (WDO),Charged to WSU account; at or below publisher price; opt-out by deadline,Textbook Brokers,Various; digital via Canvas,WDO: collaboration w/ Textbook Brokers + publishers. Digital via Canvas. At or below direct-to-student pricing. Opt-out.,https://wayne.edu; https://waynestatebookstore.com,done
 West Michigan College of Barbering and Beauty,MI,2-year,private_forprofit,https://westmichigancollegeofbarberingandbeauty.com,,,,,,,,pending
 West Shore Community College,MI,2-year,public,https://www.westshore.edu,,,,,,,,pending
-Western Michigan University,MI,4-year,public,https://wmich.edu,No,OER Grants (library),OER / traditional purchase,WMU Bookstore (BN),"OER, various",No formal IA; WMU Libraries OER Grants for faculty; students often skip buying; BN bookstore traditional,https://wmu.bncollege.com; https://wmich.edu,done
+Western Michigan University,MI,4-year,public,https://wmich.edu,no,N/A,Traditional purchase via bookstore,University bookstore,Various; alt format textbooks via disability services,No formal IA program. Disability Services provides alternate format textbooks.,https://wmich.edu,done
 Western Michigan University Homer Stryker M.D. School of Medicine,MI,4-year,private_nonprofit,https://wmed.edu,,,,,,,,pending
 Western Theological Seminary,MI,4-year,private_nonprofit,https://www.westernsem.edu,,,,,,,,pending
 Yeshiva Gedolah of Greater Detroit,MI,4-year,private_nonprofit,https://www.yeshivagedolahgreaterdetroit.com,,,,,,,,pending
@@ -2687,10 +2687,10 @@ Mercer County Community College,NJ,2-year,public,https://www.mccc.edu,,,,,,,,pen
 Middlesex College,NJ,2-year,public,https://www.middlesexcollege.edu,,,,,,,,pending
 Monmouth University,NJ,4-year,private_nonprofit,https://www.monmouth.edu,,,,,,,,pending
 Monmouth University -  Monmouth Park Corporate Center,NJ,4-year,private_nonprofit,https://www.monmouth.edu,,,,,,,,pending
-Montclair State University,NJ,4-year,public,https://www.montclair.edu,Yes,IncludED (Follett + Pearson),Per-course (course fee),Follett,"Pearson, various via LMS",IncludED; Follett+Pearson partnership; auto electronic access; course fee; LMS delivery; opt-out per campus,https://montclair.bncollege.com; https://montclair.edu,done
+Montclair State University,NJ,4-year,public,https://www.montclair.edu,yes,IncludED Inclusive Access,Special course fee; up to 60% savings; auto-enrolled,Follett (University Bookstore),Pearson Education primarily; electronic links,IncludED w/ Follett + Pearson. Electronic links on first day. Up to 60% savings. Full course-section participation required.,https://montclair.edu; https://bkstr.com/montclair,done
 New Brunswick Theological Seminary,NJ,4-year,private_nonprofit,https://www.nbts.edu,,,,,,,,pending
 New Jersey City University,NJ,4-year,public,https://www.njcu.edu,,,,,,,,pending
-New Jersey Institute of Technology,NJ,4-year,public,https://www.njit.edu,No,N/A,Traditional,NJIT Bookstore,Various,No formal IA; traditional buy-after-first-week approach,https://njit.bncollege.com; https://njit.edu,done
+New Jersey Institute of Technology,NJ,4-year,public,https://www.njit.edu,no,N/A,Traditional purchase via bookstore,University bookstore,Various,No formal IA program found in search results.,https://njit.edu,done
 Ocean County College,NJ,2-year,public,https://www.ocean.edu,,,,,,,,pending
 Passaic County Community College,NJ,2-year,public,https://web.pccc.edu,,,,,,,,pending
 Pennco Tech-Blackwood,NJ,2-year,private_forprofit,https://www.penncotech.edu,,,,,,,,pending
@@ -2707,15 +2707,15 @@ Rider University,NJ,4-year,private_nonprofit,https://www.rider.edu,,,,,,,,pendin
 Rowan College at Burlington County,NJ,2-year,public,https://www.rcbc.edu,,,,,,,,pending
 Rowan College of South Jersey-Cumberland Campus,NJ,2-year,public,https://rcsj.edu,,,,,,,,pending
 Rowan College of South Jersey-Gloucester Campus,NJ,2-year,public,https://rcsj.edu,,,,,,,,pending
-Rowan University,NJ,4-year,public,https://www.rowan.edu,Yes,First Day (BN) + TAP,Per-course (charge added),Barnes & Noble,Various,BN First Day; additional Digital Course Material charge; TAP for affordability; RCSJ affiliate also FDC,https://rowan.bncollege.com; https://rowan.edu,done
+Rowan University,NJ,4-year,public,https://www.rowan.edu,yes,First Day + Textbook Alternative Program (TAP),Additional course charge; digital via LMS; opt-out,Barnes & Noble College,BN First Day; digital + interactive resources,BN First Day IA + TAP since 2018 (low/no-cost materials). Digital via LMS. Rowan College SJ has First Day Complete.,https://bncollege.com/rowan; https://rcsj.edu,done
 Rutgers University-Camden,NJ,4-year,public,https://camden.rutgers.edu,,,,,,,,pending
-Rutgers University-New Brunswick,NJ,4-year,public,https://newbrunswick.rutgers.edu,Yes,First Day (BN),Per-course (term bill),Barnes & Noble,Various via Canvas,BN First Day; Canvas delivery; Digital Book Charge on term bill; opt-out; replaced RU Book Advance,https://rutgers.bncollege.com; https://rutgers.edu,done
+Rutgers University-New Brunswick,NJ,4-year,public,https://newbrunswick.rutgers.edu,yes,First Day,Added to term bill; below market value; FA eligible; opt-out,Barnes & Noble College,Various; digital via Canvas,BN First Day. Digital via Canvas. Below market value. FA applicable. Opt-out available.,https://rutgers.edu; https://bncollege.com,done
 Rutgers University-Newark,NJ,4-year,public,https://www.newark.rutgers.edu,,,,,,,,pending
 Saint Elizabeth University,NJ,4-year,private_nonprofit,https://www.steu.edu,,,,,,,,pending
 Saint Peter's University,NJ,4-year,private_nonprofit,https://www.saintpeters.edu,,,,,,,,pending
 Salem Community College,NJ,2-year,public,https://www.salemcc.edu,,,,,,,,pending
 Seminary Bnos Chaim,NJ,2-year,private_nonprofit,https://www.seminarybnoschaim.com,,,,,,,,pending
-Seton Hall University,NJ,4-year,private_nonprofit,https://www.shu.edu,Yes,First Day Complete Griffin Book Bundle (BN),Bundled (auto UG),Barnes & Noble,Various,BN FDC Griffin Book Bundle; auto UG enrollment; opt-out window each semester; all course materials,https://shu.bncollege.com; https://shu.edu,done
+Seton Hall University,NJ,4-year,private_nonprofit,https://www.shu.edu,yes,First Day Complete Griffin Book Bundle,Auto-enrolled on registration; 35-50% savings; digital via Canvas,Barnes & Noble College,BN First Day Complete; textbooks + lab manuals + access codes,Griffin Book Bundle for undergrads. 35-50% savings. Digital via Canvas. Personalized service. Auto-enrolled.,https://shu.edu; https://bncollege.com,done
 Stevens Institute of Technology,NJ,4-year,private_nonprofit,https://www.stevens.edu,,,,,,,,pending
 Stockton University,NJ,4-year,public,https://www.stockton.edu,,,,,,,,pending
 Strayer University-New Jersey,NJ,4-year,private_forprofit,https://www.strayer.edu/campus-locations/new-jersey/piscataway,,,,,,,,pending
@@ -4367,13 +4367,13 @@ Fortis College-Norfolk,VA,2-year,private_forprofit,https://www.fortis.edu,,,,,,,
 Fortis College-Richmond,VA,2-year,private_forprofit,https://www.fortis.edu,,,,,,,,pending
 Galen Health Institutes-Richmond,VA,2-year,private_forprofit,https://galencollege.edu/campuses/richmond,,,,,,,,pending
 Galen Health Institutes-Roanoke,VA,2-year,private_forprofit,https://www.galencollege.edu/roanoke,,,,,,,,pending
-George Mason University,VA,4-year,public,https://www.gmu.edu,Yes,First Day (BN),Per-course (institutional charge),Barnes & Noble,Various via Canvas,BN First Day; Canvas delivery; institutional charges; School of Business adopted IA; opt-out,https://bkstr.com/georgemasonbookstore; https://gmu.edu,done
+George Mason University,VA,4-year,public,https://www.gmu.edu,yes,First Day Program,Cost in tuition/fees; auto-enrolled; opt-out via Canvas; FA eligible,Barnes & Noble College,Various; digital via Canvas,"First Day IA model. Digital content in Canvas by day one. Opt-out via Canvas. If course dropped before add/drop, fee reversed.",https://gmu.edu; https://bncollege.com/gmu,done
 Germanna Community College,VA,2-year,public,https://www.germanna.edu,,,,,,,,pending
 Hampden-Sydney College,VA,4-year,private_nonprofit,https://www.hsc.edu,,,,,,,,pending
 Hampton University,VA,4-year,private_nonprofit,https://www.hamptonu.edu,,,,,,,,pending
 Hollins University,VA,4-year,private_nonprofit,https://www.hollins.edu,,,,,,,,pending
 J Sargeant Reynolds Community College,VA,2-year,public,https://www.reynolds.edu,,,,,,,,pending
-James Madison University,VA,4-year,public,https://www.jmu.edu/index.shtml,No,No formal IA (OER focus),Traditional purchase,JMU Bookstore (BN),Various + OER,No campus-wide IA; OER emphasis; 5 instructors redesigned courses 2024-25 saving $20K for 300 students; BN bookstore,https://jmu.edu/libraries/oer; https://bkstr.com/jmubookstore,done
+James Madison University,VA,4-year,public,https://www.jmu.edu/index.shtml,no,N/A (No/Low Cost course filter),Traditional; No/Low Cost course filter in MyMadison (<$40),University bookstore,Various; OER via library; Course Reserves,No formal IA. No/Low Cost filter for courses <$40. Open Education Librarian support. Course Reserves available.,https://jmu.edu,done
 Laurel Ridge Community College,VA,2-year,public,https://www.laurelridge.edu,,,,,,,,pending
 Liberty University,VA,4-year,private_nonprofit,https://www.liberty.edu,Yes,Inclusive Access (LUO),$38/cr residential; free LUO UG,Barnes & Noble,Various via Canvas,IA since Fall 2018; LUO UG no additional cost; residential online $38/cr; interactive digital; Canvas delivery; grad lower cost; opt-out N/A (bundled),https://liberty.edu/bookstore; https://bkstr.com/libertybookstore,done
 Life Pacific University-Virginia,VA,2-year,private_nonprofit,https://virginia.lifepacific.edu,,,,,,,,pending
@@ -4386,7 +4386,7 @@ Mountain Gateway Community College,VA,2-year,public,https://www.mgcc.edu,,,,,,,,
 New River Community College,VA,2-year,public,https://www.nr.edu,,,,,,,,pending
 Norfolk State University,VA,4-year,public,https://www.nsu.edu,,,,,,,,pending
 Northern Virginia Community College,VA,2-year,public,https://www.nvcc.edu,,,,,,,,pending
-Old Dominion University,VA,4-year,public,https://www.odu.edu,Yes,First Day All Access (BN),Per-course (tuition integrated),Barnes & Noble,Various via Canvas,BN First Day; print or digital; tuition-integrated; financial aid eligible; Canvas delivery; select courses only Fall 2025; OER also supported,https://odu.edu/bookstore; https://bncollege.com/odu,done
+Old Dominion University,VA,4-year,public,https://www.odu.edu,yes,First Day All Access Affordable Textbook Program,Discounted rate in tuition; print or digital; FA eligible; opt-out,Barnes & Noble College,Various; print and digital options,First Day All Access. Materials by first day. Discounted rate on tuition. FA eligible. Select courses Fall 2025.,https://odu.edu; https://bncollege.com/odu,done
 Patrick & Henry Community College,VA,2-year,public,https://www.patrickhenry.edu,,,,,,,,pending
 Patrick Henry College,VA,4-year,private_nonprofit,https://www.phc.edu,,,,,,,,pending
 Paul D Camp Community College,VA,2-year,public,https://www.pdc.edu,,,,,,,,pending
@@ -4428,11 +4428,11 @@ University of Virginia's College at Wise,VA,4-year,public,https://www.uvawise.ed
 University of Virginia-Main Campus,VA,4-year,public,https://www.virginia.edu,Yes,Inclusive Access,Per-course (50-70% off),UVA Bookstores,Various via Canvas,IA; 50-70% off new print; Canvas delivery; auto-enrolled 7-10 days before semester; opt-out 2 weeks; rejected One Access flat-rate,https://uva.bkstr.com; https://virginia.edu,done
 University of the Potomac-VA Campus,VA,4-year,private_forprofit,https://www.potomac.edu,,,,,,,,pending
 Virginia Beach Theological Seminary,VA,4-year,private_nonprofit,https://www.vbts.edu,,,,,,,,pending
-Virginia Commonwealth University,VA,4-year,public,https://www.vcu.edu,No,No formal IA (OER focus),Traditional purchase,VCU Bookstore,Various + OER,No campus-wide auto-billing IA per 2025 survey; VCU Libraries Open+Affordable initiative; 75% students skip buying due to cost; OER grants,https://vcu.edu/oer; https://rampages.us/oer,done
+Virginia Commonwealth University,VA,4-year,public,https://www.vcu.edu,no,N/A (OER initiative),Traditional; no auto-textbook billing,Barnes & Noble @ VCU,Various; OER encouraged via library initiative,No formal IA/equitable access. Open and Affordable Course Content Initiative since 2016. Library supports OER adoption.,https://vcu.edu,done
 Virginia Highlands Community College,VA,2-year,public,https://www.vhcc.edu,,,,,,,,pending
 Virginia Military Institute,VA,4-year,public,https://www.vmi.edu,,,,,,,,pending
 Virginia Peninsula Community College,VA,2-year,public,https://vpcc.edu,,,,,,,,pending
-Virginia Polytechnic Institute and State University,VA,4-year,public,https://www.vt.edu,No,N/A (OER grants focus),Traditional + OER,VT University Bookstore,Various + OER,No formal IA found; OER grants to faculty; traditional purchasing,https://bookstore.vt.edu; https://vt.edu,done
+Virginia Polytechnic Institute and State University,VA,4-year,public,https://www.vt.edu,no,N/A (OER faculty grants),Traditional; up to $3K OER grants for faculty,University bookstore,Various; OER encouraged,"No formal IA. Competitive OER grants up to $3,000 for faculty. Focus on open educational resources.",https://vt.edu,done
 Virginia State University,VA,4-year,public,https://www.vsu.edu,,,,,,,,pending
 Virginia Union University,VA,4-year,private_nonprofit,https://www.vuu.edu,,,,,,,,pending
 Virginia University of Integrative Medicine,VA,4-year,private_nonprofit,https://www.vuim.edu,,,,,,,,pending
