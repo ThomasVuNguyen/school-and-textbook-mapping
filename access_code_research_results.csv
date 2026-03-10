@@ -772,8 +772,8 @@ CT Aerotech,CT,2-year,public,https://ctaero.cttech.org,,,,,,,,pending
 Central Connecticut State University,CT,4-year,public,https://www.ccsu.edu,yes,First Day Complete (CSCU system),Per credit hour or course fee; auto-enrolled; opt-out,Barnes & Noble College,BN First Day Complete; textbooks + digital,Part of CSCU system adoption of BN First Day Complete. Auto-enrolled. Opt-out available.,https://ccsu.edu; https://bncollege.com,done
 Charter Oak State College,CT,4-year,public,https://www.charteroak.edu,,,,,,,,pending
 Connecticut Aero Tech  School,CT,2-year,public,https://ctaero.cttech.org,,,,,,,,pending
-Connecticut College,CT,4-year,private_nonprofit,https://www.conncoll.edu,,,,,,,,pending
-Connecticut State Community College,CT,2-year,public,https://ctstate.edu,,,,,,,,pending
+Connecticut College,CT,4-year,private_nonprofit,https://www.conncoll.edu,no,N/A,Traditional purchase,College bookstore,Various,No formal IA. Private liberal arts college.,https://conncoll.edu,done
+Connecticut State Community College,CT,2-year,public,https://ctstate.edu,no,N/A,Traditional purchase,Follett,Various,No explicit IA found in research.,https://ct.edu,done
 Eastern Connecticut State University,CT,4-year,public,https://www.easternct.edu,Proposed,CSCU Equitable Access (proposed),$18.75/credit (proposed),Barnes & Noble (proposed),Various,CSCU system proposal reconsidered; NoLo initiative for CCs,https://ecsu.bncollege.com; https://easternct.edu,done
 Fairfield University,CT,4-year,private_nonprofit,https://fairfield.edu,Yes,Red Stack Direct (BN),$24/credit (in tuition),Barnes & Noble,Various via Blackboard,Red Stack Direct BN; $24/cr in tuition; 30-50% savings; auto-enrolled opt-out; Blackboard+print pickup/ship,https://fairfield.bncollege.com/red-stack-direct; https://fairfield.edu,done
 Goodwin University,CT,4-year,private_nonprofit,https://www.goodwin.edu,,,,,,,,pending
@@ -796,10 +796,10 @@ Trinity College,CT,4-year,private_nonprofit,https://www.trincoll.edu,Yes,First D
 United States Coast Guard Academy,CT,4-year,public,https://www.uscga.edu,,,,,,,,pending
 University of Bridgeport,CT,4-year,private_nonprofit,https://www.bridgeport.edu,,,,,,,,pending
 University of Connecticut,CT,4-year,public,https://uconn.edu,yes,Husky Book Bundle,Added to university fee bill; reduced price; opt-out available,Barnes & Noble Education,Various; reduced-price course materials,Husky Book Bundle: reduced price materials. Added to fee bill. Opt-out available. Partnership w/ BNED.,https://uconn.edu; https://bned.com,done
-University of Connecticut-Avery Point,CT,4-year,public,https://averypoint.uconn.edu,,,,,,,,pending
-University of Connecticut-Hartford Campus,CT,4-year,public,https://hartford.uconn.edu,,,,,,,,pending
-University of Connecticut-Stamford,CT,4-year,public,https://stamford.uconn.edu,,,,,,,,pending
-University of Connecticut-Waterbury Campus,CT,4-year,public,https://waterbury.uconn.edu,,,,,,,,pending
+University of Connecticut-Avery Point,CT,4-year,public,https://averypoint.uconn.edu,yes,Husky Book Bundle,Waivable fee; course materials included; auto-enrolled; opt-out,UConn Co-op,Various; digital + physical,UConn Husky Book Bundle (system-wide). Waivable fee for course materials. Auto-enrolled.,https://uconn.edu,done
+University of Connecticut-Hartford Campus,CT,4-year,public,https://hartford.uconn.edu,yes,Husky Book Bundle,Waivable fee; course materials included; auto-enrolled; opt-out,UConn Co-op,Various; digital + physical,UConn Husky Book Bundle (system-wide).,https://uconn.edu,done
+University of Connecticut-Stamford,CT,4-year,public,https://stamford.uconn.edu,yes,Husky Book Bundle,Waivable fee; course materials included; auto-enrolled; opt-out,UConn Co-op,Various; digital + physical,UConn Husky Book Bundle (system-wide).,https://uconn.edu,done
+University of Connecticut-Waterbury Campus,CT,4-year,public,https://waterbury.uconn.edu,yes,Husky Book Bundle,Waivable fee; course materials included; auto-enrolled; opt-out,UConn Co-op,Various; digital + physical,UConn Husky Book Bundle (system-wide).,https://uconn.edu,done
 University of Hartford,CT,4-year,private_nonprofit,https://www.hartford.edu,Yes,Course-by-Course Affordable Access,Per-course (reduced),Follett,Various via LMS,Follett Inclusive Access course-by-course; faculty opt-in; auto-enrolled students; opt-out per course; LMS+physical; BSU Book Fund also available,https://bkstr.com/uhartfordstore; https://hartford.edu,done
 University of New Haven,CT,4-year,private_nonprofit,https://www.newhaven.edu,,,,,,,,pending
 University of Saint Joseph,CT,4-year,private_nonprofit,https://www.usj.edu,,,,,,,,pending
@@ -2131,7 +2131,7 @@ American Academy of Health and Wellness,MN,4-year,private_forprofit,https://www.
 Anoka Technical College,MN,2-year,public,https://www.anokatech.edu,,,,,,,,pending
 Anoka-Ramsey Community College,MN,2-year,public,https://www.anokaramsey.edu,,,,,,,,pending
 Anoka-Ramsey Community College-Cambridge Campus,MN,2-year,public,https://www.anokaramsey.edu,,,,,,,,pending
-Augsburg University,MN,4-year,private_nonprofit,https://www.augsburg.edu,,,,,,,,pending
+Augsburg University,MN,4-year,private_nonprofit,https://www.augsburg.edu,yes,Inclusive Access (per-course),Per-course IA via BN bookstore; select publishers; opt-out,Barnes & Noble College,Cognella; Cengage MindTap; select publishers,IA offered per-course through BN bookstore. Not institution-wide but available for select courses.,https://augsburg.edu; https://bncollege.com,done
 Avalon School of Cosmetology,MN,2-year,private_forprofit,https://www.avaloncosmetologyschool.com,,,,,,,,pending
 Bemidji State University,MN,4-year,public,https://www.bemidjistate.edu,,,,,,,,pending
 Bethany Global University,MN,4-year,private_nonprofit,https://bethanygu.edu,,,,,,,,pending
@@ -2177,7 +2177,7 @@ Minnesota North College - Vermilion,MN,2-year,public,https://minnesotanorth.edu,
 Minnesota State College Southeast,MN,2-year,public,https://www.southeastmn.edu,,,,,,,,pending
 Minnesota State CollegeSoutheast-Red Wing Campus,MN,2-year,public,https://www.southeastmn.edu,,,,,,,,pending
 Minnesota State Community and Technical College,MN,2-year,public,https://www.minnesota.edu,,,,,,,,pending
-Minnesota State University Moorhead,MN,4-year,public,https://www.mnstate.edu,,,,,,,,pending
+Minnesota State University Moorhead,MN,4-year,public,https://www.mnstate.edu,no,N/A,Traditional purchase,University bookstore,Various,No formal IA found in research.,https://mnstate.edu,done
 Minnesota State University-Mankato,MN,4-year,public,https://mnsu.edu,Partial,Bookstore Charge Period (IA emerging),Per-course (student acct charge),Maverick Shop,Various via D2L BrightSpace,Textbook charge to student acct; first day charge period for eligible students; MN State system IA discussion; some courses use IA via D2L,https://mnsu.edu/bookstore; https://bkstr.com/mnsumankato,done
 Minnesota West Community and Technical College,MN,2-year,public,https://www.mnwest.edu,,,,,,,,pending
 Mitchell Hamline School of Law,MN,4-year,private_nonprofit,https://www.mitchellhamline.edu,,,,,,,,pending
@@ -2202,26 +2202,26 @@ Riverland Community College,MN,2-year,public,https://www.riverland.edu,,,,,,,,pe
 Rochester Community and Technical College,MN,2-year,public,https://www.rctc.edu,,,,,,,,pending
 Saint Cloud State University,MN,4-year,public,https://www.stcloudstate.edu,,,,,,,,pending
 Saint Johns University,MN,4-year,private_nonprofit,https://csbsju.edu,,,,,,,,pending
-Saint Mary's University of Minnesota,MN,4-year,private_nonprofit,https://www.smumn.edu,,,,,,,,pending
+Saint Mary's University of Minnesota,MN,4-year,private_nonprofit,https://www.smumn.edu,no,N/A,Traditional purchase,University bookstore,Various,No formal IA found. Private Catholic university.,https://smumn.edu,done
 Saint Paul College,MN,2-year,public,https://www.saintpaul.edu,,,,,,,,pending
 South Central College,MN,2-year,public,https://southcentral.edu,,,,,,,,pending
 South Central College-Faribault,MN,2-year,public,https://southcentral.edu,,,,,,,,pending
-Southwest Minnesota State University,MN,4-year,public,https://www.smsu.edu,,,,,,,,pending
+Southwest Minnesota State University,MN,4-year,public,https://www.smsu.edu,no,N/A,Traditional purchase,University bookstore,Various,No formal IA found. Part of Minnesota State system but no IA found.,https://smsu.edu,done
 St Catherine University,MN,4-year,private_nonprofit,https://www.stkate.edu,,,,,,,,pending
 St Cloud Technical and Community College,MN,2-year,public,https://www.sctcc.edu,,,,,,,,pending
 St Olaf College,MN,4-year,private_nonprofit,https://wp.stolaf.edu,,,,,,,,pending
 The College of Saint Scholastica,MN,4-year,private_nonprofit,https://www.css.edu,,,,,,,,pending
 United Theological Seminary of the Twin Cities,MN,4-year,private_nonprofit,https://www.unitedseminary.edu,,,,,,,,pending
-University of Minnesota-Crookston,MN,4-year,public,https://crk.umn.edu,,,,,,,,pending
-University of Minnesota-Duluth,MN,4-year,public,https://d.umn.edu,,,,,,,,pending
-University of Minnesota-Morris,MN,4-year,public,https://morris.umn.edu,,,,,,,,pending
-University of Minnesota-Rochester,MN,4-year,public,https://r.umn.edu,,,,,,,,pending
+University of Minnesota-Crookston,MN,4-year,public,https://crk.umn.edu,yes,Course Works,Flat rate for undergrads; all materials day 1; auto-enrolled; opt-out per semester,Campus stores + libraries,Various; digital + physical; VitalSource → Course Works,UMN system Course Works program. Flat rate. All materials day 1. Auto-enrolled.,https://crk.umn.edu; https://umn.edu,done
+University of Minnesota-Duluth,MN,4-year,public,https://d.umn.edu,yes,Course Works,Flat rate for undergrads; all materials day 1; auto-enrolled; opt-out per semester,Campus stores + libraries,Various; digital + physical,UMN system Course Works program.,https://d.umn.edu; https://umn.edu,done
+University of Minnesota-Morris,MN,4-year,public,https://morris.umn.edu,yes,Course Works,Flat rate for undergrads; all materials day 1; auto-enrolled; opt-out per semester,Campus stores + libraries,Various; digital + physical,UMN system Course Works program.,https://morris.umn.edu; https://umn.edu,done
+University of Minnesota-Rochester,MN,4-year,public,https://r.umn.edu,yes,Course Works,Flat rate for undergrads; all materials day 1; auto-enrolled; opt-out per semester,Campus stores + libraries,Various; digital + physical,UMN system Course Works program.,https://r.umn.edu; https://umn.edu,done
 University of Minnesota-Twin Cities,MN,4-year,public,https://twin-cities.umn.edu,Yes,Course Works Complete / Select,$279/sem flat-rate (Complete); per-course (Select),U of MN Campus Store,Various via Canvas,Course Works Complete $279/sem flat-rate UG auto-enrolled opt-out; Select is traditional IA per-course; Canvas+print pickup; significant savings,https://bookstores.umn.edu/courseworks-complete; https://umn.edu,done
 University of Northwestern-St Paul,MN,4-year,private_nonprofit,https://www.unwsp.edu,,,,,,,,pending
 University of St Thomas,MN,4-year,private_nonprofit,https://www.stthomas.edu,,,,,,,,pending
 Walden University,MN,4-year,private_forprofit,https://www.waldenu.edu,,,,,,,,pending
 White Earth Tribal and Community College,MN,2-year,private_nonprofit,https://www.wetcc.edu,,,,,,,,pending
-Winona State University,MN,4-year,public,https://www.winona.edu,,,,,,,,pending
+Winona State University,MN,4-year,public,https://www.winona.edu,yes,First Day (BN),Per-course charge on student bill; digital via LMS; opt-out ~1 week after start,Barnes & Noble College,Various; BN First Day; digital via D2L,BN First Day. Per-course charge on student bill. Digital access for term duration. Opt-out ~1 week after start.,https://winona.edu; https://bncollege.com,done
 A T Still University of Health Sciences,MO,4-year,private_nonprofit,https://www.atsu.edu,,,,,,,,pending
 American Trade School,MO,2-year,private_forprofit,https://www.americantradeschool.edu,,,,,,,,pending
 Aquinas Institute of Theology,MO,4-year,private_nonprofit,https://www.ai.edu,,,,,,,,pending
@@ -2284,17 +2284,17 @@ Midwest Institute,MO,2-year,private_forprofit,https://midwestinstitute.com,,,,,,
 Midwestern Baptist Theological Seminary,MO,4-year,private_nonprofit,https://www.mbts.edu,,,,,,,,pending
 Mineral Area College,MO,2-year,public,https://mineralarea.edu,,,,,,,,pending
 Mission University,MO,4-year,private_nonprofit,https://www.mission.edu,,,,,,,,pending
-Missouri Baptist University,MO,4-year,private_nonprofit,https://www.mobap.edu,,,,,,,,pending
-Missouri Southern State University,MO,4-year,public,https://www.mssu.edu,,,,,,,,pending
+Missouri Baptist University,MO,4-year,private_nonprofit,https://www.mobap.edu,no,N/A,Traditional purchase,University bookstore,Various,No formal IA found.,https://mobap.edu,done
+Missouri Southern State University,MO,4-year,public,https://www.mssu.edu,yes,First Day / Inclusive Access,Digital via LMS; charged to account; opt-out,University bookstore,Various; digital via LMS,IA: digital via LMS. Charged to account. Opt-out.,https://mssu.edu,done
 Missouri State University-Springfield,MO,4-year,public,https://www.missouristate.edu,Yes,StreamlinED Inclusive Access,Per-course (auto-billed),MSU Bookstore,Various via BrightSpace,StreamlinED since Summer 2016; $5.3M+ saved; BrightSpace delivery; auto-billed; opt-out deadline; eBooks+homework platforms,https://bkstr.com/missouristatebookstore; https://missouristate.edu,done
-Missouri State University-West Plains,MO,2-year,public,https://wp.missouristate.edu,,,,,,,,pending
-Missouri University of Science and Technology,MO,4-year,public,https://www.mst.edu,,,,,,,,pending
-Missouri Valley College,MO,4-year,private_nonprofit,https://www.moval.edu,,,,,,,,pending
-Missouri Western State University,MO,4-year,public,https://www.missouriwestern.edu,,,,,,,,pending
+Missouri State University-West Plains,MO,2-year,public,https://wp.missouristate.edu,yes,StreamlinED (IA),Digital via Brightspace; auto-billed; opt-out by deadline; saved $5.3M+,Missouri State bookstore,Various; digital via Brightspace,StreamlinED IA (same as main MSU). Digital via Brightspace. Auto-billed. Opt-out.,https://wp.missouristate.edu; https://missouristatebookstore.com,done
+Missouri University of Science and Technology,MO,4-year,public,https://www.mst.edu,yes,AutoAccess (UM System),Digital via Canvas; auto-charged to account; opt-out; savings >$2.2M system-wide,The Mizzou Store / campus store,Various; digital via Canvas,UM System AutoAccess (since 2014). Digital via Canvas. Auto-charged. Opt-out. Over $2.2M saved system-wide for 30K+ students.,https://mst.edu; https://umsystem.edu,done
+Missouri Valley College,MO,4-year,private_nonprofit,https://www.moval.edu,no,N/A,Traditional purchase,College bookstore,Various,No formal IA. Small private college.,https://moval.edu,done
+Missouri Western State University,MO,4-year,public,https://www.missouriwestern.edu,yes,Inclusive Access / First Day,Digital via LMS; charged to account; opt-out,University bookstore,Various,IA/First Day. Digital via LMS.,https://missouriwestern.edu,done
 Moberly Area Community College,MO,2-year,public,https://www.macc.edu,,,,,,,,pending
 Nazarene Theological Seminary,MO,4-year,private_nonprofit,https://www.nts.edu,,,,,,,,pending
-North Central Missouri College,MO,2-year,public,https://www.ncmissouri.edu,,,,,,,,pending
-Northwest Missouri State University,MO,4-year,public,https://www.nwmissouri.edu,,,,,,,,pending
+North Central Missouri College,MO,2-year,public,https://www.ncmissouri.edu,no,N/A,Traditional purchase,College bookstore,Various,No formal IA found.,https://ncmissouri.edu,done
+Northwest Missouri State University,MO,4-year,public,https://www.nwmissouri.edu,yes,Textbooks Included in Tuition,"Textbooks + laptop included in tuition; saves ~$6,800 over 4 years",University bookstore,Various; included in tuition,"Unique model: textbooks AND laptop included in tuition for in-person enrollment. Saves ~$6,800 over 4 years. Not opt-out IA but fully inclusive.",https://nwmissouri.edu,done
 Ozark Christian College,MO,4-year,private_nonprofit,https://www.occ.edu,,,,,,,,pending
 Ozarks Technical Community College,MO,4-year,public,https://www.otc.edu,,,,,,,,pending
 Park University,MO,4-year,private_nonprofit,https://www.park.edu,,,,,,,,pending
@@ -2303,10 +2303,10 @@ Ponce Health Sciences University-St Louis,MO,4-year,private_forprofit,https://st
 Ranken Technical College,MO,4-year,private_nonprofit,https://www.ranken.edu,,,,,,,,pending
 Research College of Nursing,MO,4-year,private_forprofit,https://researchcollege.edu,,,,,,,,pending
 Rockhurst University,MO,4-year,private_nonprofit,https://www.rockhurst.edu,,,,,,,,pending
-Saint Louis Community College,MO,4-year,public,https://www.stlcc.edu,,,,,,,,pending
+Saint Louis Community College,MO,4-year,public,https://www.stlcc.edu,yes,Inclusive Access,Digital via LMS; discounted; charged to account; opt-out,Follett,Various; digital via LMS,IA: digital via LMS. Discounted. Opt-out.,https://stlcc.edu; https://bkstr.com,done
 Saint Louis University,MO,4-year,private_nonprofit,https://www.slu.edu,Yes,Inclusive Access (IA),Per-course (SLU acct charge),Textbook Brokers,Various via Canvas,IA via Textbook Brokers + publishers; Canvas delivery; charged to SLU acct; financial aid eligible; opt-out before add/drop,https://slu.edu/bookstore; https://bkstr.com/slubookstore,done
 Southeast Missouri Hospital College of Nursing and Health Sciences,MO,4-year,private_nonprofit,https://www.sehcollege.edu,,,,,,,,pending
-Southeast Missouri State University,MO,4-year,public,https://www.semo.edu,,,,,,,,pending
+Southeast Missouri State University,MO,4-year,public,https://www.semo.edu,yes,Inclusive Access / First Day,Digital via LMS; charged to account; opt-out,University bookstore,Various,IA/First Day.,https://semo.edu,done
 Southwest Baptist University,MO,4-year,private_nonprofit,https://www.sbuniv.edu,,,,,,,,pending
 St Charles Community College,MO,2-year,public,https://www.stchas.edu,,,,,,,,pending
 St Louis College of Health Careers-Fenton,MO,4-year,private_forprofit,https://www.slchc.edu,,,,,,,,pending
@@ -2316,12 +2316,12 @@ Stephens College,MO,4-year,private_nonprofit,https://www.stephens.edu,,,,,,,,pen
 Stevens-The Institute of Business & Arts,MO,4-year,private_forprofit,https://www.siba.edu,,,,,,,,pending
 Texas County Technical College,MO,2-year,private_forprofit,https://www.texascountytech.edu,,,,,,,,pending
 Three Rivers College,MO,2-year,public,https://trcc.edu,,,,,,,,pending
-Truman State University,MO,4-year,public,https://www.truman.edu,,,,,,,,pending
-University of Central Missouri,MO,4-year,public,https://www.ucmo.edu,,,,,,,,pending
+Truman State University,MO,4-year,public,https://www.truman.edu,yes,First Day Complete,$22/credit hour; auto-enrolled; digital + physical rental; saves 50%; opt-out,Barnes & Noble College,Various; BN First Day Complete; digital + physical rental,First Day Complete (Fall 2025). $22/credit hour for 2025-26. Auto-enrolled. Physical rental (return at term end). 50% savings. Opt-out.,https://truman.edu; https://bncollege.com,done
+University of Central Missouri,MO,4-year,public,https://www.ucmo.edu,yes,Inclusive Access / First Day,Digital materials via LMS; charged to account; opt-out,UCM Bookstore,Various; digital via LMS,IA/First Day. Digital materials via LMS.,https://ucmo.edu,done
 University of Health Sciences and Pharmacy in St. Louis,MO,4-year,private_nonprofit,https://www.uhsp.edu,,,,,,,,pending
 University of Missouri-Columbia,MO,4-year,public,https://missouri.edu,Yes,AutoAccess (UM System),Per-course (auto-charged),Mizzou Store,Various via Canvas,AutoAccess since 2014; UM System-wide; digital via Canvas; auto-billed to student acct; opt-out; significant savings,https://themizzoustore.com/autoAccess; https://missouri.edu,done
-University of Missouri-Kansas City,MO,4-year,public,https://www.umkc.edu,,,,,,,,pending
-University of Missouri-St Louis,MO,4-year,public,https://www.umsl.edu,,,,,,,,pending
+University of Missouri-Kansas City,MO,4-year,public,https://www.umkc.edu,yes,AutoAccess (UM System),Digital via Canvas; auto-charged to account; opt-out,UMKC Bookstore,Various; digital via Canvas,UM System AutoAccess. Digital via Canvas. Auto-charged. Opt-out.,https://umkc.edu; https://umsystem.edu,done
+University of Missouri-St Louis,MO,4-year,public,https://www.umsl.edu,yes,AutoAccess (UM System),Digital via Canvas; auto-charged to account; opt-out,UMSL Bookstore,Various; digital via Canvas,UM System AutoAccess. Digital via Canvas. Auto-charged. Opt-out.,https://umsl.edu; https://umsystem.edu,done
 Urshan Graduate School of Theology,MO,4-year,private_nonprofit,https://urshan.edu/ugst,,,,,,,,pending
 Urshan University,MO,4-year,private_nonprofit,https://urshan.edu,,,,,,,,pending
 Washington University in St Louis,MO,4-year,private_nonprofit,https://washu.edu,No,No formal IA,Traditional (rentals/used),WashU Campus Store (BN),Various,No centralized IA; Be Textbook Savvy library program; rentals/used/digital at campus store; OER emphasis over billing model,https://washu.edu/bookstore; https://bkstr.com/washubookstore,done
@@ -2605,7 +2605,7 @@ University of Nebraska Medical Center,NE,4-year,public,https://www.unmc.edu,,,,,
 University of Nebraska at Kearney,NE,4-year,public,https://www.unk.edu,no,N/A (Open Nebraska/ONE OER program),Traditional + OER (free/low-cost); up to $500/sem savings from ONE courses,University bookstore,Various; OER via Open Nebraska; digital + physical options,No formal IA. Open Nebraska (ONE) OER program. Up to $500/sem or $4K/career savings. OER courses flagged in registration.,https://unk.edu,done
 University of Nebraska at Omaha,NE,4-year,public,https://www.unomaha.edu,yes,First Day Access,Reduced price; auto-opted in; charged to account; opt-out via MavLINK,University bookstore,Various; digital via Canvas; Cengage Unlimited,First Day Access: digital via Canvas at reduced price. Auto-opted in. Opt-out via MavLINK.,https://unobookstore.com,done
 University of Nebraska-Lincoln,NE,4-year,public,https://www.unl.edu,yes,Inclusive Access (Follett Access + Unizin Engage),Auto-enrolled; charged to account; up to 80% savings; opt-out end of week 1,Follett (UNL Campus Bookstore) + Unizin,Various; digital via Canvas; Follett Access + Unizin Engage platforms,Two IA platforms: Follett Access + Unizin Engage. Saved students $18M since 2019. Up to 80% savings.,https://unl.edu; https://nebraska.edu,done
-Wayne State College,NE,4-year,public,https://www.wsc.edu,,,,,,,,pending
+Wayne State College,NE,4-year,public,https://www.wsc.edu,no,N/A,Traditional purchase,College bookstore,Various,No formal IA found. Small state college in NE.,https://wsc.edu,done
 Western Nebraska Community College,NE,2-year,public,https://www.wncc.edu,,,,,,,,pending
 Xenon A Stephanie Moss Academy,NE,2-year,private_forprofit,https://www.xenonacademy.net,,,,,,,,pending
 York University,NE,4-year,private_nonprofit,https://www.york.edu,,,,,,,,pending
@@ -4601,7 +4601,7 @@ University of Wisconsin-Green Bay,WI,4-year,public,https://www.uwgb.edu,yes,Incl
 University of Wisconsin-La Crosse,WI,4-year,public,https://www.uwlax.edu,yes,Textbook Rental Program,Rental fee in tuition; undergrads,Self-operated,Various; digital via LMS,Long-standing rental for undergrads. Supplemental materials purchased separately.,https://uwlax.edu,done
 University of Wisconsin-Madison,WI,4-year,public,https://www.wisc.edu,Yes,Inclusive Access (Unizin Engage),Per-course (40-80% off),University Bookstore,Unizin Engage via Canvas,Unizin Engage platform; Canvas delivery; 40-80% off; lifetime access during enrollment; auto-billed; opt-out; student advocacy for optionality,https://uwbookstore.com; https://wisc.edu,done
 University of Wisconsin-Milwaukee,WI,4-year,public,https://uwm.edu,yes,Inclusive Access / Day One,Cost added to tuition bill,Follett,Various; promotes OER,IA and Day One programs provide first-day digital access. Strong OER initiative.,https://uwm.edu; https://bkstr.com/uwmbookstore,done
-University of Wisconsin-Milwaukee Flex,WI,4-year,public,https://flex.wisconsin.edu,,,,,,,,pending
+University of Wisconsin-Milwaukee Flex,WI,4-year,public,https://flex.wisconsin.edu,yes,Inclusive Access (UWM),Digital via LMS; publisher contracts; first-day access; opt-out,UWM Bookstore,Various; publisher contracts; digital via Canvas,UWM Inclusive Access (same as main campus). Publisher contracts for digital course materials via Canvas day 1.,https://uwm.edu,done
 University of Wisconsin-Oshkosh,WI,4-year,public,https://www.uwosh.edu,yes,Instant Access,Auto-billed; opt-out available,Follett,Various incl. McGraw-Hill Connect; Canvas,Digital textbooks via Canvas on first day.,https://uwosh.edu; https://bkstr.com/uwosh,done
 University of Wisconsin-Parkside,WI,4-year,public,https://www.uwp.edu,,,,,,,,pending
 University of Wisconsin-Parkside Flex,WI,4-year,public,https://flex.wisconsin.edu,,,,,,,,pending
