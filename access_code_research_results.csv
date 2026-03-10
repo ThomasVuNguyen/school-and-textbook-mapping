@@ -79,7 +79,7 @@ University of West Alabama,AL,4-year,public,https://www.uwa.edu,,,,,,,https://uw
 Arkansas Baptist College,AR,4-year,private_nonprofit,https://www.arkansasbaptist.edu,,,,,,,,pending
 Arkansas Colleges of Health Education,AR,4-year,private_nonprofit,https://achehealth.edu,,,,,,,,pending
 Arkansas Northeastern College,AR,2-year,public,https://www.anc.edu,,,,,,,,pending
-Arkansas State University,AR,4-year,public,https://www.astate.edu,,,,,,,,pending
+Arkansas State University,AR,4-year,public,https://www.astate.edu,yes,Inclusive Access Program,Charged to account like tuition; FA/scholarship eligible; digital first day; opt-out by add/drop,Textbook Brokers - Jonesboro,Various; digital first day via LMS,IA through Textbook Brokers. Charged like tuition. FA/scholarship eligible. Opt-out by add/drop.,https://astatebookstore.com,done
 Arkansas State University Mid-South,AR,2-year,public,https://www.asumidsouth.edu,,,,,,,,pending
 Arkansas State University Three Rivers,AR,2-year,public,https://www.asutr.edu,,,,,,,,pending
 Arkansas State University-Beebe,AR,2-year,public,https://www.asub.edu,,,,,,,,pending
@@ -94,7 +94,7 @@ Cossatot Community College of the University of Arkansas,AR,2-year,public,https:
 Crowley's Ridge College,AR,4-year,private_nonprofit,https://www.crc.edu,,,,,,,,pending
 East Arkansas Community College,AR,2-year,public,https://www.eacc.edu,,,,,,,,pending
 Ecclesia College,AR,4-year,private_nonprofit,https://ecollege.edu,,,,,,,,pending
-Harding University,AR,4-year,private_nonprofit,https://www.harding.edu,Unknown,N/A,Unknown,Unknown,Unknown,No confirmed IA,https://harding.edu; https://bkstr.com/hardingbookstore,done
+Harding University,AR,4-year,private_nonprofit,https://www.harding.edu,yes,HUDirectAccess,Negotiated low price; charged to HU Student account; digital via Canvas; opt-out,University bookstore,Various; ebooks + publisher software via Canvas,HUDirectAccess: digital via Canvas. Negotiated low price. Charged to HU Student account. Opt-out by deadline.,https://harding.edu,done
 Henderson State University,AR,4-year,public,https://www.hsu.edu,,,,,,,,pending
 Hendrix College,AR,4-year,private_nonprofit,https://www.hendrix.edu,Yes,Inclusive Access (Akademos),Per-course,Akademos,Various,Akademos bookstore; IA/EA/Student Choice,https://hendrix.edu; https://bkstr.com,done
 Jackson Theological Seminary,AR,4-year,private_nonprofit,https://jtseminary.edu,,,,,,,,pending
@@ -114,20 +114,20 @@ Southeast Arkansas College,AR,2-year,public,https://www.seark.edu,,,,,,,,pending
 Southern Arkansas University Main Campus,AR,4-year,public,https://www.saumag.edu,,,,,,,,pending
 Southern Arkansas University Tech,AR,2-year,public,https://www.sautech.edu,,,,,,,,pending
 Strayer University-Arkansas,AR,4-year,private_forprofit,https://www.strayer.edu/campus-locations/arkansas/little-rock,,,,,,,,pending
-University of Arkansas,AR,4-year,public,https://www.uark.edu,Yes,First Day / Inclusive Access,Per-course discounted,UA Bookstore,"VitalSource/Yuzu, Pearson, McGraw Hill, Cengage",Six-figure savings in pilots; Blackboard delivery; opt-out available,https://uark.edu; https://bkstr.com/uarkbookstore,done
+University of Arkansas,AR,4-year,public,https://www.uark.edu,yes,Inclusive Access / First Day,eBook via Blackboard; reduced cost; charged to account; opt-out,Barnes & Noble College,BN First Day; various; eBook via Blackboard,IA/First Day (formerly Inclusive Access). Piloted with significant savings. eBooks via Blackboard.,https://uark.edu; https://bncollege.com,done
 University of Arkansas Community College Rich Mountain,AR,2-year,public,https://www.uarichmountain.edu,,,,,,,,pending
 University of Arkansas Community College at Hope - Texarkana,AR,2-year,public,https://www.uaht.edu/index.php,,,,,,,,pending
 University of Arkansas Community College-Batesville,AR,2-year,public,https://www.uaccb.edu,,,,,,,,pending
 University of Arkansas Community College-Morrilton,AR,2-year,public,https://www.uaccm.edu,Yes,Inclusive Access Materials,Per-course (billed to account),UACCM Bookstore,Various via Blackboard,Auto-enrolled; charges removed if dropped,https://uaccm.edu; https://bkstr.com,done
 University of Arkansas Grantham,AR,4-year,public,https://www.uagrantham.edu,,,,,,,,pending
 University of Arkansas Hope-Texarkana,AR,2-year,public,https://www.uaht.edu/index.php,,,,,,,,pending
-University of Arkansas at Little Rock,AR,4-year,public,https://ualr.edu/www,Yes,Inclusive Access (pilot 2019),Per-course discounted,UALR Bookstore,Various,Pilot 2019; current status unclear,https://ualr.edu; https://bkstr.com/ualrbookstore,done
+University of Arkansas at Little Rock,AR,4-year,public,https://ualr.edu/www,yes,First Day Complete / First Day by Course,Course charge; digital via LMS; book voucher program for FA,Barnes & Noble College,BN First Day Complete / First Day by Course; various,BN First Day Complete and First Day by Course. Also book voucher program via FA. OER mini-grants.,https://ualr.edu; https://bncollege.com,done
 University of Arkansas at Monticello,AR,4-year,public,https://www.uamont.edu,,,,,,,,pending
 University of Arkansas at Pine Bluff,AR,4-year,public,https://www.uapb.edu,Unknown,N/A,Unknown,UAPB Bookstore,OpenStax (some),Some faculty use OpenStax OER,https://uapb.edu; https://bkstr.com,done
 University of Arkansas for Medical Sciences,AR,4-year,public,https://www.uams.edu,,,,,,,,pending
 University of Arkansas-Fort Smith,AR,4-year,public,https://uafs.edu,Yes,Lion Textbook Access Program (LTAP),Per-course (20-60% savings),Follett,Various via Blackboard,Follett managed; 20-60% savings; opt-out,https://uafs.edu; https://bkstr.com,done
 University of Arkansas-Pulaski Technical College,AR,2-year,public,https://uaptc.edu,Yes,Inclusive Access + Day One Access,Per-course (up to 75% savings),UA-PTC Bookstore,Various via Blackboard,150+ courses; financial aid eligible; opt-out,https://uaptc.edu; https://bkstr.com,done
-University of Central Arkansas,AR,4-year,public,https://www.uca.edu,Yes,Inclusive Access,Per-course (30-70% savings),UCA Bookstore,"VitalSource, Pearson MyLab, Cengage MindTap, McGraw Hill Connect, Macmillan, Sage",Blackboard delivery; opt-out via bookstore site; 30-70% off retail,https://uca.edu; https://bkstr.com/ucabookstore,done
+University of Central Arkansas,AR,4-year,public,https://www.uca.edu,yes,Inclusive Access,Discounted digital via Blackboard; billed to student account; opt-out,UCA Bookstore,Various; digital via Blackboard,IA: electronic materials at discounted rates via Blackboard. Also offers Emergency Textbook Grants.,https://theucabookstore.com; https://uca.edu,done
 University of the Ozarks,AR,4-year,private_nonprofit,https://ozarks.edu,,,,,,,,pending
 Williams Baptist University,AR,4-year,private_nonprofit,https://williamsbaptistuniversity.com,,,,,,,,pending
 American Samoa Community College,AS,4-year,public,https://www.amsamoa.edu,,,,,,,,pending
@@ -1244,11 +1244,11 @@ Guam Community College,GU,4-year,public,https://www.guamcc.edu,,,,,,,,pending
 Pacific Islands University,GU,4-year,private_nonprofit,https://www.piu.edu,,,,,,,,pending
 University of Guam,GU,4-year,public,https://www.uog.edu,,,,,,,,pending
 Brigham Young University-Hawaii,HI,4-year,private_nonprofit,https://www.byuh.edu,,,,,,,,pending
-Chaminade University of Honolulu,HI,4-year,private_nonprofit,https://www.chaminade.edu,,,,,,,,pending
+Chaminade University of Honolulu,HI,4-year,private_nonprofit,https://www.chaminade.edu,no,N/A,Traditional purchase via bookstore,University bookstore,Various,No formal IA program. Traditional bookstore textbook purchasing.,https://chaminade.edu,done
 Columbia College - USCG Base Honolulu,HI,4-year,private_nonprofit,https://www.ccis.edu/locations/honolulu,,,,,,,,pending
 Hawaii Community College,HI,2-year,public,https://www.hawaii.hawaii.edu,,,,,,,,pending
 Hawaii Medical College,HI,2-year,private_forprofit,https://www.hmi.edu,,,,,,,,pending
-Hawaii Pacific University,HI,4-year,private_nonprofit,https://www.hpu.edu,,,,,,,,pending
+Hawaii Pacific University,HI,4-year,private_nonprofit,https://www.hpu.edu,yes,Shark Bundle,$26.25/cr; auto-enrolled on registration; opt-out; all required materials,University bookstore,Various; textbooks + lab manuals + access codes + eBooks,Shark Bundle: $26.25/cr. All required materials including lab manuals and access codes. Auto-enrolled.,https://hpu.edu,done
 Honolulu Community College,HI,2-year,public,https://www.honolulu.hawaii.edu,,,,,,,,pending
 IBS School of Cosmetology and Massage,HI,2-year,private_forprofit,https://ibs-hi.com,,,,,,,,pending
 Institute of Clinical Acupuncture & Oriental Medicine,HI,4-year,private_forprofit,https://www.orientalmedicine.edu,,,,,,,,pending
@@ -1257,8 +1257,8 @@ Kauai Community College,HI,2-year,public,https://www.kauai.hawaii.edu,,,,,,,,pen
 Leeward Community College,HI,2-year,public,https://www.leeward.hawaii.edu,,,,,,,,pending
 Pacific Rim Christian University,HI,4-year,private_nonprofit,https://www.pacrim.edu/#home,,,,,,,,pending
 University of Hawaii Maui College,HI,4-year,public,https://maui.hawaii.edu,,,,,,,,pending
-University of Hawaii at Hilo,HI,4-year,public,https://hilo.hawaii.edu,Yes,IDAP (UH system),Per-course (MyUH billing),UH Bookstore,Various via Laulima,Part of UH system IDAP,https://hilo.hawaii.edu; https://bookstore.hawaii.edu,done
-University of Hawaii at Manoa,HI,4-year,public,https://manoa.hawaii.edu,Yes,Interactive Digital Access Program (IDAP),Per-course (MyUH billing),UH Bookstore,"Pearson, various via Laulima",System-wide IDAP; up to 60% savings; auto-enrolled; opt-out; scrutiny over transparency,https://www.bookstore.hawaii.edu; https://manoa.hawaii.edu,done
+University of Hawaii at Hilo,HI,4-year,public,https://hilo.hawaii.edu,yes,Interactive Digital Access Program (IDAP),IDAP Rental charge to MyUH account; auto-enrolled; opt-out,UH Bookstore,Various; digital via Laulima/Lamaku,IDAP same as Manoa. Digital via Laulima/Lamaku. Email notification for participating courses.,https://hawaii.edu,done
+University of Hawaii at Manoa,HI,4-year,public,https://manoa.hawaii.edu,yes,Interactive Digital Access Program (IDAP),IDAP Rental charge to MyUH account; auto-enrolled; opt-out for refund,UH Bookstore,Various; digital via Laulima,IDAP: digital materials via Laulima. IDAP Rental charge to MyUH. Opt-out for refund.,https://hawaii.edu,done
 University of Hawaii-West Oahu,HI,4-year,public,https://westoahu.hawaii.edu,Yes,IDAP (UH system),Per-course (MyUH billing),UH Bookstore,Various via Laulima,Part of UH system IDAP,https://westoahu.hawaii.edu; https://bookstore.hawaii.edu,done
 University of Phoenix-Hawaii,HI,4-year,private_forprofit,https://www.phoenix.edu,,,,,,,,pending
 Windward Community College,HI,2-year,public,https://windward.hawaii.edu,,,,,,,,pending
@@ -2547,13 +2547,13 @@ William Peace University,NC,4-year,private_nonprofit,https://www.peace.edu,,,,,,
 Wilson Community College,NC,2-year,public,https://www.wilsoncc.edu,,,,,,,,pending
 Wingate University,NC,4-year,private_nonprofit,https://www.wingate.edu,,,,,,,,pending
 Winston-Salem State University,NC,4-year,public,https://www.wssu.edu,,,,,,,,pending
-Bismarck State College,ND,4-year,public,https://bismarckstate.edu,,,,,,,,pending
+Bismarck State College,ND,4-year,public,https://bismarckstate.edu,no,N/A (Textbook Rental Program for select classes),Traditional purchase; rental for select core classes,BSC Bookstore,Various; rental for select classes,No formal IA. Textbook Rental Program for select core classes. FA usable for books.,https://bismarckstate.edu,done
 Cankdeska Cikana Community College,ND,2-year,public,https://www.littlehoop.edu,,,,,,,,pending
 Dakota College at Bottineau,ND,2-year,public,https://www.dakotacollege.edu,,,,,,,,pending
 Dickinson State University,ND,4-year,public,https://www.dickinsonstate.edu,,,,,,,,pending
 Lake Region State College,ND,2-year,public,https://www.lrsc.edu,,,,,,,,pending
 Mayville State University,ND,4-year,public,https://www.mayvillestate.edu,,,,,,,,pending
-Minot State University,ND,4-year,public,https://www.minotstateu.edu,,,,,,,,pending
+Minot State University,ND,4-year,public,https://www.minotstateu.edu,yes,First Day Complete / First Day by Course,Digital items included; charged with tuition; opt-out,Barnes & Noble College,BN First Day; textbook rental; digital solutions,BN First Day Complete/by Course. Digital items included. Textbook rental also available.,https://minotstateu.edu; https://bncollege.com,done
 North Dakota State College of Science,ND,2-year,public,https://www.ndscs.edu,,,,,,,,pending
 North Dakota State University-Main Campus,ND,4-year,public,https://www.ndsu.edu,Yes,Bison Ready (Inclusive Access evolved),Flat rate/semester,NDSU Bookstore,Various via LMS,Bison Ready Fall 2025; flat rate; Complete or Select options; first-day digital; opt-out,https://ndsu.bncollege.com; https://ndsu.edu,done
 Nueta Hidatsa Sahnish College,ND,4-year,public,https://www.nhsc.edu,,,,,,,,pending
@@ -2567,7 +2567,7 @@ United Tribes Technical College,ND,4-year,private_nonprofit,https://uttc.edu,,,,
 University of Jamestown,ND,4-year,private_nonprofit,https://www.uj.edu,,,,,,,,pending
 University of Mary,ND,4-year,private_nonprofit,https://www.umary.edu,,,,,,,,pending
 University of North Dakota,ND,4-year,public,https://und.edu,Yes,Follett Access,Per-course (up to 60% off),Follett,Various via LMS,Follett Access; per-course; auto-enrolled; opt-out; up to 60% savings,https://und.bncollege.com; https://und.edu,done
-Valley City State University,ND,4-year,public,https://www.vcsu.edu,,,,,,,,pending
+Valley City State University,ND,4-year,public,https://www.vcsu.edu,no,N/A (OER focus),Traditional purchase; strong OER adoption,VCSU Bookstore,Various; extensive OER adoption,No formal IA. Strong OER focus: saved students $1.5M+ since 2013. Books available 2 weeks before term.,https://vcsu.edu,done
 Williston State College,ND,2-year,public,https://willistonstate.edu,,,,,,,,pending
 Bellevue University,NE,4-year,private_nonprofit,https://www.bellevue.edu,,,,,,,,pending
 Bryan College of Health Sciences,NE,4-year,private_nonprofit,https://www.bryanhealthcollege.edu/bcohs,,,,,,,,pending
@@ -2748,20 +2748,20 @@ Carrington College-Albuquerque,NM,2-year,private_forprofit,https://carrington.ed
 Central New Mexico Community College,NM,2-year,public,https://www.cnm.edu,,,,,,,,pending
 Clovis Community College,NM,2-year,public,https://www.clovis.edu,,,,,,,,pending
 Eastern New Mexico University Ruidoso Branch Community College,NM,2-year,public,https://www.ruidoso.enmu.edu,,,,,,,,pending
-Eastern New Mexico University-Main Campus,NM,4-year,public,https://www.enmu.edu,,,,,,,,pending
+Eastern New Mexico University-Main Campus,NM,4-year,public,https://www.enmu.edu,yes,Digital Delivery Program / All-Inclusive Access (Ruidoso),Billed with tuition; lowest price digital; auto-enrolled; opt-out,BibliU (Ruidoso); Campus store,BibliU; various; digital via Canvas,Digital Delivery integrates costs into tuition. Ruidoso branch uses BibliU All-Inclusive Access.,https://enmu.edu; https://enmucampusstore.com,done
 Eastern New Mexico University-Roswell Campus,NM,2-year,public,https://www.roswell.enmu.edu,,,,,,,,pending
 Institute of American Indian and Alaska Native Culture and Arts Development,NM,4-year,public,https://iaia.edu,,,,,,,,pending
 Luna Community College,NM,2-year,public,https://www.luna.edu,,,,,,,,pending
 Mesalands Community College,NM,2-year,public,https://www.mesalands.edu,,,,,,,,pending
 Navajo Technical University,NM,4-year,public,https://www.navajotech.edu,,,,,,,,pending
-New Mexico Highlands University,NM,4-year,public,https://www.nmhu.edu,,,,,,,,pending
+New Mexico Highlands University,NM,4-year,public,https://www.nmhu.edu,yes,Inclusive Access,Reduced price digital via D2L; charged to Bursar; up to 60% savings; opt-out,University bookstore,Various; digital via D2L (Brightspace),IA via D2L. Up to 60% savings vs new print. Charged to Bursar ~5 days after opt-out deadline.,https://nmhu.edu; https://textbooktech.com,done
 New Mexico Institute of Mining and Technology,NM,4-year,public,https://www.nmt.edu,,,,,,,,pending
 New Mexico Junior College,NM,2-year,public,https://www.nmjc.edu,,,,,,,,pending
 New Mexico Military Institute,NM,2-year,public,https://www.nmmi.edu,,,,,,,,pending
 New Mexico State University-Alamogordo,NM,2-year,public,https://alamogordo.nmsu.edu,,,,,,,,pending
 New Mexico State University-Dona Ana,NM,2-year,public,https://dacc.nmsu.edu,,,,,,,,pending
 New Mexico State University-Grants,NM,2-year,public,https://grants.nmsu.edu,,,,,,,,pending
-New Mexico State University-Main Campus,NM,4-year,public,https://www.nmsu.edu,Yes,Follett Access,$24/credit hour,Follett,Various via Canvas,Follett Access; NMSU-Alamogordo $24/cr Fall 2023; 30-50% savings; Canvas delivery; opt-out,https://nmsu.bncollege.com; https://nmsu.edu,done
+New Mexico State University-Main Campus,NM,4-year,public,https://www.nmsu.edu,yes,Follett Access,$24/cr (Alamogordo); 30-50% savings; digital first day; charged with registration; opt-out,Follett,Various; digital via Canvas; physical pickup at bookstore,System-wide Follett Access. $24/cr at Alamogordo. 30-50% savings. Digital via Canvas.,https://nmsu.edu,done
 Northern New Mexico College,NM,4-year,public,https://nnmc.edu,,,,,,,,pending
 Pima Medical Institute-Albuquerque,NM,2-year,private_forprofit,https://pmi.edu,,,,,,,,pending
 San Juan College,NM,2-year,public,https://www.sanjuancollege.edu,,,,,,,,pending
@@ -2772,30 +2772,30 @@ Southwestern Indian Polytechnic Institute,NM,2-year,public,https://www.sipi.edu,
 St. John's College,NM,4-year,private_nonprofit,https://www.sjc.edu,,,,,,,,pending
 University of New Mexico-Gallup Campus,NM,2-year,public,https://www.gallup.unm.edu,,,,,,,,pending
 University of New Mexico-Los Alamos Campus,NM,2-year,public,https://losalamos.unm.edu,,,,,,,,pending
-University of New Mexico-Main Campus,NM,4-year,public,https://www.unm.edu,Yes,UNM Course Materials Access Program,$279/semester flat (Fall 2025),UNM Bookstores,Various via Canvas,IA since decade; 72% of materials via IA 2024; Fall 2025 EA pilot $279/sem Complete; Select (per-item) or Opt-Out options,https://unm.bncollege.com; https://unm.edu,done
+University of New Mexico-Main Campus,NM,4-year,public,https://www.unm.edu,yes,UNM Course Materials Access Program,$279/sem flat rate (2025-26); Complete/Select/Opt-Out options; digital+physical+kits,University bookstore,RedShelf platform via Canvas; various publishers,2-year pilot from Fall 2025. $279/sem 'Complete' option. Includes art/architecture kits. Digital via RedShelf on Canvas.,https://unm.edu,done
 University of New Mexico-Taos Campus,NM,2-year,public,https://taos.unm.edu,,,,,,,,pending
 University of New Mexico-Valencia County Campus,NM,2-year,public,https://valencia.unm.edu,,,,,,,,pending
 University of the Southwest,NM,4-year,private_nonprofit,https://www.usw.edu,,,,,,,,pending
-Western New Mexico University,NM,4-year,public,https://wnmu.edu,,,,,,,,pending
+Western New Mexico University,NM,4-year,public,https://wnmu.edu,yes,WNMU|ACCESS,Integrated into tuition; up to 30% savings; FA eligible; auto-enrolled; opt-out,University bookstore,Various; texts and e-texts upon registration,WNMU|ACCESS: cost in tuition. Up to 30% savings. Materials 1-2 weeks before class. FA eligible.,https://wnmu.edu,done
 Arizona College of Nursing-Las Vegas,NV,4-year,private_forprofit,https://www.arizonacollege.edu,,,,,,,,pending
 Aviation Institute of Maintenance-Las Vegas,NV,2-year,private_forprofit,https://aviationmaintenance.edu/campuses/las-vegas-nv,,,,,,,,pending
 Carrington College-Las Vegas,NV,2-year,private_forprofit,https://carrington.edu,,,,,,,,pending
 Carrington College-Reno,NV,2-year,private_forprofit,https://carrington.edu,,,,,,,,pending
 Chamberlain University-Nevada,NV,4-year,private_forprofit,https://www.chamberlain.edu,,,,,,,,pending
-College of Southern Nevada,NV,4-year,public,https://www.csn.edu,,,,,,,,pending
+College of Southern Nevada,NV,4-year,public,https://www.csn.edu,yes,Inclusive Access Program (BibliU partnership),Bundled with tuition; FA eligible; 20-60% savings; auto-enrolled; opt-out,BibliU (CSN Campus Store),BibliU platform; various; digital via Canvas,BibliU partnership. 20-60% savings. Bundled with tuition. FA eligible. Campus Store powered by BibliU.,https://csn.edu; https://bibliu.com,done
 DeVry University-Nevada,NV,4-year,private_forprofit,https://www.devry.edu,,,,,,,,pending
 Galen Health Institutes-Las Vegas,NV,4-year,private_forprofit,https://galencollege.edu,,,,,,,,pending
 Great Basin College,NV,4-year,public,https://www.gbcnv.edu,,,,,,,,pending
 Las Vegas College,NV,4-year,private_forprofit,https://lvcollege.edu,,,,,,,,pending
 Nevada Career Institute,NV,2-year,private_forprofit,https://www.nevadacareerinstitute.com,,,,,,,,pending
-Nevada State University,NV,4-year,public,https://nevadastate.edu,,,,,,,,pending
+Nevada State University,NV,4-year,public,https://nevadastate.edu,yes,Inclusive Access (via Follett),Digital via LMS; details via LMS instructions,Follett,Various; digital via LMS,Follett-run bookstore. Digital books available via LMS. Not as formally branded as UNLV/UNR.,https://nsc.edu; https://bkstr.com,done
 Northwest Career College,NV,2-year,private_forprofit,https://www.northwestcareercollege.edu,,,,,,,,pending
 Pima Medical Institute-Las Vegas,NV,2-year,private_forprofit,https://pmi.edu,,,,,,,,pending
 Roseman University of Health Sciences,NV,4-year,private_nonprofit,https://www.roseman.edu,,,,,,,,pending
 Touro University Nevada,NV,4-year,private_nonprofit,https://www.tun.touro.edu,,,,,,,,pending
 Truckee Meadows Community College,NV,4-year,public,https://www.tmcc.edu,,,,,,,,pending
-University of Nevada-Las Vegas,NV,4-year,public,https://www.unlv.edu,Yes,Inclusive Access / First Day (BN),Per-course (auto-billed),Barnes & Noble,Various via LMS,Spring 2020 launch; $2M+ saved; 30% avg savings; 80% student approval; BN First Day; opt-out,https://unlv.bncollege.com; https://unlv.edu,done
-University of Nevada-Reno,NV,4-year,public,https://www.unr.edu,Yes,First Day (BN / Wolf Shop),Per-course (<15% margin),Barnes & Noble,Various via Canvas,BN managing since June 2020; <15% margin; Canvas delivery; opt-out,https://unr.bncollege.com; https://unr.edu,done
+University of Nevada-Las Vegas,NV,4-year,public,https://www.unlv.edu,yes,First Day (Inclusive Access),Additional course charge; digital via LMS; lowest publisher price; opt-out,Barnes & Noble College,BN First Day; various; digital via LMS,First Day IA piloted Spring 2020. Saved students $2M+. Lowest publisher price negotiated.,https://unlv.edu; https://bncollege.com,done
+University of Nevada-Reno,NV,4-year,public,https://www.unr.edu,yes,First Day (Inclusive Access),Reduced price; charged to student account; digital via Canvas; opt-out,Barnes & Noble College (Nevada Wolf Shop),BN First Day; various; digital via Canvas,First Day via Nevada Wolf Shop (BN). Digital via Canvas. Also robust textbook rental program.,https://unr.edu; https://bncollege.com,done
 University of Phoenix-Nevada,NV,4-year,private_forprofit,https://www.phoenix.edu,,,,,,,,pending
 Western Nevada College,NV,4-year,public,https://www.wnc.edu,,,,,,,,pending
 Wongu University of Oriental Medicine,NV,4-year,private_nonprofit,https://www.wongu.edu,,,,,,,,pending
@@ -3888,19 +3888,19 @@ Avera McKennan Hospital School of Radiologic Technology,SD,2-year,private_nonpro
 Avera Sacred Heart Hospital,SD,2-year,private_nonprofit,https://www.averasacredheart.org,,,,,,,,pending
 Black Hills State University,SD,4-year,public,https://www.bhsu.edu,,,,,,,,pending
 California Intercontinental University,SD,4-year,private_forprofit,https://www.caluniversity.edu,,,,,,,,pending
-Dakota State University,SD,4-year,public,https://dsu.edu,,,,,,,,pending
+Dakota State University,SD,4-year,public,https://dsu.edu,yes,First Day Access,Billed with tuition; auto-available day 1; opt-out to get print instead,DSU Bookstore,Various; courseware via LMS,First Day Access: courseware auto-available day 1. Billed w/ tuition. Opt-out for print option.,https://dsu.edu,done
 Dakota Wesleyan University,SD,4-year,private_nonprofit,https://www.dwu.edu,,,,,,,,pending
 Kairos University,SD,4-year,private_nonprofit,https://www.kairos.edu,,,,,,,,pending
 Lake Area Technical College,SD,2-year,public,https://www.lakeareatech.edu,,,,,,,,pending
 Mitchell Technical College,SD,2-year,public,https://www.mitchelltech.edu,,,,,,,,pending
 Mount Marty University,SD,4-year,private_nonprofit,https://www.mountmarty.edu,,,,,,,,pending
 National American University-Rapid City,SD,4-year,private_forprofit,https://www.national.edu/locations/campuses/rapid-city,,,,,,,,pending
-Northern State University,SD,4-year,public,https://northern.edu,,,,,,,,pending
+Northern State University,SD,4-year,public,https://northern.edu,yes,First Day Access (Inclusive Access),Discounted digital; charged to tuition; opt-out via eLibrary; loose-leaf option,NSU Bookstore,Various; digital via D2L; optional loose-leaf print,First Day Access: discounted digital via D2L. Opt-out via eLibrary. Loose-leaf print option.,https://northern.edu,done
 Oglala Lakota College,SD,4-year,public,https://www.olc.edu,,,,,,,,pending
 Sanford Medical Center,SD,2-year,private_nonprofit,https://www.sanfordhealth.org,,,,,,,,pending
 Sinte Gleska University,SD,4-year,public,https://www.sintegleska.edu,,,,,,,,pending
 Sisseton Wahpeton College,SD,4-year,public,https://www.swcollege.edu,,,,,,,,pending
-South Dakota School of Mines and Technology,SD,4-year,public,https://www.sdsmt.edu,,,,,,,,pending
+South Dakota School of Mines and Technology,SD,4-year,public,https://www.sdsmt.edu,yes,First Day Access (Inclusive Access),Digital via D2L; charged to account; opt-out by add/drop; some auto-included in tuition,SDSMT Bookstore,Various; digital via D2L; adopted by SD Board of Regents,FDA per SD Board of Regents. Digital via D2L. Some e-books auto-included in tuition.,https://sdsmt.edu; https://sdsmtbookstore.com,done
 South Dakota State University,SD,4-year,public,https://www.sdstate.edu,Yes,First Day Access (Board of Regents),Per-course (billed to account),SDSU Bookstore,VitalSource via D2L,System-wide FDA; VitalSource First Day Access; D2L delivery; auto-billed; opt-out,https://sdsu.bncollege.com; https://sdstate.edu,done
 Southeast Technical College,SD,2-year,public,https://www.southeasttech.edu,,,,,,,,pending
 University of Sioux Falls,SD,4-year,private_nonprofit,https://www.usiouxfalls.edu,,,,,,,,pending
@@ -4287,7 +4287,7 @@ Western Texas College,TX,2-year,public,https://www.wtc.edu,,,,,,,,pending
 Wharton County Junior College,TX,2-year,public,https://www.wcjc.edu,,,,,,,,pending
 Wiley University,TX,4-year,private_nonprofit,https://wileyc.edu,,,,,,,,pending
 Arizona College of Nursing-Salt Lake City,UT,4-year,private_forprofit,https://www.arizonacollege.edu,,,,,,,,pending
-Brigham Young University,UT,4-year,private_nonprofit,https://byu.edu,,,,,,,,pending
+Brigham Young University,UT,4-year,private_nonprofit,https://byu.edu,yes,Inclusive Access / Student First Program,IA: digital added to tuition; opt-out period. Student First: textbook rental,BYU Store,Various; VitalSource; digital via LMS,BYU acknowledges IA model. BYU-Hawaii uses auto-access eBooks via VitalSource. BYU Provo has Student First rental program.,https://byu.edu; https://byuh.edu,done
 Careers Unlimited,UT,4-year,private_forprofit,https://www.ucdh.edu/home,,,,,,,,pending
 Columbia College - Salt Lake,UT,4-year,private_nonprofit,https://www.ccis.edu/locations/salt-lake,,,,,,,,pending
 Eagle Gate College-Layton,UT,4-year,private_forprofit,https://www.eaglegatecollege.edu,,,,,,,,pending
@@ -4308,11 +4308,11 @@ Salt Lake Community College,UT,2-year,public,https://www.slcc.edu,,,,,,,,pending
 Snow College,UT,4-year,public,https://www.snow.edu,,,,,,,,pending
 Snow College-Richfield Campus,UT,2-year,public,https://www.snow.edu/richfield,,,,,,,,pending
 Southern Utah University,UT,4-year,public,https://www.suu.edu,,,,,,,,pending
-University of Utah,UT,4-year,public,https://www.utah.edu,Yes,Utah Day 1 Books Access + Inclusive Access,$259/semester flat (UG),Campus Store,Various via Canvas,Day 1 Books $259/sem flat UG; Inclusive Access per-course up to 80% off; Canvas delivery; opt-out by add/drop; 50%+ savings,https://campusstore.utah.edu; https://utah.edu,done
-Utah State University,UT,4-year,public,https://www.usu.edu,Yes,Aggie Access + Auto Access,$250/semester ($150 summer),USU Campus Store,Various via Canvas,Aggie Access $250/sem flat; Auto Access per-course digital; Canvas delivery; opt-out; physical+digital,https://usu.bncollege.com; https://usu.edu,done
+University of Utah,UT,4-year,public,https://www.utah.edu,yes,Inclusive Access + Day 1 Books Access Program,$259/sem flat rate (Fall 2025); digital+print; auto-enrolled; opt-out,Campus Store,Various; digital via Canvas; physical pickup,Day 1 Books: $259/sem flat rate for all undergrads. Digital via Canvas. Also runs traditional IA.,https://utah.edu,done
+Utah State University,UT,4-year,public,https://www.usu.edu,yes,Aggie Access,$250/sem (fall/spring); $150/sem (summer); flat rate; physical+digital; opt-out,USU Campus Store,Various; digital via Canvas; physical included,Aggie Access: $250/sem flat rate. Physical+digital books. Auto-enrolled. Started Fall 2024.,https://usucampusstore.com,done
 Utah Tech University,UT,4-year,public,https://utahtech.edu,,,,,,,,pending
-Utah Valley University,UT,4-year,public,https://www.uvu.edu,,,,,,,,pending
-Weber State University,UT,4-year,public,https://www.weber.edu,,,,,,,,pending
+Utah Valley University,UT,4-year,public,https://www.uvu.edu,yes,Wolverine Access,$250/sem (fall/spring); $150/sem (summer); bundled; digital+print; opt-out,UVU Store,Various; digital via Canvas; print via UVU Store,"Wolverine Access: $250/sem flat rate. Digital in Canvas, print at UVU Store. Auto-enrolled. Opt-out via Canvas.",https://uvu.edu,done
+Weber State University,UT,4-year,public,https://www.weber.edu,yes,Day One Access (DOA),Reduced cost; charged with tuition; opt-out by add/drop; digital via Canvas,Wildcat Store,Various; digital via Canvas or access codes,"Day One Access: collaboration between Wildcat Store, faculty, and publishers. Significant cost reduction.",https://weber.edu,done
 Western Governors University,UT,4-year,private_nonprofit,https://www.wgu.edu,,,,,,,,pending
 Westminster University,UT,4-year,private_nonprofit,https://www.westminstercollege.edu,,,,,,,,pending
 Advanced Technology Institute,VA,2-year,private_forprofit,https://www.auto.edu,,,,,,,,pending
@@ -4628,7 +4628,7 @@ Carver Career Center,WV,2-year,public,https://www.carvercareercenter.edu,,,,,,,,
 Catholic International University,WV,4-year,private_nonprofit,https://catholiciu.edu,,,,,,,,pending
 Charleston School of Beauty Culture,WV,2-year,private_forprofit,https://wvcsbc.net,,,,,,,,pending
 Clarksburg Beauty Academy and School of Massage Therapy,WV,2-year,private_forprofit,https://clarksburgbeautyacademywv.com,,,,,,,,pending
-Concord University,WV,4-year,public,https://www.concord.edu,,,,,,,,pending
+Concord University,WV,4-year,public,https://www.concord.edu,yes,Concord Complete Textbook Program (formerly Follett ACCESS),Auto-enrolled; discounted; required materials first day; opt-out,Follett (moving to Kortext 2025),Various; digital via Kortext (2025); previously Follett,Concord Complete (was Follett ACCESS). Moving to Kortext for digital in 2025. Auto-enrolled. Opt-out.,https://concord.edu; https://bkstr.com,done
 Davis & Elkins College,WV,4-year,private_nonprofit,https://www.dewv.edu,,,,,,,,pending
 Eastern West Virginia Community and Technical College,WV,2-year,public,https://www.easternwv.edu,,,,,,,,pending
 Fairmont State University,WV,4-year,public,https://www.fairmontstate.edu,,,,,,,,pending
@@ -4648,7 +4648,7 @@ Pierpont Community and Technical College,WV,2-year,public,https://www.pierpont.e
 Potomac State College of West Virginia University,WV,4-year,public,https://www.potomacstatecollege.edu,,,,,,,,pending
 Roane-Jackson Technical Center,WV,2-year,public,https://www.rjtcwv.com,,,,,,,,pending
 Salem University,WV,4-year,private_forprofit,https://www.salemu.edu,,,,,,,,pending
-Shepherd University,WV,4-year,public,https://www.shepherd.edu,,,,,,,,pending
+Shepherd University,WV,4-year,public,https://www.shepherd.edu,yes,Affordable Access,Reduced price for participating courses; digital via LMS; opt-out,Follett,Various; digital via LMS,Affordable Access: participating courses only. Digital via LMS. Savings vs traditional pricing.,https://shepherd.edu; https://bkstr.com,done
 Southern West Virginia Community and Technical College,WV,2-year,public,https://www.southernwv.edu,,,,,,,,pending
 Strayer University-West Virginia,WV,4-year,private_forprofit,https://www.strayer.edu/campus-locations/west-virginia/teays-valley,,,,,,,,pending
 University of Charleston,WV,4-year,private_nonprofit,https://www.ucwv.edu,,,,,,,,pending
@@ -4660,7 +4660,7 @@ West Virginia Junior College-Charleston,WV,2-year,private_forprofit,https://www.
 West Virginia Junior College-Morgantown,WV,4-year,private_forprofit,https://www.wvjc.edu,,,,,,,,pending
 West Virginia Northern Community College,WV,2-year,public,https://www.wvncc.edu,,,,,,,,pending
 West Virginia School of Osteopathic Medicine,WV,4-year,public,https://www.wvsom.edu,,,,,,,,pending
-West Virginia State University,WV,4-year,public,https://www.wvstateu.edu,,,,,,,,pending
+West Virginia State University,WV,4-year,public,https://www.wvstateu.edu,no,N/A,Traditional purchase via bookstore,University bookstore,Various,No formal IA program. Traditional bookstore only.,https://wvstateu.edu,done
 West Virginia University,WV,4-year,public,https://www.wvu.edu,Yes,First Day Complete,"$345/semester (FT UG), $161 (PT UG)",WVU Bookstore (BN),Various via Canvas,"BN FDC; $345/sem FT UG, $161 PT; rental basis; 22-50% savings; auto-enrolled; opt-out; grad/prof excluded",https://wvu.bncollege.com; https://wvu.edu,done
 West Virginia University Hospital Departments of Rad Tech and Nutrition,WV,4-year,private_nonprofit,https://wvumedicine.org/radtech,,,,,,,,pending
 West Virginia University Institute of Technology,WV,4-year,public,https://www.wvutech.edu,,,,,,,,pending
