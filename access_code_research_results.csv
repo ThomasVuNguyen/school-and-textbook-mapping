@@ -1341,12 +1341,12 @@ Eagle Gate College-Boise Campus,ID,4-year,private_forprofit,https://www.eaglegat
 Evans Hairstyling College-Rexburg,ID,2-year,private_forprofit,https://www.evanshairstylingcollege.com,,,,,,,,pending
 Idaho College of Osteopathic Medicine,ID,4-year,private_forprofit,https://www.icom.edu,,,,,,,,pending
 Idaho State University,ID,4-year,public,https://www.isu.edu,Yes,ISU Book Bundle (BN FDC),$24.75/credit hour,Barnes & Noble,Various via Canvas,BN First Day Complete; rental+digital; 30-50% savings; 24% avg Fall 2024,https://isu.bncollege.com; https://isu.edu,done
-Lewis-Clark State College,ID,4-year,public,https://www.lcsc.edu,,,,,,,,pending
+Lewis-Clark State College,ID,4-year,public,https://www.lcsc.edu,yes,Warrior Instant Access,Auto-added to student account; opt-out available,LCSC Bookstore,Various; digital via LMS,Warrior Instant Access: course material cost auto-added to account. Opt-out if prefer independent purchase.,https://lcsc.edu,done
 New Saint Andrews College,ID,4-year,private_nonprofit,https://nsa.edu,,,,,,,,pending
 North Idaho College,ID,2-year,public,https://www.nic.edu,,,,,,,,pending
 Northwest Nazarene University,ID,4-year,private_nonprofit,https://www.nnu.edu,,,,,,,,pending
 Provo College-Idaho Falls Campus,ID,4-year,private_forprofit,https://www.eaglegatecollege.edu,,,,,,,,pending
-The College of Idaho,ID,4-year,private_nonprofit,https://www.collegeofidaho.edu,,,,,,,,pending
+The College of Idaho,ID,4-year,private_nonprofit,https://www.collegeofidaho.edu,no,N/A,Traditional purchase via online bookstore,Official online bookstore,Various; linked courses with assigned books,No formal IA. Online bookstore links courses with assigned books.,https://collegeofidaho.edu,done
 University of Idaho,ID,4-year,public,https://www.uidaho.edu,Yes,Vandal Day One Access,Per-course discounted,Vandal Store,"VitalSource, various via Canvas",VitalSource platform; opt-in; 23% avg savings,https://uidaho.bncollege.com; https://uidaho.edu,done
 Adler University,IL,4-year,private_nonprofit,https://www.adler.edu,,,,,,,,pending
 Ambria College of Nursing,IL,4-year,private_forprofit,https://ambria.edu,,,,,,,,pending
@@ -2373,7 +2373,7 @@ Wesley Biblical Seminary,MS,4-year,private_nonprofit,https://www.wbs.edu,,,,,,,,
 William Carey University,MS,4-year,private_nonprofit,https://www.wmcarey.edu,,,,,,,,pending
 Aaniiih Nakoda College,MT,4-year,public,https://www.ancollege.edu,,,,,,,,pending
 Blackfeet Community College,MT,4-year,private_nonprofit,https://bfcc.edu,,,,,,,,pending
-Carroll College,MT,4-year,private_nonprofit,https://www.carroll.edu,,,,,,,,pending
+Carroll College,MT,4-year,private_nonprofit,https://www.carroll.edu,yes,Automatic Digital Course Materials,Auto-provided; billed after midpoint of semester; digital via Canvas 2wks before class,Carroll bookstore,Various; digital via Canvas; 180+ day access,Auto digital materials via Canvas 2 weeks before class. Billed after midpoint. 180+ day access. No separate bookstore purchase.,https://carroll.edu,done
 Chief Dull Knife College,MT,2-year,public,https://cdkc.edu,,,,,,,,pending
 City College Montana State University Billings,MT,2-year,public,https://www.msubillings.edu/citycollege,,,,,,,,pending
 Dawson Community College,MT,2-year,public,https://www.dawson.edu,,,,,,,,pending
@@ -2388,13 +2388,13 @@ Montana Bible College,MT,4-year,private_nonprofit,https://montanabiblecollege.ed
 Montana State University,MT,4-year,public,https://www.montana.edu,Yes,Inclusive Access (VitalSource/RedShelf),Per-course (billed after day 15),MSU Bookstore,"VitalSource, RedShelf",Canvas delivery; millions saved; per-course negotiated pricing; opt-out by add/drop,https://msubookstore.montana.edu; https://montana.edu,done
 Montana State University Billings,MT,4-year,public,https://www.msubillings.edu,,,,,,,,pending
 Montana State University-Northern,MT,4-year,public,https://www.msun.edu,,,,,,,,pending
-Montana Technological University,MT,4-year,public,https://www.mtech.edu,,,,,,,,pending
+Montana Technological University,MT,4-year,public,https://www.mtech.edu,no,N/A (faculty OER focus),Traditional purchase; some free faculty-authored texts,BN College (virtual),Various; some free faculty-authored textbooks,No formal IA. Faculty-authored free writing textbooks. Digital accessibility focus.,https://mtech.edu,done
 Pima Medical Institute-Dillon,MT,2-year,private_forprofit,https://pmi.edu,,,,,,,,pending
 Rocky Mountain College,MT,4-year,private_nonprofit,https://www.rocky.edu,,,,,,,,pending
 Salish Kootenai College,MT,4-year,public,https://www.skc.edu,,,,,,,,pending
 Stone Child College,MT,4-year,public,https://www.stonechild.edu,,,,,,,,pending
-The University of Montana,MT,4-year,public,https://www.umt.edu,,,,,,,,pending
-The University of Montana-Western,MT,4-year,public,https://umwestern.edu,,,,,,,,pending
+The University of Montana,MT,4-year,public,https://www.umt.edu,no,N/A (OER/rental/TRIO focus),Traditional purchase; rental; TRIO Book Loan; OER,UM Bookstore (Follett),Various; OER; rental; TRIO Book Loan,No formal IA. OER supported. TRIO Book Loan for low-income. Textbook rental. UM Bookstore via Follett.,https://umt.edu; https://bkstr.com,done
+The University of Montana-Western,MT,4-year,public,https://umwestern.edu,no,N/A,Traditional purchase via bookstore,University bookstore,Various,No formal IA. Standard bookstore textbook lookup.,https://umwestern.edu,done
 University of Providence,MT,4-year,private_nonprofit,https://www.uprovidence.edu,,,,,,,,pending
 Alamance Community College,NC,2-year,public,https://www.alamancecc.edu,,,,,,,,pending
 Appalachian State University,NC,4-year,public,https://www.appstate.edu,yes,Textbook Rental Program,$290/semester undergrad; $125/semester grad; fixed fee; opt-out,Self-operated,Various; ~85% digital via AsULearn,Fixed fee. 85% digital via AsULearn. Both undergrad and grad. Opt-out available.,https://appstate.edu; https://theappalachianonline.com,done
@@ -4667,12 +4667,12 @@ West Virginia University Institute of Technology,WV,4-year,public,https://www.wv
 West Virginia University at Parkersburg,WV,4-year,public,https://www.wvup.edu,,,,,,,,pending
 West Virginia Wesleyan College,WV,4-year,private_nonprofit,https://www.wvwc.edu,,,,,,,,pending
 Wheeling University,WV,4-year,private_nonprofit,https://www.wheeling.edu,,,,,,,,pending
-Casper College,WY,2-year,public,https://www.caspercollege.edu,,,,,,,,pending
+Casper College,WY,2-year,public,https://www.caspercollege.edu,yes,Inclusive Access,IA course materials via vendors; expanding rental; FA eligible,Follett,Various; inclusive access + digital + rental,IA course materials provided via vendors. Expanding rental program. Books needed by first day.,https://caspercollege.edu; https://bkstr.com,done
 Central Wyoming College,WY,4-year,public,https://www.cwc.edu,,,,,,,,pending
 Eastern Wyoming College,WY,2-year,public,https://ewc.wy.edu,,,,,,,,pending
-Laramie County Community College,WY,4-year,public,https://www.lccc.wy.edu,,,,,,,,pending
+Laramie County Community College,WY,4-year,public,https://www.lccc.wy.edu,no,N/A,Traditional purchase; some free online materials,College bookstore,Various; some free online content,No formal IA program. Some courses come with textbook or free online materials.,https://lccc.wy.edu,done
 Northern Wyoming Community College District,WY,2-year,public,https://www.sheridan.edu,,,,,,,,pending
-Northwest College,WY,4-year,public,https://www.nwc.edu,,,,,,,,pending
+Northwest College,WY,4-year,public,https://www.nwc.edu,no,N/A,Traditional purchase/rental; FA covers books,NWC Bookstore,Various; purchase or rental,No formal IA. FA can cover books. Books needed by first day.,https://nwc.edu,done
 University of Wyoming,WY,4-year,public,https://www.uwyo.edu,Yes,StartRight+,"$275/semester (UG), $120 (grad)",University Store,Various via Canvas (WyoCourses),"StartRight+ Fall 2025; $275/sem UG, $120 grad; digital-first via Canvas; physical pickup available; auto-enrolled; opt-out",https://uwyostore.com; https://uwyo.edu,done
-Western Wyoming Community College,WY,4-year,public,https://www.westernwyoming.edu,,,,,,,,pending
+Western Wyoming Community College,WY,4-year,public,https://www.westernwyoming.edu,yes,Day One Access / Inclusive Access,IA materials available; Day One Access model; returns within 24hr of first day,WWCC Bookstore,Various; inclusive access materials,Day One Access/IA. Materials affordable and accessible first day. Improve course completion/success.,https://wwcc.wy.edu; https://wwccbookstore.com,done
 WyoTech,WY,2-year,private_forprofit,https://www.wyotech.edu,,,,,,,,pending
