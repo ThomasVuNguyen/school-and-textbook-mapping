@@ -1,0 +1,723 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>US College Textbook Programs — Dashboard 2.0</title>
+    <meta name="description"
+        content="Interactive dashboard analyzing inclusive access textbook programs across 6,400+ US colleges and universities.">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://d3js.org/topojson.v3.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --bg-primary: #0f111a;
+            --bg-secondary: #1a1d2d;
+            --bg-card: #202438;
+            --bg-card-hover: #2a2f4c;
+            --border: #353b5a;
+            --text-primary: #f8fafc;
+            --text-secondary: #94a3b8;
+            --text-muted: #64748b;
+            --accent-blue: #3b82f6;
+            --accent-cyan: #06b6d4;
+            --accent-green: #10b981;
+            --accent-red: #ef4444;
+            --accent-orange: #f59e0b;
+            --accent-purple: #8b5cf6;
+            --gradient-1: linear-gradient(135deg, #3b82f6, #8b5cf6);
+            --gradient-2: linear-gradient(135deg, #06b6d4, #10b981);
+            --gradient-3: linear-gradient(135deg, #f59e0b, #ef4444);
+            --shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+            --shadow-glow: 0 0 25px rgba(59, 130, 246, 0.2);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            padding-bottom: 60px;
+        }
+
+        .bg-mesh {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(circle at 15% 10%, rgba(59, 130, 246, 0.1) 0%, transparent 40%),
+                radial-gradient(circle at 85% 90%, rgba(139, 92, 246, 0.1) 0%, transparent 40%);
+            pointer-events: none;
+            z-index: -1;
+        }
+
+        .container {
+            max-width: 1300px;
+            margin: 0 auto;
+            padding: 0 24px;
+        }
+
+        header {
+            text-align: center;
+            padding: 60px 0 40px;
+        }
+
+        .badge-v2 {
+            display: inline-block;
+            background: rgba(59, 130, 246, 0.15);
+            color: #60a5fa;
+            font-size: 13px;
+            font-weight: 700;
+            padding: 6px 16px;
+            border-radius: 20px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            border: 1px solid rgba(59, 130, 246, 0.3);
+            margin-bottom: 16px;
+        }
+
+        h1 {
+            font-size: clamp(32px, 5vw, 56px);
+            font-weight: 900;
+            background: var(--gradient-1);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 12px;
+            line-height: 1.1;
+        }
+
+        .subtitle {
+            color: var(--text-secondary);
+            font-size: 18px;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        /* STATS */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 16px;
+            margin-bottom: 40px;
+        }
+
+        .stat-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 24px;
+            position: relative;
+            overflow: hidden;
+            transition: 0.3s;
+        }
+
+        .stat-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 4px;
+            background: var(--gradient-1);
+            opacity: 0.7;
+        }
+
+        .stat-card:nth-child(2)::before {
+            background: var(--gradient-2);
+        }
+
+        .stat-card:nth-child(3)::before {
+            background: var(--gradient-3);
+        }
+
+        .stat-card:nth-child(4)::before {
+            background: #64748b;
+        }
+
+        .stat-card:hover {
+            transform: translateY(-3px);
+            box-shadow: var(--shadow-glow);
+            border-color: rgba(59, 130, 246, 0.4);
+        }
+
+        .stat-label {
+            font-size: 12px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: var(--text-muted);
+            margin-bottom: 8px;
+        }
+
+        .stat-value {
+            font-size: 36px;
+            font-weight: 800;
+            line-height: 1;
+            margin-bottom: 4px;
+        }
+
+        .stat-detail {
+            font-size: 13px;
+            color: var(--text-secondary);
+        }
+
+        /* SECTIONS */
+        .section {
+            margin-bottom: 50px;
+        }
+
+        .section-header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 24px;
+        }
+
+        .section-icon {
+            width: 40px;
+            height: 40px;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        .section-title {
+            font-size: 24px;
+            font-weight: 700;
+        }
+
+        /* TWO COLUMN LAYOUT */
+        .split-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 24px;
+        }
+
+        @media (max-width: 800px) {
+            .split-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 24px;
+        }
+
+        .card h3 {
+            font-size: 18px;
+            margin-bottom: 16px;
+            font-weight: 600;
+        }
+
+        /* CALCULATOR */
+        .calc-row {
+            margin-bottom: 16px;
+        }
+
+        .calc-row label {
+            display: block;
+            font-size: 14px;
+            font-weight: 500;
+            color: var(--text-secondary);
+            margin-bottom: 8px;
+        }
+
+        .calc-input {
+            width: 100%;
+            padding: 12px 16px;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            color: #fff;
+            font-family: 'Inter';
+            font-size: 15px;
+            outline: none;
+            transition: 0.2s;
+        }
+
+        .calc-input:focus {
+            border-color: var(--accent-blue);
+        }
+
+        .calc-result {
+            background: rgba(16, 185, 129, 0.1);
+            border: 1px solid rgba(16, 185, 129, 0.3);
+            border-radius: 12px;
+            padding: 20px;
+            margin-top: 24px;
+            text-align: center;
+        }
+
+        .calc-result .big-price {
+            font-size: 42px;
+            font-weight: 800;
+            color: var(--accent-green);
+            line-height: 1;
+            margin: 8px 0;
+        }
+
+        .calc-result .vs-text {
+            font-size: 14px;
+            color: var(--text-secondary);
+        }
+
+        /* PREDATORY SCOREBOARD */
+        .scoreboard-list {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .sb-item {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 12px 16px;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+        }
+
+        .sb-item .rank {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 28px;
+            height: 28px;
+            background: rgba(239, 68, 68, 0.15);
+            color: var(--accent-red);
+            font-weight: 700;
+            border-radius: 50%;
+            font-size: 13px;
+            margin-right: 12px;
+        }
+
+        .sb-info {
+            flex: 1;
+        }
+
+        .sb-name {
+            font-weight: 600;
+            font-size: 14px;
+            margin-bottom: 2px;
+        }
+
+        .sb-prog {
+            font-size: 12px;
+            color: var(--text-muted);
+        }
+
+        .sb-price {
+            font-size: 16px;
+            font-weight: 700;
+            color: var(--accent-orange);
+        }
+
+        /* TABLE */
+        .table-controls {
+            display: flex;
+            gap: 12px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+
+        .data-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 14px;
+        }
+
+        .table-scroll {
+            max-height: 700px;
+            overflow-y: auto;
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            background: var(--bg-card);
+        }
+
+        .data-table th {
+            background: var(--bg-secondary);
+            color: var(--text-secondary);
+            font-size: 12px;
+            padding: 14px;
+            text-align: left;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+            border-bottom: 1px solid var(--border);
+            cursor: pointer;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .data-table td {
+            padding: 12px 14px;
+            border-bottom: 1px solid rgba(53, 59, 90, 0.4);
+            color: var(--text-secondary);
+        }
+
+        .data-table tr:hover td {
+            background: rgba(255, 255, 255, 0.03);
+            color: var(--text-primary);
+        }
+
+        .conf-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+
+        .conf-badge.verified {
+            background: rgba(16, 185, 129, 0.15);
+            color: var(--accent-green);
+            border: 1px solid rgba(16, 185, 129, 0.2);
+        }
+
+        .conf-badge.unverified {
+            background: rgba(100, 116, 139, 0.15);
+            color: var(--text-muted);
+            border: 1px solid rgba(100, 116, 139, 0.2);
+        }
+
+        .ia-badge {
+            padding: 2px 8px;
+            border-radius: 6px;
+            font-size: 12px;
+            font-weight: 600;
+            background: rgba(255, 255, 255, 0.1);
+        }
+
+        .ia-badge.yes {
+            color: var(--bg-primary);
+            background: var(--accent-cyan);
+        }
+
+        .ia-badge.no {
+            color: var(--bg-primary);
+            background: var(--text-secondary);
+        }
+
+        /* MODAL (FOR CHARTS/MAP) */
+        .map-wrapper {
+            width: 100%;
+            height: 450px;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            position: relative;
+        }
+
+        #us-map path {
+            fill: #1e293b;
+            stroke: var(--bg-primary);
+            stroke-width: 0.5px;
+            transition: 0.2s;
+            cursor: pointer;
+        }
+
+        #us-map path:hover {
+            fill: var(--accent-blue);
+            opacity: 0.8;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="bg-mesh"></div>
+
+    <div class="container">
+        <header>
+            <div class="badge-v2">Dashboard 2.0</div>
+            <h1>Student IA Advocacy Tool</h1>
+            <p class="subtitle">Real-time cost trackers, predatory program scoreboards, and verified data for thousands
+                of US colleges.</p>
+        </header>
+
+        <!-- STATS -->
+        <div class="stats-grid" id="main-stats">
+            <div class="stat-card">
+                <div class="stat-label">Loading...</div>
+            </div>
+        </div>
+
+        <!-- CALCULATOR & SCOREBOARD -->
+        <div class="section split-grid">
+            <!-- Calculator -->
+            <div class="card">
+                <div class="section-header">
+                    <div class="section-icon" style="color: var(--accent-green);">🧮</div>
+                    <h3 style="margin:0;">Real-Time Textbooks Calculator</h3>
+                </div>
+                <p style="color:var(--text-muted); font-size:14px; margin-bottom:20px;">Calculate exactly how much an
+                    automatic flat-rate Inclusive Access program costs you versus buying traditional/used books.</p>
+
+                <div class="calc-row">
+                    <label>Select a Flat-Rate School</label>
+                    <select id="calc-school" class="calc-input">
+                        <option value="">-- Choose a School --</option>
+                    </select>
+                </div>
+                <div class="calc-row">
+                    <label>Credits Enrolled This Semester</label>
+                    <input type="number" id="calc-credits" class="calc-input" value="15" min="1" max="21">
+                </div>
+
+                <div class="calc-result">
+                    <div
+                        style="font-size:13px; font-weight:600; text-transform:uppercase; color:var(--text-secondary);">
+                        Your Estimated Cost</div>
+                    <div class="big-price" id="calc-total">$0</div>
+                    <div class="vs-text" id="calc-compare">vs $450 average standard books</div>
+                </div>
+            </div>
+
+            <!-- Predatory Scoreboard -->
+            <div class="card">
+                <div class="section-header">
+                    <div class="section-icon" style="color: var(--accent-red);">🚨</div>
+                    <h3 style="margin:0;">High-Cost IA Scoreboard</h3>
+                </div>
+                <p style="color:var(--text-muted); font-size:14px; margin-bottom:20px;">Top schools with the highest
+                    known flat-rate textbook fees per semester.</p>
+                <div class="scoreboard-list" id="scoreboard">
+                    <!-- Populated via JS -->
+                    <div style="text-align:center; color:gray; padding: 20px;">Loading ranks...</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- DATA TABLE -->
+        <div class="section">
+            <div class="section-header">
+                <div class="section-icon" style="color: var(--accent-purple);">🔎</div>
+                <div class="section-title">Verified Program Explorer</div>
+            </div>
+
+            <div class="table-controls">
+                <input type="text" id="filter-search" class="calc-input"
+                    placeholder="Search schools, programs, partners..." style="max-width:300px;">
+                <select id="filter-conf" class="calc-input" style="max-width:200px;">
+                    <option value="all">All Verification Status</option>
+                    <option value="verified">Verified Only ✅</option>
+                    <option value="unverified">Unverified ⚪</option>
+                </select>
+                <select id="filter-ia" class="calc-input" style="max-width:200px;">
+                    <option value="all">All IA Status</option>
+                    <option value="yes">Has IA</option>
+                    <option value="no">No IA</option>
+                </select>
+            </div>
+
+            <div class="table-scroll">
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th data-sort="name">Institution ↕</th>
+                            <th data-sort="state">State</th>
+                            <th data-sort="confidence">Verification ↕</th>
+                            <th data-sort="ia">IA Program</th>
+                            <th data-sort="cost_model">Cost Model</th>
+                            <th>Source URL</th>
+                        </tr>
+                    </thead>
+                    <tbody id="school-tbody"></tbody>
+                </table>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+        let DATA = null;
+        let filteredSchools = [];
+
+        async function init() {
+            try {
+                const resp = await fetch('dashboard_v2_data.json');
+                DATA = await resp.json();
+
+                renderStats();
+                initCalculator();
+                renderScoreboard();
+                initTable();
+            } catch (err) {
+                console.error(err);
+                document.getElementById('main-stats').innerHTML = `<div style="color:red; padding:20px;">Error loading data: ${err.message}</div>`;
+            }
+        }
+
+        function renderStats() {
+            const s = DATA.stats;
+            const pct = (s.hasIA / s.total * 100).toFixed(1);
+            const vp = (s.verified / s.total * 100).toFixed(1);
+
+            document.getElementById('main-stats').innerHTML = `
+        <div class="stat-card">
+          <div class="stat-label">Total Schools</div>
+          <div class="stat-value">${s.total.toLocaleString()}</div>
+          <div class="stat-detail">US colleges & universities</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Has Inclusive Access</div>
+          <div class="stat-value">${s.hasIA.toLocaleString()}</div>
+          <div class="stat-detail">${pct}% adoption rate</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Fully Verified Data</div>
+          <div class="stat-value">${s.verified.toLocaleString()}</div>
+          <div class="stat-detail"><span style="color:var(--accent-green)">${vp}% manually confirmed</span></div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Known Flat Rates</div>
+          <div class="stat-value">${DATA.flatRates.length}</div>
+          <div class="stat-detail">Campuses with all-in pricing</div>
+        </div>
+      `;
+        }
+
+        // CALCULATOR
+        function initCalculator() {
+            const sel = document.getElementById('calc-school');
+            const sortedRates = [...DATA.flatRates].sort((a, b) => a.school.localeCompare(b.school));
+
+            sortedRates.forEach(r => {
+                const opt = document.createElement('option');
+                opt.value = JSON.stringify(r);
+                opt.textContent = `${r.school} (${r.type === 'per_semester' ? '$' + r.price + '/sem' : '$' + r.price + '/cr'})`;
+                sel.appendChild(opt);
+            });
+
+            sel.addEventListener('change', updateCalc);
+            document.getElementById('calc-credits').addEventListener('input', updateCalc);
+        }
+
+        function updateCalc() {
+            const val = document.getElementById('calc-school').value;
+            const creds = parseInt(document.getElementById('calc-credits').value) || 15;
+            const totEl = document.getElementById('calc-total');
+            const vsEl = document.getElementById('calc-compare');
+
+            if (!val) {
+                totEl.textContent = "$0";
+                vsEl.textContent = "Select a school to calculate.";
+                return;
+            }
+
+            const r = JSON.parse(val);
+            let total = 0;
+            if (r.type === 'per_semester') {
+                total = r.price;
+            } else {
+                total = r.price * creds;
+            }
+
+            totEl.textContent = `$${total.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`;
+
+            const avgStandard = 30 * creds; // assume $30/credit standard cost
+            const diff = total - avgStandard;
+
+            if (diff > 0) {
+                vsEl.innerHTML = `<span style="color:var(--accent-red)">+$${diff.toFixed(2)}</span> more than buying standard/OER materials ($${avgStandard})`;
+            } else {
+                vsEl.innerHTML = `<span style="color:var(--accent-green)">-$${Math.abs(diff).toFixed(2)}</span> cheaper than standard ($${avgStandard})`;
+            }
+        }
+
+        // SCOREBOARD
+        function renderScoreboard() {
+            // Find top 5 most expensive flat-rates per semester equivalent (assuming 15 credits)
+            const mapped = DATA.flatRates.map(r => {
+                let semCost = r.type === 'per_semester' ? r.price : r.price * 15;
+                return { ...r, semCost };
+            }).sort((a, b) => b.semCost - a.semCost).slice(0, 5);
+
+            const el = document.getElementById('scoreboard');
+            el.innerHTML = mapped.map((m, i) => `
+        <div class="sb-item">
+          <div class="rank">#${i + 1}</div>
+          <div class="sb-info">
+            <div class="sb-name">${m.school}</div>
+            <div class="sb-prog">${m.program} · ${m.state}</div>
+          </div>
+          <div class="sb-price">$${m.semCost.toFixed(2)}<span style="font-size:11px; color:#64748b; font-weight:normal;">/sem</span></div>
+        </div>
+      `).join('');
+        }
+
+        // TABLE
+        function initTable() {
+            document.getElementById('filter-search').addEventListener('input', updateTable);
+            document.getElementById('filter-conf').addEventListener('change', updateTable);
+            document.getElementById('filter-ia').addEventListener('change', updateTable);
+            updateTable();
+        }
+
+        function updateTable() {
+            const q = document.getElementById('filter-search').value.toLowerCase();
+            const conf = document.getElementById('filter-conf').value;
+            const ia = document.getElementById('filter-ia').value;
+
+            filteredSchools = DATA.schools.filter(s => {
+                if (conf !== 'all' && s.confidence !== conf) return false;
+                if (ia !== 'all' && s.ia !== ia) return false;
+                if (q) {
+                    const combo = `${s.name} ${s.state} ${s.partner} ${s.program}`.toLowerCase();
+                    return combo.includes(q);
+                }
+                return true;
+            }).slice(0, 200); // paginate in real app, cap at 200 for demo
+
+            const tbody = document.getElementById('school-tbody');
+            tbody.innerHTML = filteredSchools.map(s => {
+                let confBadge = s.confidence === 'verified'
+                    ? '<span class="conf-badge verified">✅ Verified</span>'
+                    : '<span class="conf-badge unverified">⚪ Unestimated</span>';
+
+                let iaBadge = s.ia === 'yes' ? '<span class="ia-badge yes">Yes</span>' :
+                    (s.ia === 'no' ? '<span class="ia-badge no">No</span>' : '<span class="ia-badge" style="background:#333;color:#888;">?</span>');
+
+                let costStr = s.cost_model;
+                if (s.cost_price) { costStr += ` (${s.cost_price})`; }
+
+                let urlLink = s.url ? `<a href="${s.url}" target="_blank" style="color:var(--accent-blue);">Source ↗</a>` : '<span style="color:#444;">No URL</span>';
+
+                return `
+          <tr>
+            <td style="font-weight:600; color:var(--text-primary);">${s.name}</td>
+            <td>${s.state}</td>
+            <td>${confBadge}</td>
+            <td>${iaBadge} <span style="font-size:12px;color:gray;margin-left:8px;">${s.program || ''}</span></td>
+            <td>${costStr || '—'}</td>
+            <td>${urlLink}</td>
+          </tr>
+        `;
+            }).join('');
+        }
+
+        init();
+    </script>
+</body>
+
+</html>
