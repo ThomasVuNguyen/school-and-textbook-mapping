@@ -1275,14 +1275,14 @@ Des Moines Area Community College,IA,2-year,public,https://www.dmacc.edu,,,,,,,,
 Des Moines University-Osteopathic Medical Center,IA,4-year,private_nonprofit,https://www.dmu.edu,,,,,,,,pending
 Divine Word College,IA,4-year,private_nonprofit,https://www.dwci.edu,,,,,,,,pending
 Dordt University,IA,4-year,private_nonprofit,https://www.dordt.edu,,,,,,,,pending
-Drake University,IA,4-year,private_nonprofit,https://www.drake.edu,,,,,,,,pending
+Drake University,IA,4-year,private_nonprofit,https://www.drake.edu,yes,Course Ready,$255/semester FT; $17/credit hour PT; auto-enrolled; opt-out,eCampus.com,Various; eCampus.com; digital via Blackboard + physical,"Course Ready via eCampus.com (Fall 2024). $255/sem FT, $17/cr PT. Auto-enrolled. Digital via Blackboard + physical pickup/delivery. Opt-out per semester.",https://drake.edu; https://ecampus.com,done
 Eastern Iowa Community College District,IA,2-year,public,https://www.eicc.edu,,,,,,,,pending
 Ellsworth Community College,IA,2-year,public,https://ecc.iavalley.edu,,,,,,,,pending
 Emmaus Bible College,IA,4-year,private_nonprofit,https://www.emmaus.edu,,,,,,,,pending
 Faith Baptist Bible College and Theological Seminary,IA,4-year,private_nonprofit,https://faith.edu,,,,,,,,pending
 Graceland University-Lamoni,IA,4-year,private_nonprofit,https://www.graceland.edu,,,,,,,,pending
 Grand View University,IA,4-year,private_nonprofit,https://www.grandview.edu,,,,,,,,pending
-Grinnell College,IA,4-year,private_nonprofit,https://www.grinnell.edu,,,,,,,,pending
+Grinnell College,IA,4-year,private_nonprofit,https://www.grinnell.edu,yes,GrinnBooks Program,Included in comprehensive fee (2025-26); auto-enrolled; opt-out,Pioneer Bookshop,Various; digital via Canvas + print pickup,"GrinnBooks: textbook cost included in comprehensive fee starting 2025-26. Auto-enrolled. Digital via Canvas, print at Pioneer Bookshop. Opt-out available.",https://grinnell.edu,done
 Hawkeye Community College,IA,2-year,public,https://www.hawkeyecollege.edu,,,,,,,,pending
 Indian Hills Community College,IA,2-year,public,https://www.indianhills.edu,,,,,,,,pending
 Iowa Central Community College,IA,2-year,public,https://www.iowacentral.edu,,,,,,,,pending
@@ -1321,7 +1321,7 @@ Southeastern Community College,IA,2-year,public,https://www.scciowa.edu,,,,,,,,p
 Southwestern Community College,IA,2-year,public,https://www.swcciowa.edu,,,,,,,,pending
 St Luke's College,IA,4-year,private_nonprofit,https://www.stlukescollege.edu,,,,,,,,pending
 UnityPoint Health-Des Moines School of Radiologic Technology,IA,2-year,private_nonprofit,https://www.unitypoint.org/join-our-team/medical-education-and-career-growth/school-of-radiologic-technology---des-moines-area-hospitals,,,,,,,,pending
-University of Dubuque,IA,4-year,private_nonprofit,https://www.dbq.edu,,,,,,,,pending
+University of Dubuque,IA,4-year,private_nonprofit,https://www.dbq.edu,no,N/A,Traditional purchase; OER encouraged,University bookstore,Various; Pressbooks OER,No formal IA program. Uses Pressbooks for faculty OER creation. No comprehensive textbook bundling.,https://dbq.edu,done
 University of Iowa,IA,4-year,public,https://uiowa.edu,Yes,ICON Direct,Per-course (U-Bill),Campus bookstore,Various via ICON,ICON Direct first-day access; eTexts+platforms via ICON; U-Bill charge; developed with UG Student Gov; opt-out before add/drop deadline,https://uiowa.edu/icon-direct; https://uiowa.edu/bookstore,done
 University of Northern Iowa,IA,4-year,public,https://www.uni.edu,Yes,Follett Access / Inclusive Access,Per-course,Follett,Various via LMS,Follett Access IA; LMS delivery; auto-enrolled opt-out; Textbook Scholarship doesn't cover IA; negotiated publisher pricing,https://bkstr.com/unibookstore; https://uni.edu,done
 Upper Iowa University,IA,4-year,private_nonprofit,https://www.uiu.edu,,,,,,,,pending
@@ -1636,11 +1636,11 @@ Colby Community College,KS,2-year,public,https://www.colbycc.edu,,,,,,,,pending
 Cowley County Community College,KS,2-year,public,https://www.cowley.edu,,,,,,,,pending
 Dodge City Community College,KS,2-year,public,https://dc3.edu,,,,,,,,pending
 Donnelly College,KS,4-year,private_nonprofit,https://www.donnelly.edu,,,,,,,,pending
-Emporia State University,KS,4-year,public,https://www.emporia.edu,,,,,,,,pending
+Emporia State University,KS,4-year,public,https://www.emporia.edu,yes,Hornet Textbook Bundle (First Day Complete),Flat bundle rate; auto-enrolled; 35-50% savings; opt-out per term,Barnes & Noble College,Various; BN First Day Complete; all formats,Hornet Textbook Bundle (First Day Complete via BN) launched Fall 2023. All required materials. 35-50% savings. Auto-enrolled. Opt-out per term.,https://emporia.edu; https://bncollege.com,done
 Flint Hills Technical College,KS,2-year,public,https://www.fhtc.edu,,,,,,,,pending
-Fort Hays State University,KS,4-year,public,https://www.fhsu.edu,,,,,,,,pending
-Fort Hays State University-Northwest Kansas Technical College,KS,2-year,public,https://www.fhnw.edu,,,,,,,,pending
-Fort Hays Tech North Central,KS,2-year,public,https://www.fhtechnc.edu,,,,,,,,pending
+Fort Hays State University,KS,4-year,public,https://www.fhsu.edu,yes,First Day Digital Access,Per-course fee $25-$143; digital access via LMS,FHSU bookstore,Various; digital via LMS; also Z-Course (zero-cost),First Day Digital Access: per-course fee $25-$143. Also has Z-Course program for zero-cost materials.,https://fhsu.edu,done
+Fort Hays State University-Northwest Kansas Technical College,KS,2-year,public,https://www.fhnw.edu,yes,First Day Digital Access (FHSU system),Per-course fee; digital access via LMS,FHSU bookstore,Various; digital via LMS,FHSU branch campus. Same First Day Digital Access as main campus.,https://fhsu.edu,done
+Fort Hays Tech North Central,KS,2-year,public,https://www.fhtechnc.edu,yes,First Day Digital Access (FHSU system),Per-course fee; digital access via LMS,FHSU bookstore,Various; digital via LMS,FHSU branch campus. Same First Day Digital Access as main campus.,https://fhsu.edu,done
 Fort Scott Community College,KS,2-year,public,https://www.fortscott.edu,,,,,,,,pending
 Friends University,KS,4-year,private_nonprofit,https://www.friends.edu,,,,,,,,pending
 Galen Health Institutes-Wichita,KS,2-year,private_forprofit,https://galencollege.edu/campuses/wichita,,,,,,,,pending
@@ -1666,7 +1666,7 @@ Newman University,KS,4-year,private_nonprofit,https://www.newmanu.edu,,,,,,,,pen
 Ottawa University-Kansas City,KS,4-year,private_nonprofit,https://www.ottawa.edu,,,,,,,,pending
 Ottawa University-Online,KS,4-year,private_nonprofit,https://www.ottawa.edu,,,,,,,,pending
 Ottawa University-Ottawa,KS,4-year,private_nonprofit,https://www.ottawa.edu,,,,,,,,pending
-Pittsburg State University,KS,4-year,public,https://www.pittstate.edu,,,,,,,,pending
+Pittsburg State University,KS,4-year,public,https://www.pittstate.edu,yes,First Day Complete / First Day by Course,Per-course charge; digital via LMS; textbook voucher program,Barnes & Noble College,Various; BN First Day Complete,First Day Complete / First Day by Course via BN. Also has $500 textbook voucher program from financial aid since Fall 2013.,https://pittstate.edu; https://bncollege.com,done
 Pratt Community College,KS,2-year,public,https://www.prattcc.edu,,,,,,,,pending
 Rasmussen University - Overland Park,KS,4-year,private_forprofit,https://rasmussen.edu,,,,,,,,pending
 Rasmussen University-Kansas,KS,4-year,private_forprofit,https://rasmussen.edu,,,,,,,,pending
@@ -1682,7 +1682,7 @@ Washburn University,KS,4-year,public,https://www.washburn.edu,,,,,,,,pending
 WellSpring School of Allied Health-Lawrence,KS,2-year,private_forprofit,https://www.wellspring.edu,,,,,,,,pending
 WellSpring School of Allied Health-Wichita,KS,2-year,private_forprofit,https://www.wellspring.edu,,,,,,,,pending
 Wichita State University,KS,4-year,public,https://www.wichita.edu,Yes,Access Now (MH) + BibliU (WSU Tech),Per-course (Access Now) / tuition-bundled (Tech),WSU Bookstore / BibliU,"McGraw-Hill, BibliU, various",Access Now fee for MH IA courses; WSU Tech digital-first via BibliU since 2021 (closed bookstore); Open/Alt Textbook fee also,https://wichita.edu/bookstore; https://bibliu.com/case-study/wsu-tech,done
-Wichita State University-Campus of Applied Sciences and Technology,KS,2-year,public,https://www.wsutech.edu,,,,,,,,pending
+Wichita State University-Campus of Applied Sciences and Technology,KS,2-year,public,https://www.wsutech.edu,yes,First Day Access / BibliU,Digital courseware via BibliU; first-day access for CTE students,WSU Tech bookstore / BibliU,BibliU; McGraw Hill; digital courseware,WSU Tech partnered with BibliU (2021) for first-day access digital content for all CTE students.,https://wsutech.edu; https://bibliu.com,done
 ATA College,KY,2-year,private_forprofit,https://www.ata.edu,,,,,,,,pending
 Alice Lloyd College,KY,4-year,private_nonprofit,https://www.alc.edu,,,,,,,,pending
 American National University-Pikeville,KY,4-year,private_forprofit,https://www.an.edu/locations,,,,,,,,pending
@@ -1722,9 +1722,9 @@ Madisonville Community College,KY,2-year,public,https://madisonville.kctcs.edu,,
 Maysville Community and Technical College,KY,2-year,public,https://maysville.kctcs.edu,,,,,,,,pending
 MedQuest College,KY,2-year,private_forprofit,https://medquestcollege.edu,,,,,,,,pending
 Midway University,KY,4-year,private_nonprofit,https://www.midway.edu,,,,,,,,pending
-Morehead State University,KY,4-year,public,https://www.moreheadstate.edu,,,,,,,,pending
+Morehead State University,KY,4-year,public,https://www.moreheadstate.edu,yes,Eagle Books (First Day Complete),$25/credit hour; auto-enrolled; digital via Canvas; opt-out,Barnes & Noble College,Various; BN First Day Complete; digital via Canvas,Eagle Books (First Day Complete) via BN. $25/credit hour. Auto-enrolled. Digital via Canvas. Opt-out available.,https://moreheadstate.edu; https://bncollege.com,done
 Murray State University,KY,4-year,public,https://www.murraystate.edu,yes,Inclusive Access + Racer Book Bundle,IA: charged after add/drop; opt-out. Racer Bundle: auto per semester,University bookstore,Various; digital via Canvas,"Two programs: IA (digital via Canvas, opt-out) + Racer Book Bundle (auto textbooks each fall/spring).",https://murraystate.edu,done
-Northern Kentucky University,KY,4-year,public,https://www.nku.edu,,,,,,,,pending
+Northern Kentucky University,KY,4-year,public,https://www.nku.edu,yes,Inclusive Access,Opt-out basis; digital via LMS; charged to account,NKU bookstore,Various; inclusive access opt-out model,"IA launched 2023 by bookstore. Opt-out basis. Also has OER grants, UCAP Textbook Lending Library.",https://nku.edu,done
 Owensboro Community and Technical College,KY,2-year,public,https://owensboro.kctcs.edu,,,,,,,,pending
 Ross College-Hopkinsville,KY,2-year,private_forprofit,https://rosseducation.edu,,,,,,,,pending
 Simmons College of Kentucky,KY,4-year,private_nonprofit,https://simmonscollegeky.edu,,,,,,,,pending
@@ -2332,7 +2332,7 @@ Westminster College,MO,4-year,private_nonprofit,https://www.wcmo.edu,,,,,,,,pend
 William Jewell College,MO,4-year,private_nonprofit,https://www.jewell.edu,,,,,,,,pending
 William Woods University,MO,4-year,private_nonprofit,https://www.williamwoods.edu,,,,,,,,pending
 Northern Marianas College,MP,4-year,public,https://www.marianas.edu,,,,,,,,pending
-Alcorn State University,MS,4-year,public,https://www.alcorn.edu,,,,,,,,pending
+Alcorn State University,MS,4-year,public,https://www.alcorn.edu,yes,First Day Complete / Affordable Access,Auto-enrolled; digital via LMS; physical pickup; opt-out per course,Follett,Various; digital via LMS + physical pickup,"First Day Complete Affordable Access. Auto-enrolled. Digital via LMS, physical at bookstore. Opt-out per course.",https://alcorn.edu; https://bkstr.com; https://mississippi.edu,done
 Belhaven University,MS,4-year,private_nonprofit,https://www.belhaven.edu,,,,,,,,pending
 Blue Mountain Christian University,MS,4-year,private_nonprofit,https://www.bmc.edu,,,,,,,,pending
 Coahoma Community College,MS,2-year,public,https://www.coahomacc.edu,,,,,,,,pending
