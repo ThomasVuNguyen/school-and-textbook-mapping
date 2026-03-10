@@ -1383,7 +1383,7 @@ Columbia College - Lake County,IL,4-year,private_nonprofit,https://www.ccis.edu/
 Columbia College Chicago,IL,4-year,private_nonprofit,https://www.colum.edu,,,,,,,,pending
 Concordia University-Chicago,IL,4-year,private_nonprofit,https://www.cuchicago.edu,,,,,,,,pending
 Danville Area Community College,IL,2-year,public,https://dacc.edu,,,,,,,,pending
-DePaul University,IL,4-year,private_nonprofit,https://www.depaul.edu,,,,,,,,pending
+DePaul University,IL,4-year,private_nonprofit,https://www.depaul.edu,no,N/A (UDL grants; FYAS textbook waiver for math),Traditional; waiver for MyLabMath for first-year need-based,Barnes & Noble College,Various; MyLabMath waiver for need-based students,No formal IA. UDL grant for faculty. FYAS textbook waiver for first-year math (MyLabMath).,https://depaul.edu,done
 DeVry University-Illinois,IL,4-year,private_forprofit,https://www.devry.edu,,,,,,,,pending
 Dominican University,IL,4-year,private_nonprofit,https://www.dom.edu,,,,,,,,pending
 East-West University,IL,4-year,private_nonprofit,https://www.eastwest.edu,,,,,,,,pending
@@ -1407,7 +1407,7 @@ Illinois College,IL,4-year,private_nonprofit,https://www.ic.edu,,,,,,,,pending
 Illinois College of Optometry,IL,4-year,private_nonprofit,https://www.ico.edu,,,,,,,,pending
 Illinois Eastern Community Colleges,IL,2-year,public,https://www.iecc.edu,,,,,,,,pending
 Illinois Institute of Technology,IL,4-year,private_nonprofit,https://www.iit.edu,,,,,,,,pending
-Illinois State University,IL,4-year,public,https://illinoisstate.edu,Partial,Milner Library eTextbook Program,Free (library-funded),ISU Bookstore,Various (library eBooks),Milner Library eTextbook; free eBooks for assigned courses; significant savings; Textbook Affordability Committee; not full commercial IA,https://bkstr.com/illinoisstatebookstore; https://ilstu.edu,done
+Illinois State University,IL,4-year,public,https://illinoisstate.edu,no,N/A,Traditional purchase via bookstore,University bookstore,Various,No formal IA program. Focus on disability accommodations not IA.,https://illinoisstate.edu,done
 Illinois Valley Community College,IL,2-year,public,https://www.ivcc.edu,,,,,,,,pending
 Illinois Wesleyan University,IL,4-year,private_nonprofit,https://www.iwu.edu,,,,,,,,pending
 Institute for Clinical Social Work,IL,4-year,private_nonprofit,https://www.icsw.edu,,,,,,,,pending
@@ -1452,7 +1452,7 @@ North Park University,IL,4-year,private_nonprofit,https://www.northpark.edu,,,,,
 NorthShore University HealthSystem School of Nurse Anesthesia,IL,4-year,private_nonprofit,https://www.northshore.org/academics/other-programs/school-of-nurse-anesthesia,,,,,,,,pending
 Northeastern Illinois University,IL,4-year,public,https://www.neiu.edu,,,,,,,,pending
 Northern Baptist Theological Seminary,IL,4-year,private_nonprofit,https://www.seminary.edu,,,,,,,,pending
-Northern Illinois University,IL,4-year,public,https://www.niu.edu,No,OER focus (no IA),OER / traditional,NIU Bookstore (BN),"OER, various",No formal IA; Libraries promote OER; concerns about IA limiting student choice; BN bookstore traditional; OER grants,https://niu.bncollege.com; https://niu.edu,done
+Northern Illinois University,IL,4-year,public,https://www.niu.edu,no,N/A (Affordable Textbook Course Designator),Traditional; price-match program; ZTC courses,Follett,Various; digital/rental options,No formal IA. Price-match program. Affordable Textbook Course Designator for ZTC/low-cost filtering.,https://niu.edu; https://bkstr.com/niu,done
 Northwestern College,IL,4-year,private_forprofit,https://www.nc.edu,,,,,,,,pending
 Northwestern University,IL,4-year,private_nonprofit,https://www.northwestern.edu,Yes,First Day (BN) + OER + Books for Cats,Per-course (BN); free (OER/library),Barnes & Noble,Various + OER,BN First Day; OER via Canvas; Books for Cats lending program,https://northwestern.bncollege.com; https://northwestern.edu,done
 Oakton College,IL,2-year,public,https://www.oakton.edu,,,,,,,,pending
@@ -1484,7 +1484,7 @@ Shawnee Community College,IL,2-year,public,https://shawneecc.edu,,,,,,,,pending
 South Suburban College,IL,2-year,public,https://www.ssc.edu,,,,,,,,pending
 Southeastern Illinois College,IL,2-year,public,https://www.sic.edu,,,,,,,,pending
 Southern Illinois University Edwardsville,IL,4-year,public,https://www.siue.edu,Yes,Inclusive Access + Textbook Rental,Per-course (IA) + rental in fees,SIUE Bookstore,Various via Blackboard,IA since Fall 2014; faculty participation 4x; 60% avg savings; Blackboard delivery; textbook rental in fees; OER priority,https://siue.bncollege.com; https://siue.edu,done
-Southern Illinois University-Carbondale,IL,4-year,public,https://siu.edu,Yes,SIU myTextbooks (Fall 2025),$26/credit hour,SIU Bookstore,Various,SIU myTextbooks launching Fall 2025; $26/cr; auto-enrolled; opt-out; digital-first; text-to-speech/dyslexic fonts; physical available,https://salukibookstore.com; https://siu.edu,done
+Southern Illinois University-Carbondale,IL,4-year,public,https://siu.edu,no,N/A,Traditional purchase; alt format textbooks for disability,University bookstore,Various; alt format textbooks via disability office,No formal IA program. Disability office provides alternative format textbooks.,https://siu.edu,done
 Southwestern Illinois College,IL,2-year,public,https://www.swic.edu,,,,,,,,pending
 Spertus College,IL,4-year,private_nonprofit,https://www.spertus.edu,,,,,,,,pending
 Spoon River College,IL,2-year,public,https://www.src.edu,,,,,,,,pending
@@ -1502,7 +1502,7 @@ Triton College,IL,2-year,public,https://www.triton.edu,,,,,,,,pending
 Triton College - Intl Union of Operating Engr Local 399 Trning Fac.,IL,2-year,public,https://www.triton.edu,,,,,,,,pending
 Universal Technical Institute of Illinois Inc,IL,2-year,private_forprofit,https://www.uti.edu,,,,,,,,pending
 University of Chicago,IL,4-year,private_nonprofit,https://www.uchicago.edu,,,,,,,,pending
-University of Illinois Chicago,IL,4-year,public,https://www.uic.edu,No,No formal IA,Traditional purchase/rental,UIC Bookstore (BN),Various,"No university-wide IA; First Day Project is pedagogical (social belonging), not textbook access; BN bookstore",https://uic.bncollege.com; https://uic.edu,done
+University of Illinois Chicago,IL,4-year,public,https://www.uic.edu,no,N/A (OER focus),Traditional purchase; OER encouraged,UIC Bookstore,Various; OER encouraged by faculty,No formal IA program. Faculty encouraged to adopt OER. Digital Accessibility Resource Hub.,https://uic.edu,done
 University of Illinois Springfield,IL,4-year,public,https://www.uis.edu,,,,,,,,pending
 University of Illinois Urbana-Champaign,IL,4-year,public,https://www.illinois.edu,Yes,Day1Access,Per-course discounted,Illini Union Bookstore,Various via Canvas,Day1Access via Canvas; opt-out during add/drop; used/rental sometimes cheaper,https://bookstore.illinois.edu; https://illinois.edu,done
 University of Notre Dame -,IL,4-year,private_nonprofit,https://www.nd.edu,,,,,,,,pending
@@ -2397,7 +2397,7 @@ The University of Montana,MT,4-year,public,https://www.umt.edu,,,,,,,,pending
 The University of Montana-Western,MT,4-year,public,https://umwestern.edu,,,,,,,,pending
 University of Providence,MT,4-year,private_nonprofit,https://www.uprovidence.edu,,,,,,,,pending
 Alamance Community College,NC,2-year,public,https://www.alamancecc.edu,,,,,,,,pending
-Appalachian State University,NC,4-year,public,https://www.appstate.edu,Yes,Textbook Rental / Equitable Access,"$290/semester (UG), $125 (grad)",Campus Store (VitalSource),Various via AsULearn,"EA digital-first; $290/sem UG, $125 grad; 99% participation; $5M+ saved; 80-85% digital via AsULearn; opt-out; physical available",https://appstate.bncollege.com; https://appstate.edu,done
+Appalachian State University,NC,4-year,public,https://www.appstate.edu,yes,Textbook Rental Program,$290/semester undergrad; $125/semester grad; fixed fee; opt-out,Self-operated,Various; ~85% digital via AsULearn,Fixed fee. 85% digital via AsULearn. Both undergrad and grad. Opt-out available.,https://appstate.edu; https://theappalachianonline.com,done
 Asheville-Buncombe Technical Community College,NC,2-year,public,https://www.abtech.edu,,,,,,,,pending
 Aviation Institute of Maintenance-Charlotte,NC,2-year,private_forprofit,https://aviationmaintenance.edu/campuses/charlotte-nc,,,,,,,,pending
 Barton College,NC,4-year,private_nonprofit,https://www.barton.edu,,,,,,,,pending
@@ -2436,7 +2436,7 @@ Durham Technical Community College,NC,2-year,public,https://www.durhamtech.edu,,
 ECPI University-Charlotte,NC,4-year,private_forprofit,https://www.ecpi.edu,,,,,,,,pending
 ECPI University-Greensboro,NC,4-year,private_forprofit,https://www.ecpi.edu,,,,,,,,pending
 ECPI University-Raleigh,NC,4-year,private_forprofit,https://www.ecpi.edu,,,,,,,,pending
-East Carolina University,NC,4-year,public,https://www.ecu.edu,Yes,ECU First Day (BN FDC),$20/credit hour (UG),Barnes & Noble,Various via Canvas,BN FDC; $20/cr UG; auto-enrolled opt-out; 35-50% savings; physical rental + digital; excludes grad/doctoral/PT online/summer,https://ecu.bncollege.com; https://ecu.edu,done
+East Carolina University,NC,4-year,public,https://www.ecu.edu,yes,ECU First Day (BN First Day Complete),$20/credit hour; on student account; opt-out,Barnes & Noble College,BN First Day Complete; rental + digital,$20/cr. Textbook rentals + digital content. Opt-out available.,https://ecu.edu; https://bncollege.com/ecu,done
 Edgecombe Community College,NC,2-year,public,https://www.edgecombe.edu,,,,,,,,pending
 Elizabeth City State University,NC,4-year,public,https://www.ecsu.edu,,,,,,,,pending
 Elon University,NC,4-year,private_nonprofit,https://www.elon.edu,,,,,,,,pending
@@ -2487,7 +2487,7 @@ NASCAR Technical Institute,NC,2-year,private_forprofit,https://www.uti.edu,,,,,,
 Nash Community College,NC,2-year,public,https://www.nashcc.edu,,,,,,,,pending
 North Carolina A & T State University,NC,4-year,public,https://www.ncat.edu,,,,,,,,pending
 North Carolina Central University,NC,4-year,public,https://www.nccu.edu,,,,,,,,pending
-North Carolina State University at Raleigh,NC,4-year,public,https://www.ncsu.edu,Yes,Course Ready (All-In since 2018),$279/semester flat (UG),NC State Bookstore,Various via Canvas,All-In IA since 2018; Course Ready flat $279/sem for UG; digital-preferred; auto-enrolled; opt-out,https://ncsu.bkstr.com; https://ncsu.edu,done
+North Carolina State University at Raleigh,NC,4-year,public,https://www.ncsu.edu,yes,Course Ready,$279/semester flat rate; digital-preferred; undergrads; opt-out,University bookstore,Various; digital-preferred materials,Launching Spring 2025. $279/semester. Digital-preferred. Degree-seeking undergrads. Opt-out.,https://ncsu.edu,done
 North Carolina Wesleyan University,NC,4-year,private_nonprofit,https://www.ncwu.edu,,,,,,,,pending
 Pamlico Community College,NC,2-year,public,https://www.pamlicocc.edu,,,,,,,,pending
 Pfeiffer University,NC,4-year,private_nonprofit,https://www.pfeiffer.edu,,,,,,,,pending
@@ -2531,8 +2531,8 @@ University of North Carolina Asheville,NC,4-year,public,https://new.unca.edu,,,,
 University of North Carolina School of the Arts,NC,4-year,public,https://www.uncsa.edu,,,,,,,,pending
 University of North Carolina Wilmington,NC,4-year,public,https://www.uncw.edu,Yes,First Day (BN),Per-course,Barnes & Noble,Various via Canvas,BN First Day; Canvas delivery; opt-out; significant savings,https://uncw.bncollege.com; https://uncw.edu,done
 University of North Carolina at Chapel Hill,NC,4-year,public,https://www.unc.edu,Yes,First Day (BN) / UNC System IA,Per-course,Student Stores,Various,UNC System campuses have BN First Day; specific UNC-CH IA per-course,https://store.unc.edu; https://unc.edu,done
-University of North Carolina at Charlotte,NC,4-year,public,https://www.charlotte.edu,Yes,Niner Course Pack (BN FDC),$20/credit hour,Barnes & Noble,Various,BN FDC; $20/cr; auto-enrolled; opt-out,https://uncc.bncollege.com; https://charlotte.edu,done
-University of North Carolina at Greensboro,NC,4-year,public,https://www.uncg.edu,,,,,,,,pending
+University of North Carolina at Charlotte,NC,4-year,public,https://www.charlotte.edu,yes,Niner Course Pack,$20/credit hour flat rate; 35-50% savings; opt-out,Barnes & Noble Charlotte,BN First Day Complete; rental textbooks + digital,$20/cr. 35-50% savings. Materials on/before first day. Opt-out available.,https://charlotte.edu,done
+University of North Carolina at Greensboro,NC,4-year,public,https://www.uncg.edu,yes,UNCG First Day Complete,$19/credit hour (from Fall 2024); 35-50% savings; auto-enrolled; opt-out,Barnes & Noble College,BN First Day Complete; all required materials,Expanded to all grad students Fall 2024. $19/cr (reduced). 35-50% savings.,https://uncg.edu; https://bncollege.com/uncg,done
 University of North Carolina at Pembroke,NC,4-year,public,https://www.uncp.edu,,,,,,,,pending
 Vance-Granville Community College,NC,2-year,public,https://www.vgcc.edu,,,,,,,,pending
 Wake Forest University,NC,4-year,private_nonprofit,https://www.wfu.edu,,,,,,,,pending
@@ -3173,7 +3173,7 @@ Clark State College,OH,4-year,public,https://www.clarkstate.edu,,,,,,,,pending
 Cleveland Clinic Health System-School of Diagnostic Imaging,OH,2-year,private_nonprofit,https://www.clevelandclinic.org/sodi,,,,,,,,pending
 Cleveland Institute of Art,OH,4-year,private_nonprofit,https://www.cia.edu,,,,,,,,pending
 Cleveland Institute of Music,OH,4-year,private_nonprofit,https://www.cim.edu,,,,,,,,pending
-Cleveland State University,OH,4-year,public,https://www.csuohio.edu,,,,,,,,pending
+Cleveland State University,OH,4-year,public,https://www.csuohio.edu,yes,CSU Inclusive Access,Charged to account; up to 80% savings; FA eligible; opt-out,Viking Outfitters (Follett),Various; digital via Blackboard/BryteWave; physical option,Joint effort: Hospitality Services + Academic Affairs + Viking Outfitters. Up to 80% savings.,https://csuohio.edu; https://bkstr.com/csu,done
 Collins Career Technical Center,OH,2-year,public,https://www.collins-cc.edu,,,,,,,,pending
 Columbus College of Art & Design,OH,4-year,private_nonprofit,https://www.ccad.edu,,,,,,,,pending
 Columbus State Community College,OH,2-year,public,https://www.cscc.edu,,,,,,,,pending
@@ -3214,7 +3214,7 @@ John Carroll University,OH,4-year,private_nonprofit,https://jcu.edu,,,,,,,,pendi
 Kent State University at Ashtabula,OH,4-year,public,https://www.kent.edu/ashtabula,,,,,,,,pending
 Kent State University at East Liverpool,OH,4-year,public,https://www.kent.edu/columbiana,,,,,,,,pending
 Kent State University at Geauga,OH,4-year,public,https://www.kent.edu/geauga,,,,,,,,pending
-Kent State University at Kent,OH,4-year,public,https://www.kent.edu,Yes,Flash Books (BN First Day),"Per-course (bursar, 25-75% off)",Barnes & Noble,Various via Blackboard,Flash Books = BN First Day; Blackboard delivery; bursar charge 25-75% off list; opt-out; eBook or publisher content,https://kent.edu/flashbooks; https://kent.bkstr.com,done
+Kent State University at Kent,OH,4-year,public,https://www.kent.edu,yes,Flash Books (First Day),Course fee; 25-75% below list price; opt-out,Barnes & Noble College,BN First Day; digital via Blackboard,Flash Books IA via Blackboard. 25-75% below list. Opt-out available.,https://kent.edu; https://bncollege.com/kent,done
 Kent State University at Salem,OH,4-year,public,https://www.kent.edu/columbiana,,,,,,,,pending
 Kent State University at Stark,OH,4-year,public,https://www.kent.edu/stark,,,,,,,,pending
 Kent State University at Trumbull,OH,4-year,public,https://www.kent.edu/trumbull,,,,,,,,pending
@@ -3265,7 +3265,7 @@ Ohio State School of Cosmetology-Canal Winchester,OH,2-year,private_forprofit,ht
 Ohio State School of Cosmetology-Heath,OH,2-year,private_forprofit,https://salonschools.ohiostate.edu,,,,,,,,pending
 Ohio State University Agricultural Technical Institute,OH,2-year,public,https://ati.osu.edu,,,,,,,,pending
 Ohio State University-Lima Campus,OH,4-year,public,https://lima.osu.edu,,,,,,,,pending
-Ohio State University-Main Campus,OH,4-year,public,https://www.osu.edu,Yes,CarmenBooks Inclusive Access,"Per-course (auto-charged, opt-out)",OSU Bookstore,Various via CarmenCanvas,"CarmenBooks since 2017 pilot, scaled 2019; $32M+ saved; Canvas delivery; auto-charged opt-out by 2nd Friday; ALX initiative",https://ohiostate.edu/carmenbooks; https://barnesandnoble.com/osu,done
+Ohio State University-Main Campus,OH,4-year,public,https://www.osu.edu,yes,CarmenBooks Inclusive Access,Auto-enrolled; charged to account; opt-out by 2nd Friday; reduced pricing,Barnes & Noble College,Various; digital via CarmenCanvas; pilot 2017 scaled 2019,"Saved students $32M+. Piloted 2017, scaled 2019. Opt-out by 2nd Friday for full refund.",https://osu.edu; https://bncollege.com/osu,done
 Ohio State University-Mansfield Campus,OH,4-year,public,https://mansfield.osu.edu,,,,,,,,pending
 Ohio State University-Marion Campus,OH,4-year,public,https://osumarion.osu.edu,,,,,,,,pending
 Ohio State University-Newark Campus,OH,4-year,public,https://newark.osu.edu,,,,,,,,pending
@@ -3273,7 +3273,7 @@ Ohio Technical College,OH,2-year,private_forprofit,https://www.ohiotech.edu,,,,,
 Ohio University-Chillicothe Campus,OH,4-year,public,https://www.ohio.edu/chillicothe,,,,,,,,pending
 Ohio University-Eastern Campus,OH,4-year,public,https://www.ohio.edu/eastern,,,,,,,,pending
 Ohio University-Lancaster Campus,OH,4-year,public,https://www.ohio.edu/lancaster,,,,,,,,pending
-Ohio University-Main Campus,OH,4-year,public,https://www.ohio.edu,Yes,Inclusive Access Program,Per-course (auto-charged + 5% markup S2026),Campus bookstore,"VitalSource, various via Canvas",IA via VitalSource; Canvas delivery; auto-charged opt-out; 5% admin markup starting Summer 2026; Affordable Learning Content initiative; OhioLINK statewide pricing,https://ohio.edu/bookstore; https://ohiouniversitybookstore.com,done
+Ohio University-Main Campus,OH,4-year,public,https://www.ohio.edu,yes,Digital Course Materials: Inclusive Access,On tuition/fees; reduced price; opt-out by add/drop,University bookstore,Various; eBooks/courseware via Canvas,Digital via Canvas on first day. Cost on tuition/fees. Opt-out by add/drop.,https://ohio.edu,done
 Ohio University-Southern Campus,OH,4-year,public,https://www.ohio.edu/southern,,,,,,,,pending
 Ohio University-Zanesville Campus,OH,4-year,public,https://www.ohio.edu/zanesville,,,,,,,,pending
 Ohio Wesleyan University,OH,4-year,private_nonprofit,https://www.owu.edu,,,,,,,,pending
@@ -3316,7 +3316,7 @@ University of Akron Main Campus,OH,4-year,public,https://www.uakron.edu,,,,,,,,p
 University of Akron Wayne College,OH,2-year,public,https://wayne.uakron.edu,,,,,,,,pending
 University of Cincinnati-Blue Ash College,OH,4-year,public,https://www.ucblueash.edu,,,,,,,,pending
 University of Cincinnati-Clermont College,OH,4-year,public,https://www.ucclermont.edu,,,,,,,,pending
-University of Cincinnati-Main Campus,OH,4-year,public,https://www.uc.edu,Yes,Follett ACCESS (modified) + includED,Per-course (course charge),Follett,Various via LMS,Modified Follett ACCESS for high-enrollment STEM; $1.05M saved 2019-20; includED 40% avg savings; LMS delivery; opt-out per course,https://bkstr.com/ucbookstore; https://uc.edu,done
+University of Cincinnati-Main Campus,OH,4-year,public,https://www.uc.edu,yes,Inclusive Access / includED,Course charge or tuition; auto-enrolled; opt-out,Follett,Various; includED model via Blackboard; digital,IA Online and includED model. Digital via Blackboard. Significant savings. Medical campus also participates.,https://bkstr.com/uc; https://ohiolink.edu,done
 University of Dayton,OH,4-year,private_nonprofit,https://udayton.edu,,,,,,,,pending
 University of Mount Union,OH,4-year,private_nonprofit,https://www.mountunion.edu,,,,,,,,pending
 University of Northwestern Ohio,OH,4-year,private_nonprofit,https://www.unoh.edu,,,,,,,,pending
