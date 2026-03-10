@@ -1698,7 +1698,7 @@ Brescia University,KY,4-year,private_nonprofit,https://www.brescia.edu,,,,,,,,pe
 Campbellsville University,KY,4-year,private_nonprofit,https://www.campbellsville.edu,,,,,,,,pending
 Centre College,KY,4-year,private_nonprofit,https://www.centre.edu,,,,,,,,pending
 Clear Creek Baptist Bible College,KY,4-year,private_nonprofit,https://ccbbc.edu,,,,,,,,pending
-Eastern Kentucky University,KY,4-year,public,https://www.eku.edu,Yes,EKU BookSmart (BN FDC),Free (adjusting to $26/cr Fall 2026),Barnes & Noble,Various + Bartleby,Free textbooks since Fall 2021; adjusting due to fed fin aid changes; BN FDC model,https://bkstr.com/ekustore,done
+Eastern Kentucky University,KY,4-year,public,https://www.eku.edu,yes,EKU BookSmart,Was FREE; changing to $26/cr hour from Fall 2026 due to FA regs; opt-out,University bookstore,Various; all required materials,BookSmart: was FREE textbooks for undergrads. Changing to $26/cr from Fall 2026 due to federal FA regulation changes.,https://eku.edu,done
 Elizabethtown Community and Technical College,KY,2-year,public,https://elizabethtown.kctcs.edu,,,,,,,,pending
 Frontier Nursing University,KY,4-year,private_nonprofit,https://www.frontier.edu,,,,,,,,pending
 Galen College of Nursing-ARH,KY,2-year,private_forprofit,https://www.galencollege.edu/nursing-programs/hazard,,,,,,,,pending
@@ -1723,7 +1723,7 @@ Maysville Community and Technical College,KY,2-year,public,https://maysville.kct
 MedQuest College,KY,2-year,private_forprofit,https://medquestcollege.edu,,,,,,,,pending
 Midway University,KY,4-year,private_nonprofit,https://www.midway.edu,,,,,,,,pending
 Morehead State University,KY,4-year,public,https://www.moreheadstate.edu,,,,,,,,pending
-Murray State University,KY,4-year,public,https://www.murraystate.edu,,,,,,,,pending
+Murray State University,KY,4-year,public,https://www.murraystate.edu,yes,Inclusive Access + Racer Book Bundle,IA: charged after add/drop; opt-out. Racer Bundle: auto per semester,University bookstore,Various; digital via Canvas,"Two programs: IA (digital via Canvas, opt-out) + Racer Book Bundle (auto textbooks each fall/spring).",https://murraystate.edu,done
 Northern Kentucky University,KY,4-year,public,https://www.nku.edu,,,,,,,,pending
 Owensboro Community and Technical College,KY,2-year,public,https://owensboro.kctcs.edu,,,,,,,,pending
 Ross College-Hopkinsville,KY,2-year,private_forprofit,https://rosseducation.edu,,,,,,,,pending
@@ -1737,12 +1737,12 @@ The Southern Baptist Theological Seminary,KY,4-year,private_nonprofit,https://ww
 Thomas More University,KY,4-year,private_nonprofit,https://www.thomasmore.edu,,,,,,,,pending
 Transylvania University,KY,4-year,private_nonprofit,https://www.transy.edu,,,,,,,,pending
 Union Commonwealth University,KY,4-year,private_nonprofit,https://www.unionky.edu,,,,,,,,pending
-University of Kentucky,KY,4-year,public,https://www.uky.edu,Yes,"First Day (BN, 2023)",Per-course (auto-billed UK acct),Barnes & Noble,Various via Canvas,BN First Day; opt-out IA since 2023; Canvas delivery; auto-billed UK acct; Cengage etc; OER grants via Libraries,https://uky.edu/bookstore/first-day; https://uky.edu/libraries/oer,done
-University of Louisville,KY,4-year,public,https://www.louisville.edu,Yes,Access Program (Follett),Per-course (up to 60% off),Follett,Various via LMS,Follett Access Program; up to 60% off; LMS delivery; auto-enrolled opt-out; FIAC formed 2021 to explore expansion; some MH Connect IA courses,https://bkstr.com/louisvillestore/access-program; https://louisville.edu,done
+University of Kentucky,KY,4-year,public,https://www.uky.edu,yes,First Day,Additional course charge; digital via LMS; opt-out,Barnes & Noble College,Various; digital via LMS; OER via library,BN First Day IA. UK Libraries also supports OER and textbook collection.,https://uky.edu; https://bncollege.com,done
+University of Louisville,KY,4-year,public,https://www.louisville.edu,yes,Follett ACCESS (Inclusive Access),Charged to Bursar account; reduced price; auto-enrolled; opt-out,Follett,Various; digital via LMS,Follett ACCESS IA. Charged to Bursar. Reduced price. Digital via LMS.,https://louisville.edu; https://bkstr.com/louisville,done
 University of Pikeville,KY,4-year,private_nonprofit,https://www.upike.edu,,,,,,,,pending
 University of the Cumberlands,KY,4-year,private_nonprofit,https://www.ucumberlands.edu,,,,,,,,pending
 West Kentucky Community and Technical College,KY,2-year,public,https://westkentucky.kctcs.edu,,,,,,,,pending
-Western Kentucky University,KY,4-year,public,https://www.wku.edu,Yes,Big Red Backpack (BN FDC),$24/credit hour,Barnes & Noble,Various via Blackboard,BN FDC Big Red Backpack; $24/cr; 35-50% savings; since ~2013 (one of first IA in US); Blackboard delivery; auto-enrolled opt-out; textbooks+manuals+codes,https://wku.edu/bookstore/big-red-backpack; https://wkuherald.com,done
+Western Kentucky University,KY,4-year,public,https://www.wku.edu,yes,First Day / Big Red Backpack,Additional course charge; digital via LMS; opt-out,Barnes & Noble College,BN First Day; various,BN First Day IA + Big Red Backpack program. Reduce costs. Materials by first day.,https://wku.edu; https://bncollege.com,done
 Academy of Interactive Entertainment,LA,2-year,private_nonprofit,https://lafayette.aie.edu,,,,,,,,pending
 Baton Rouge Community College,LA,2-year,public,https://www.mybrcc.edu,,,,,,,,pending
 Baton Rouge General Medical Center School of Nursing & School of Radiologic Technology,LA,2-year,private_nonprofit,https://www.brgeneral.org/medical-education/school-of-nursing/ OR school of radiologic technology,,,,,,,,pending
@@ -2340,20 +2340,20 @@ Concorde Career College-Southaven,MS,2-year,private_forprofit,https://www.concor
 Copiah-Lincoln Community College,MS,2-year,public,https://www.colin.edu,,,,,,,,pending
 Copiah-Lincoln Community College Simpson County Center,MS,2-year,public,https://www.colin.edu,,,,,,,,pending
 Copiah-Lincoln Community College-Natchez Campus,MS,2-year,public,https://www.colin.edu,,,,,,,,pending
-Delta State University,MS,4-year,public,https://www.deltastate.edu,,,,,,,,pending
+Delta State University,MS,4-year,public,https://www.deltastate.edu,yes,First Day Ready Program (First Day Complete),$20/cr; physical rental + digital via LMS; FA eligible,Barnes & Noble College,BN First Day Complete; physical rental + digital via LMS,First Day Ready: $20/cr. Physical books on rental. Digital via LMS. FA eligible.,https://deltastate.edu; https://bncollege.com,done
 East Central Community College,MS,2-year,public,https://www.eccc.edu,,,,,,,,pending
 East Mississippi Community College,MS,2-year,public,https://www.eastms.edu,,,,,,,,pending
 Hinds Community College,MS,2-year,public,https://www.hindscc.edu,,,,,,,,pending
 Holmes Community College,MS,2-year,public,https://www.holmescc.edu,,,,,,,,pending
 Itawamba Community College,MS,2-year,public,https://www.iccms.edu,,,,,,,,pending
-Jackson State University,MS,4-year,public,https://www.jsums.edu,,,,,,,,pending
+Jackson State University,MS,4-year,public,https://www.jsums.edu,yes,JSU V.I.B.E.,$27/cr charged to bursar; 62%+ avg savings; rent/purchase digital,Follett,Various; digital textbook rental/purchase via Follett,"V.I.B.E. (Virtual, Interactive Technology, Books, Educational Supplies). $27/cr. 62%+ avg savings.",https://jsums.edu; https://bkstr.com/jsu,done
 Jones County Junior College,MS,2-year,public,https://www.jcjc.edu,,,,,,,,pending
 Meridian Community College,MS,2-year,public,https://www.meridiancc.edu,,,,,,,,pending
 Millsaps College,MS,4-year,private_nonprofit,https://www.millsaps.edu,,,,,,,,pending
 Mississippi College,MS,4-year,private_nonprofit,https://www.mc.edu,,,,,,,,pending
 Mississippi Delta Community College,MS,2-year,public,https://www.msdelta.edu,,,,,,,,pending
 Mississippi Gulf Coast Community College,MS,2-year,public,https://www.mgccc.edu,,,,,,,,pending
-Mississippi State University,MS,4-year,public,https://www.msstate.edu,Yes,Bulldog Bundle (BN FDC),Per-course (reduced),Barnes & Noble,Various,BN First Day Complete; auto-enrolled; reduced price; opt-out,https://msstate.bncollege.com; https://msstate.edu,done
+Mississippi State University,MS,4-year,public,https://www.msstate.edu,yes,Bulldog Bundle (First Day Complete),$22/cr (Fall); $20/cr (Summer); auto-enrolled undergrads; opt-out,Barnes & Noble College,BN First Day Complete; textbooks + lab manuals + access codes + eBooks,"Bulldog Bundle: $22/cr (Fall), $20/cr (Summer). Auto-enrolled undergrads. All required materials. Opt-out.",https://msstate.edu; https://bncollege.com,done
 Mississippi University for Women,MS,4-year,public,https://www.muw.edu,Yes,W Books+ (BN FDC),$23/credit hour,Barnes & Noble,Various via Canvas,BN FDC; $23/cr; rental + digital; Canvas delivery,https://muw.bkstr.com; https://muw.edu,done
 Mississippi Valley State University,MS,4-year,public,https://www.mvsu.edu,,,,,,,,pending
 Northeast Mississippi Community College,MS,2-year,public,https://www.nemcc.edu,,,,,,,,pending
@@ -2366,9 +2366,9 @@ Southeastern Baptist College,MS,4-year,private_nonprofit,https://www.southeaster
 Southwest Mississippi Community College,MS,2-year,public,https://www.smcc.edu,,,,,,,,pending
 Strayer University-Mississippi,MS,4-year,private_forprofit,https://www.strayer.edu/campus-locations/mississippi/jackson,,,,,,,,pending
 Tougaloo College,MS,4-year,private_nonprofit,https://www.tougaloo.edu,,,,,,,,pending
-University of Mississippi,MS,4-year,public,https://www.olemiss.edu,,,,,,,,pending
+University of Mississippi,MS,4-year,public,https://www.olemiss.edu,no,N/A,Traditional; in-store + online ordering + price matching,University bookstore,Various,No formal IA program. Bookstore offers traditional options + price matching.,https://olemiss.edu,done
 University of Mississippi Medical Center,MS,4-year,public,https://www.umc.edu,,,,,,,,pending
-University of Southern Mississippi,MS,4-year,public,https://www.usm.edu,Yes,Eagle Direct Textbooks,$21/credit hour,Barnes & Noble,Various,BN FDC; $21/cr; auto-enrolled; opt-out,https://usm.bncollege.com; https://usm.edu,done
+University of Southern Mississippi,MS,4-year,public,https://www.usm.edu,yes,Eagle Direct Textbooks,$20/cr (increasing to $21/cr Fall 2025); 40-50% savings; undergrads; opt-out,Barnes & Noble College,Various; digital via Canvas,Eagle Direct: $20/cr (→$21 Fall 2025). 40-50% savings for undergrads. Digital via Canvas. Opt-out.,https://usm.edu; https://bncollege.com,done
 Wesley Biblical Seminary,MS,4-year,private_nonprofit,https://www.wbs.edu,,,,,,,,pending
 William Carey University,MS,4-year,private_nonprofit,https://www.wmcarey.edu,,,,,,,,pending
 Aaniiih Nakoda College,MT,4-year,public,https://www.ancollege.edu,,,,,,,,pending
@@ -2580,7 +2580,7 @@ College of Hair Design-Downtown,NE,2-year,private_forprofit,https://collegeofhai
 College of Hair Design-East Campus,NE,2-year,private_forprofit,https://collegeofhairdesign.com,,,,,,,,pending
 College of Saint Mary,NE,4-year,private_nonprofit,https://www.csm.edu,,,,,,,,pending
 Concordia University-Nebraska,NE,4-year,private_nonprofit,https://www.cune.edu,,,,,,,,pending
-Creighton University,NE,4-year,private_nonprofit,https://www.creighton.edu,Yes,First Day (BN),Per-course (lowest publisher price),Barnes & Noble,Various via LMS,BN First Day; lowest negotiated price; LMS delivery; opt-out,https://creighton.bkstr.com; https://creighton.edu,done
+Creighton University,NE,4-year,private_nonprofit,https://www.creighton.edu,yes,First Day,Additional charge per course; digital via LMS; opt-out; loose-leaf option,Barnes & Noble College,Various; digital via LMS; optional loose-leaf physical,BN First Day IA. Digital via LMS. Loose-leaf physical option via campus bookstore. Opt-out available.,https://creighton.edu; https://bncollege.com,done
 Doane University,NE,4-year,private_nonprofit,https://www.doane.edu,,,,,,,,pending
 Entourage Institute of Beauty and Esthetics,NE,2-year,private_forprofit,https://www.entouragebeautyne.com,,,,,,,,pending
 Hastings College,NE,4-year,private_nonprofit,https://www.hastings.edu,,,,,,,,pending
@@ -2594,7 +2594,7 @@ Myotherapy Institute,NE,2-year,private_forprofit,https://www.myotherapy.edu,,,,,
 Nebraska College of Technical Agriculture,NE,2-year,public,https://ncta.unl.edu,,,,,,,,pending
 Nebraska Indian Community College,NE,4-year,public,https://www.thenicc.edu,,,,,,,,pending
 Nebraska Methodist College of Nursing & Allied Health,NE,4-year,private_nonprofit,https://www.methodistcollege.edu,,,,,,,,pending
-Nebraska Wesleyan University,NE,4-year,private_nonprofit,https://www.nebrwesleyan.edu,,,,,,,,pending
+Nebraska Wesleyan University,NE,4-year,private_nonprofit,https://www.nebrwesleyan.edu,no,N/A (limited departmental experiments),Traditional purchase,University bookstore,Various; some departments experimented with IA,No formal university-wide IA. Some departments have experimented with inclusive access.,https://nebrwesleyan.edu,done
 Northeast Community College,NE,2-year,public,https://northeast.edu,,,,,,,,pending
 Peru State College,NE,4-year,public,https://www.peru.edu,,,,,,,,pending
 Southeast Community College Area,NE,2-year,public,https://www.southeast.edu,,,,,,,,pending
@@ -2602,9 +2602,9 @@ Summit Christian College,NE,4-year,private_nonprofit,https://www.summitcc.edu,,,
 Union Adventist University,NE,4-year,private_nonprofit,https://www.uau.edu,,,,,,,,pending
 Universal College of Healing Arts,NE,2-year,private_forprofit,https://www.ucha.edu,,,,,,,,pending
 University of Nebraska Medical Center,NE,4-year,public,https://www.unmc.edu,,,,,,,,pending
-University of Nebraska at Kearney,NE,4-year,public,https://www.unk.edu,,,,,,,,pending
-University of Nebraska at Omaha,NE,4-year,public,https://www.unomaha.edu,,,,,,,,pending
-University of Nebraska-Lincoln,NE,4-year,public,https://www.unl.edu,Yes,Inclusive Access (Follett + Unizin Engage),Per-course (up to 80% off),Follett,"Follett Access, Unizin Engage",Canvas delivery; Follett Access + Unizin dual platform; up to 80% off; opt-out,https://huskers.bncollege.com; https://unl.edu,done
+University of Nebraska at Kearney,NE,4-year,public,https://www.unk.edu,no,N/A (Open Nebraska/ONE OER program),Traditional + OER (free/low-cost); up to $500/sem savings from ONE courses,University bookstore,Various; OER via Open Nebraska; digital + physical options,No formal IA. Open Nebraska (ONE) OER program. Up to $500/sem or $4K/career savings. OER courses flagged in registration.,https://unk.edu,done
+University of Nebraska at Omaha,NE,4-year,public,https://www.unomaha.edu,yes,First Day Access,Reduced price; auto-opted in; charged to account; opt-out via MavLINK,University bookstore,Various; digital via Canvas; Cengage Unlimited,First Day Access: digital via Canvas at reduced price. Auto-opted in. Opt-out via MavLINK.,https://unobookstore.com,done
+University of Nebraska-Lincoln,NE,4-year,public,https://www.unl.edu,yes,Inclusive Access (Follett Access + Unizin Engage),Auto-enrolled; charged to account; up to 80% savings; opt-out end of week 1,Follett (UNL Campus Bookstore) + Unizin,Various; digital via Canvas; Follett Access + Unizin Engage platforms,Two IA platforms: Follett Access + Unizin Engage. Saved students $18M since 2019. Up to 80% savings.,https://unl.edu; https://nebraska.edu,done
 Wayne State College,NE,4-year,public,https://www.wsc.edu,,,,,,,,pending
 Western Nebraska Community College,NE,2-year,public,https://www.wncc.edu,,,,,,,,pending
 Xenon A Stephanie Moss Academy,NE,2-year,private_forprofit,https://www.xenonacademy.net,,,,,,,,pending
