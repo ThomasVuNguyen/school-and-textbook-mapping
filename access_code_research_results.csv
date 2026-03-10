@@ -830,14 +830,14 @@ University of the Potomac-Washington DC Campus,DC,4-year,private_forprofit,https
 Wesley Theological Seminary,DC,4-year,private_nonprofit,https://www.wesleyseminary.edu,,,,,,,,pending
 Delaware College of Art and Design,DE,2-year,private_nonprofit,https://www.dcad.edu,,,,,,,,pending
 Delaware State University,DE,4-year,public,https://www.desu.edu,Yes,Affordable Course Materials (Follett),Flat rate (12+ credits) or per-credit,Follett,"Kortext platform, various",Mandatory; Follett partnership; Kortext e-books; also adopting OER,https://desu.bkstr.com; https://desu.edu,done
-Delaware Technical Community College-Owens,DE,4-year,public,https://www.dtcc.edu/our-campuses/georgetown,,,,,,,,pending
-Delaware Technical Community College-Stanton/Wilmington,DE,4-year,public,https://www.dtcc.edu/our-campuses/wilmington,,,,,,,,pending
-Delaware Technical Community College-Terry,DE,4-year,public,https://www.dtcc.edu,,,,,,,,pending
+Delaware Technical Community College-Owens,DE,4-year,public,https://www.dtcc.edu/our-campuses/georgetown,yes,Inclusive Access (select courses),Some courses include access codes/digital supplements; digital via LMS; info from campus store,Follett,Various; digital supplements via LMS,Some IA: access codes/digital supplements for select courses. Digital books via LMS when offered. Campus store presents all options.,https://dtcc.edu; https://bkstr.com,done
+Delaware Technical Community College-Stanton/Wilmington,DE,4-year,public,https://www.dtcc.edu/our-campuses/wilmington,yes,Inclusive Access (select courses),Some courses include access codes/digital supplements; digital via LMS,Follett,Various; digital supplements via LMS,Some IA: access codes/digital supplements for select courses. Same system as Owens campus.,https://dtcc.edu; https://bkstr.com,done
+Delaware Technical Community College-Terry,DE,4-year,public,https://www.dtcc.edu,yes,Inclusive Access (select courses),Some courses include access codes/digital supplements; digital via LMS,Follett,Various; digital supplements via LMS,Some IA: access codes/digital supplements for select courses. Same system as other DTCC campuses.,https://dtcc.edu; https://bkstr.com,done
 Goldey-Beacom College,DE,4-year,private_nonprofit,https://www.gbc.edu,,,,,,,,pending
 Relay Graduate School of Education - Delaware,DE,4-year,private_nonprofit,https://relay.edu/location/relay-delaware,,,,,,,,pending
 Strayer University-Delaware,DE,4-year,private_forprofit,https://www.strayer.edu/campus-locations/delaware/wilmington,,,,,,,,pending
 University of Delaware,DE,4-year,public,https://www.udel.edu,Yes,First Day + Digital Delivery,Per-course charge,Barnes & Noble,Various via LMS,BN First Day; Digital Delivery program; auto-billed; opt-out available,https://udel.bkstr.com; https://udel.edu,done
-Wilmington University,DE,4-year,private_nonprofit,https://www.wilmu.edu,,,,,,,,pending
+Wilmington University,DE,4-year,private_nonprofit,https://www.wilmu.edu,no,N/A,Traditional purchase,University bookstore,Various,No formal IA program found.,https://wilmu.edu,done
 ATA Career Education,FL,4-year,private_forprofit,https://www.atafl.edu,,,,,,,,pending
 Academy for Five Element Acupuncture,FL,4-year,private_nonprofit,https://www.acupuncturist.edu,,,,,,,,pending
 Academy for Nursing and Health Occupations,FL,2-year,private_nonprofit,https://www.anho.edu,,,,,,,,pending
@@ -1983,7 +1983,7 @@ Beal University,ME,4-year,private_forprofit,https://www.beal.edu,,,,,,,,pending
 Beal University,ME,4-year,private_forprofit,https://www.beal.edu,,,,,,,,pending
 Bowdoin College,ME,4-year,private_nonprofit,https://www.bowdoin.edu,No,N/A,Traditional,Bowdoin Bookstore,Various,No formal IA; task force on OER/affordability; some individual course IA possible,https://bowdoin.bkstr.com; https://bowdoin.edu,done
 Central Maine Community College,ME,2-year,public,https://www.cmcc.edu,,,,,,,,pending
-Colby College,ME,4-year,private_nonprofit,https://www.colby.edu,,,,,,,,pending
+Colby College,ME,4-year,private_nonprofit,https://www.colby.edu,no,N/A,Traditional purchase; affordability awareness,College bookstore,Various,No formal IA. Affordability survey conducted. Colby CC (different school) has IA.,https://colby.edu,done
 College of the Atlantic,ME,4-year,private_nonprofit,https://www.coa.edu,,,,,,,,pending
 Eastern Maine Community College,ME,2-year,public,https://www.emcc.edu,,,,,,,,pending
 Husson University,ME,4-year,private_nonprofit,https://www.husson.edu,,,,,,,,pending
@@ -2008,7 +2008,7 @@ University of Maine at Farmington,ME,4-year,public,https://www.umf.maine.edu,,,,
 University of Maine at Fort Kent,ME,4-year,public,https://www.umfk.maine.edu,,,,,,,,pending
 University of Maine at Presque Isle,ME,4-year,public,https://www.umpi.edu,,,,,,,,pending
 University of New England,ME,4-year,private_nonprofit,https://www.une.edu,,,,,,,,pending
-University of Southern Maine,ME,4-year,public,https://usm.maine.edu,,,,,,,,pending
+University of Southern Maine,ME,4-year,public,https://usm.maine.edu,yes,First Day (BN College Inclusive Access),Digital via LMS; additional course charge; lowest negotiated price; opt-out,Barnes & Noble College (eCampus),Various; digital via BN First Day,BN First Day inclusive access. Digital as additional course charge. Lowest negotiated publisher price. 30-day return via eCampus.,https://usm.maine.edu; https://bncollege.com,done
 Washington County Community College,ME,2-year,public,https://www.wccc.me.edu,,,,,,,,pending
 York County Community College,ME,2-year,public,https://www.yccc.edu,,,,,,,,pending
 College of the Marshall Islands,MH,4-year,public,https://www.cmi.edu,,,,,,,,pending
@@ -2614,17 +2614,17 @@ Colby-Sawyer College,NH,4-year,private_nonprofit,https://www.colby-sawyer.edu,,,
 Dartmouth College,NH,4-year,private_nonprofit,https://dartmouth.edu,No,N/A,Traditional,Follett (downtown Hanover),Various,No formal IA; no campus bookstore; students use online/local shops; Follett present in area but no adopted IA program,https://dartmouth.bkstr.com; https://dartmouth.edu,done
 Franklin Pierce University,NH,4-year,private_nonprofit,https://www.franklinpierce.edu,,,,,,,,pending
 Great Bay Community College,NH,2-year,public,https://www.greatbay.edu,,,,,,,,pending
-Keene State College,NH,4-year,public,https://www.keene.edu,,,,,,,,pending
+Keene State College,NH,4-year,public,https://www.keene.edu,yes,First Day (BN College),Digital via Canvas; additional course charge; opt-out available; lowest publisher price,Barnes & Noble College,Various; BN First Day digital; interactive features,"BN First Day inclusive access. Digital via Canvas. Interactive features: highlighting, annotation, multimedia. Opt-out available.",https://keene.edu; https://bncollege.com,done
 Lakes Region Community College,NH,2-year,public,https://www.lrcc.edu,,,,,,,,pending
 Magdalen College,NH,4-year,private_nonprofit,https://www.magdalen.edu,,,,,,,,pending
 Manchester Community College,NH,2-year,public,https://www.mccnh.edu,,,,,,,,pending
 NHTI-Concord's Community College,NH,2-year,public,https://www.nhti.edu,,,,,,,,pending
 Nashua Community College,NH,2-year,public,https://nashuacc.edu,,,,,,,,pending
 New England College,NH,4-year,private_nonprofit,https://www.nec.edu,,,,,,,,pending
-Plymouth State University,NH,4-year,public,https://www.plymouth.edu,,,,,,,,pending
+Plymouth State University,NH,4-year,public,https://www.plymouth.edu,no,N/A,Traditional purchase via bookstore,BN College,Various,"No formal IA. CAS for disability access. First Year Experience is orientation, not textbook program.",https://plymouth.edu; https://bncollege.com,done
 River Valley Community College,NH,2-year,public,https://www.rivervalley.edu,,,,,,,,pending
 Rivier University,NH,4-year,private_nonprofit,https://www.rivier.edu,,,,,,,,pending
-Saint Anselm College,NH,4-year,private_nonprofit,https://www.anselm.edu,,,,,,,,pending
+Saint Anselm College,NH,4-year,private_nonprofit,https://www.anselm.edu,no,N/A,Traditional purchase; new/used/rental/digital; price match guarantee,Saint Anselm bookstore,Various; multiple format options,No formal IA. Bookstore offers new/used/rental/digital with price match guarantee.,https://anselm.edu,done
 Southern New Hampshire University,NH,4-year,private_nonprofit,https://www.snhu.edu,,,,,,,,pending
 St Joseph School of Nursing,NH,2-year,private_nonprofit,https://www.sjson.edu,,,,,,,,pending
 Thomas More College of Liberal Arts,NH,4-year,private_nonprofit,https://www.thomasmorecollege.edu,,,,,,,,pending
@@ -3797,7 +3797,7 @@ University of Puerto Rico-Rio Piedras,PR,4-year,public,https://www.uprrp.edu,No,
 University of Puerto Rico-Utuado,PR,4-year,public,https://www.uprutuado.edu,,,,,,,,pending
 Palau Community College,PW,2-year,public,https://palau.edu,,,,,,,,pending
 Brown University,RI,4-year,private_nonprofit,https://www.brown.edu,Yes,Inclusive Access,Per-course (Brown charge),Brown Bookstore,Various via Canvas,IA; Canvas delivery; auto-enrolled; opt-out deadline; Brown charge account billing,https://brown.bkstr.com; https://brown.edu,done
-Bryant University,RI,4-year,private_nonprofit,https://www.bryant.edu,,,,,,,,pending
+Bryant University,RI,4-year,private_nonprofit,https://www.bryant.edu,no,N/A,Traditional purchase,College bookstore,Various,No formal IA or First Day program found. Standard add/drop and bookstore model.,https://bryant.edu,done
 College Unbound,RI,4-year,private_nonprofit,https://collegeunbound.edu,,,,,,,,pending
 College Unbound - Newport/Aquidneck Island,RI,4-year,private_nonprofit,https://www.collegeunbound.edu,,,,,,,,pending
 Community College of Rhode Island,RI,2-year,public,https://www.ccri.edu,,,,,,,,pending
@@ -3806,7 +3806,7 @@ Johnson & Wales University-Online,RI,4-year,private_nonprofit,https://online.jwu
 Johnson & Wales University-Providence,RI,4-year,private_nonprofit,https://www.jwu.edu/campuses/providence,,,,,,,,pending
 New England Institute of Technology,RI,4-year,private_nonprofit,https://www.neit.edu,,,,,,,,pending
 Providence College,RI,4-year,private_nonprofit,https://www.providence.edu,Yes,Friar First Day (BN rental),Included (no visible charge),Barnes & Noble,Various (new/used/rental/digital),BN First Day; rental-based; no direct textbook charge for FT UG; return at semester end; pickup/ship,https://providence.bkstr.com; https://providence.edu,done
-Rhode Island College,RI,4-year,public,https://www.ric.edu,,,,,,,,pending
+Rhode Island College,RI,4-year,public,https://www.ric.edu,yes,First Day Complete / First Day by Course,Digital items included; Bookstore Course Material Fee; opt-out available,Barnes & Noble College,Various; BN First Day Complete,BN First Day Complete/by Course. Bookstore Course Material Fee for online materials. Opt-out available.,https://ric.edu; https://bncollege.com,done
 Rhode Island School of Design,RI,4-year,private_nonprofit,https://www.risd.edu,,,,,,,,pending
 Roger Williams University,RI,4-year,private_nonprofit,https://www.rwu.edu,,,,,,,,pending
 Roger Williams University School of Law,RI,4-year,private_nonprofit,https://law.rwu.edu,,,,,,,,pending
@@ -4451,9 +4451,9 @@ Community College of Vermont,VT,2-year,public,https://www.ccv.edu,,,,,,,,pending
 Goddard College,VT,4-year,private_nonprofit,https://www.goddard.edu,,,,,,,,pending
 Landmark College,VT,4-year,private_nonprofit,https://www.landmark.edu,,,,,,,,pending
 Middlebury College,VT,4-year,private_nonprofit,https://www.middlebury.edu/college,Partial,Inclusive Access pilot,Per-course (piloted),Middlebury Bookstore,Various,"IA pilot Spring 2020 (eText, Macro course); 2-week free then billed; opt-out; not campus-wide",https://middlebury.bkstr.com; https://middlebury.edu,done
-Norwich University,VT,4-year,private_nonprofit,https://www.norwich.edu,,,,,,,,pending
+Norwich University,VT,4-year,private_nonprofit,https://www.norwich.edu,yes,Norwich ACCESS Program,Online: $22/cr; residential FT: $264/sem; auto-enrolled; opt-out; physical mailed if no digital,Follett,Various; digital via Moodle/D2L Brightspace; physical if unavailable,"Norwich ACCESS (Follett). Online $22/cr, residential $264/sem. Digital via LMS. Physical mailed if no digital (no return needed).",https://norwich.edu; https://bkstr.com,done
 SIT Graduate Institute,VT,4-year,private_nonprofit,https://www.sit.edu,,,,,,,,pending
-Saint Michael's College,VT,4-year,private_nonprofit,https://www.smcvt.edu,,,,,,,,pending
+Saint Michael's College,VT,4-year,private_nonprofit,https://www.smcvt.edu,no,N/A,Traditional purchase,College bookstore,Various,No formal IA found. References to St Michael's (different schools) appear in searches.,https://smcvt.edu,done
 Sterling College,VT,4-year,private_nonprofit,https://www.sterlingcollege.edu,,,,,,,,pending
 University of Vermont,VT,4-year,public,https://www.uvm.edu,Partial,Bookstore IA (limited),Per-course,UVM Bookstore,Various,Some IA via bookstore; Asst Director involved in IA discussions; not campus-wide; digital transformation focus,https://uvm.bkstr.com; https://uvm.edu,done
 Vermont College of Fine Arts,VT,4-year,private_nonprofit,https://www.vcfa.edu,,,,,,,,pending
