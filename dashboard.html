@@ -1,0 +1,1070 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>US College Inclusive Access Programs — Research Dashboard</title>
+<meta name="description" content="Interactive dashboard analyzing inclusive access textbook programs across 6,400+ US colleges and universities.">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script src="https://d3js.org/topojson.v3.min.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg-primary: #0a0e1a;
+    --bg-secondary: #111827;
+    --bg-card: #1a1f35;
+    --bg-card-hover: #222845;
+    --border: #2a3050;
+    --text-primary: #f0f4ff;
+    --text-secondary: #8892b0;
+    --text-muted: #5a6380;
+    --accent-blue: #60a5fa;
+    --accent-cyan: #22d3ee;
+    --accent-purple: #a78bfa;
+    --accent-green: #34d399;
+    --accent-orange: #fb923c;
+    --accent-pink: #f472b6;
+    --accent-red: #f87171;
+    --gradient-1: linear-gradient(135deg, #60a5fa, #a78bfa);
+    --gradient-2: linear-gradient(135deg, #22d3ee, #34d399);
+    --gradient-3: linear-gradient(135deg, #fb923c, #f472b6);
+    --gradient-4: linear-gradient(135deg, #a78bfa, #f472b6);
+    --shadow: 0 4px 24px rgba(0,0,0,0.3);
+    --shadow-glow: 0 0 30px rgba(96,165,250,0.1);
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Inter', -apple-system, sans-serif;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    line-height: 1.6;
+    overflow-x: hidden;
+  }
+
+  .bg-mesh {
+    position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+    background:
+      radial-gradient(ellipse at 20% 0%, rgba(96,165,250,0.08) 0%, transparent 50%),
+      radial-gradient(ellipse at 80% 100%, rgba(167,139,250,0.06) 0%, transparent 50%),
+      radial-gradient(ellipse at 50% 50%, rgba(34,211,238,0.04) 0%, transparent 60%);
+    pointer-events: none; z-index: 0;
+  }
+
+  .container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 24px;
+    position: relative;
+    z-index: 1;
+  }
+
+  /* ===== HEADER ===== */
+  header {
+    padding: 48px 0 32px;
+    text-align: center;
+  }
+  header .badge {
+    display: inline-block;
+    background: rgba(96,165,250,0.12);
+    color: var(--accent-blue);
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+    text-transform: uppercase;
+    padding: 6px 16px;
+    border-radius: 30px;
+    border: 1px solid rgba(96,165,250,0.2);
+    margin-bottom: 16px;
+  }
+  header h1 {
+    font-size: clamp(28px, 4vw, 48px);
+    font-weight: 800;
+    background: var(--gradient-1);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 8px;
+    line-height: 1.2;
+  }
+  header .subtitle {
+    color: var(--text-secondary);
+    font-size: 16px;
+    font-weight: 400;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  /* ===== STAT CARDS ===== */
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 16px;
+    margin-bottom: 40px;
+  }
+  .stat-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 24px;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+  }
+  .stat-card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 3px;
+    border-radius: 16px 16px 0 0;
+  }
+  .stat-card:nth-child(1)::before { background: var(--gradient-1); }
+  .stat-card:nth-child(2)::before { background: var(--gradient-2); }
+  .stat-card:nth-child(3)::before { background: var(--gradient-3); }
+  .stat-card:nth-child(4)::before { background: var(--gradient-4); }
+  .stat-card:nth-child(5)::before { background: linear-gradient(135deg, #34d399, #22d3ee); }
+  .stat-card:hover {
+    transform: translateY(-2px);
+    border-color: rgba(96,165,250,0.3);
+    box-shadow: var(--shadow-glow);
+  }
+  .stat-card .label {
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--text-muted);
+    margin-bottom: 8px;
+  }
+  .stat-card .value {
+    font-size: 32px;
+    font-weight: 800;
+    color: var(--text-primary);
+    line-height: 1;
+  }
+  .stat-card .detail {
+    font-size: 13px;
+    color: var(--text-secondary);
+    margin-top: 4px;
+  }
+
+  /* ===== SECTIONS ===== */
+  .section {
+    margin-bottom: 40px;
+  }
+  .section-title {
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .section-title .icon {
+    width: 36px; height: 36px;
+    border-radius: 10px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 18px;
+  }
+
+  /* ===== CHART CARDS ===== */
+  .chart-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    gap: 20px;
+    margin-bottom: 40px;
+  }
+  .chart-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 24px;
+    transition: all 0.3s ease;
+  }
+  .chart-card:hover {
+    border-color: rgba(96,165,250,0.2);
+  }
+  .chart-card h3 {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 16px;
+    color: var(--text-primary);
+  }
+  .chart-card canvas {
+    max-height: 300px;
+  }
+
+  /* ===== MAP ===== */
+  .map-container {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 24px;
+    margin-bottom: 40px;
+    position: relative;
+    overflow: hidden;
+  }
+  .map-container h3 {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 16px;
+  }
+  #us-map {
+    width: 100%;
+    max-height: 500px;
+  }
+  #us-map path {
+    stroke: var(--bg-primary);
+    stroke-width: 0.8px;
+    cursor: pointer;
+    transition: opacity 0.2s;
+  }
+  #us-map path:hover {
+    opacity: 0.8;
+    stroke: var(--accent-cyan);
+    stroke-width: 1.5px;
+  }
+
+  .map-tooltip {
+    position: absolute;
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 14px 18px;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.15s;
+    z-index: 100;
+    box-shadow: var(--shadow);
+    min-width: 200px;
+  }
+  .map-tooltip .tt-state {
+    font-weight: 700;
+    font-size: 15px;
+    margin-bottom: 6px;
+    color: var(--text-primary);
+  }
+  .map-tooltip .tt-row {
+    font-size: 13px;
+    color: var(--text-secondary);
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    padding: 2px 0;
+  }
+  .map-tooltip .tt-row .tt-val {
+    font-weight: 600;
+    color: var(--text-primary);
+  }
+
+  .legend {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-top: 12px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .legend-bar {
+    width: 200px;
+    height: 12px;
+    border-radius: 6px;
+    background: linear-gradient(90deg, #1e293b, #1e40af, #3b82f6, #60a5fa, #93c5fd);
+  }
+  .legend span {
+    font-size: 12px;
+    color: var(--text-muted);
+  }
+
+  /* ===== DATA TABLE ===== */
+  .table-container {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 24px;
+    margin-bottom: 40px;
+  }
+  .table-controls {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .search-box {
+    flex: 1;
+    min-width: 250px;
+    padding: 10px 16px;
+    border-radius: 10px;
+    border: 1px solid var(--border);
+    background: var(--bg-secondary);
+    color: var(--text-primary);
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    transition: border-color 0.2s;
+    outline: none;
+  }
+  .search-box:focus {
+    border-color: var(--accent-blue);
+  }
+  .search-box::placeholder {
+    color: var(--text-muted);
+  }
+  .filter-select {
+    padding: 10px 14px;
+    border-radius: 10px;
+    border: 1px solid var(--border);
+    background: var(--bg-secondary);
+    color: var(--text-primary);
+    font-size: 13px;
+    font-family: 'Inter', sans-serif;
+    cursor: pointer;
+    outline: none;
+  }
+  .filter-select:focus { border-color: var(--accent-blue); }
+
+  .table-info {
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-bottom: 12px;
+  }
+
+  .data-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+  }
+  .data-table thead {
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  .data-table th {
+    background: var(--bg-secondary);
+    color: var(--text-secondary);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-size: 11px;
+    padding: 12px 10px;
+    text-align: left;
+    border-bottom: 1px solid var(--border);
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+    transition: color 0.2s;
+  }
+  .data-table th:hover { color: var(--accent-blue); }
+  .data-table th.sorted { color: var(--accent-cyan); }
+  .data-table td {
+    padding: 10px;
+    border-bottom: 1px solid rgba(42,48,80,0.5);
+    color: var(--text-secondary);
+    max-width: 250px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .data-table tr:hover td {
+    background: rgba(96,165,250,0.04);
+    color: var(--text-primary);
+  }
+  .data-table td:first-child {
+    color: var(--text-primary);
+    font-weight: 500;
+  }
+
+  .ia-badge {
+    display: inline-block;
+    padding: 2px 10px;
+    border-radius: 20px;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+  .ia-badge.yes {
+    background: rgba(52,211,153,0.15);
+    color: var(--accent-green);
+  }
+  .ia-badge.no {
+    background: rgba(248,113,113,0.12);
+    color: var(--accent-red);
+  }
+  .ia-badge.unknown {
+    background: rgba(136,146,176,0.12);
+    color: var(--text-muted);
+  }
+
+  .table-scroll {
+    max-height: 600px;
+    overflow-y: auto;
+    border-radius: 10px;
+    border: 1px solid var(--border);
+  }
+  .table-scroll::-webkit-scrollbar {
+    width: 6px;
+  }
+  .table-scroll::-webkit-scrollbar-thumb {
+    background: var(--border);
+    border-radius: 3px;
+  }
+
+  .pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    margin-top: 16px;
+  }
+  .pagination button {
+    padding: 8px 14px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--bg-secondary);
+    color: var(--text-secondary);
+    font-size: 13px;
+    font-family: 'Inter', sans-serif;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .pagination button:hover:not(:disabled) {
+    background: var(--bg-card-hover);
+    color: var(--text-primary);
+    border-color: var(--accent-blue);
+  }
+  .pagination button:disabled {
+    opacity: 0.3;
+    cursor: not-allowed;
+  }
+  .pagination .page-info {
+    font-size: 13px;
+    color: var(--text-muted);
+    min-width: 100px;
+    text-align: center;
+  }
+
+  /* ===== FLAT RATE SECTION ===== */
+  .flat-rate-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 12px;
+  }
+  .flat-rate-item {
+    background: var(--bg-secondary);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 14px 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: all 0.2s;
+  }
+  .flat-rate-item:hover {
+    border-color: rgba(96,165,250,0.3);
+    transform: translateX(2px);
+  }
+  .flat-rate-item .school-info {
+    flex: 1;
+  }
+  .flat-rate-item .school-name {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--text-primary);
+  }
+  .flat-rate-item .program-name {
+    font-size: 11px;
+    color: var(--text-muted);
+    margin-top: 2px;
+  }
+  .flat-rate-item .price-tag {
+    font-size: 18px;
+    font-weight: 800;
+    padding: 4px 12px;
+    border-radius: 8px;
+    white-space: nowrap;
+  }
+  .flat-rate-item .price-tag.semester {
+    background: rgba(96,165,250,0.12);
+    color: var(--accent-blue);
+  }
+  .flat-rate-item .price-tag.credit {
+    background: rgba(167,139,250,0.12);
+    color: var(--accent-purple);
+  }
+
+  /* ===== FOOTER ===== */
+  footer {
+    text-align: center;
+    padding: 32px 0;
+    color: var(--text-muted);
+    font-size: 13px;
+    border-top: 1px solid var(--border);
+    margin-top: 20px;
+  }
+
+  /* ===== LOADING ===== */
+  .loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    flex-direction: column;
+    gap: 16px;
+  }
+  .spinner {
+    width: 40px; height: 40px;
+    border: 3px solid var(--border);
+    border-top-color: var(--accent-blue);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* ===== RESPONSIVE ===== */
+  @media (max-width: 768px) {
+    .chart-grid {
+      grid-template-columns: 1fr;
+    }
+    .stats-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    .table-controls {
+      flex-direction: column;
+    }
+    .search-box { min-width: 100%; }
+  }
+</style>
+</head>
+<body>
+<div class="bg-mesh"></div>
+
+<div class="container">
+  <!-- HEADER -->
+  <header>
+    <div class="badge">📊 Research Dashboard</div>
+    <h1>US College Inclusive Access Programs</h1>
+    <p class="subtitle">Comprehensive analysis of textbook access programs across 6,400+ institutions</p>
+  </header>
+
+  <!-- STAT CARDS -->
+  <div class="stats-grid" id="stats-grid">
+    <div class="stat-card"><div class="label">Loading...</div><div class="value">—</div></div>
+  </div>
+
+  <!-- US MAP -->
+  <div class="section">
+    <div class="section-title">
+      <span class="icon" style="background:rgba(96,165,250,0.12)">🗺️</span>
+      Inclusive Access Adoption by State
+    </div>
+    <div class="map-container" id="map-container">
+      <svg id="us-map"></svg>
+      <div class="map-tooltip" id="map-tooltip"></div>
+      <div class="legend">
+        <span>0%</span>
+        <div class="legend-bar"></div>
+        <span>100%</span>
+        <span style="margin-left:12px; color: var(--text-secondary)">IA Adoption Rate</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- CHARTS -->
+  <div class="chart-grid">
+    <div class="chart-card">
+      <h3>📈 IA Adoption by Institution Type</h3>
+      <canvas id="chart-control"></canvas>
+    </div>
+    <div class="chart-card">
+      <h3>🎓 IA Adoption by Level</h3>
+      <canvas id="chart-level"></canvas>
+    </div>
+    <div class="chart-card">
+      <h3>🏪 Bookstore Partner Market Share (IA Schools)</h3>
+      <canvas id="chart-partners"></canvas>
+    </div>
+    <div class="chart-card">
+      <h3>📦 Top Program Models</h3>
+      <canvas id="chart-programs"></canvas>
+    </div>
+  </div>
+
+  <!-- TOP STATES BAR -->
+  <div class="chart-grid">
+    <div class="chart-card" style="grid-column: 1 / -1;">
+      <h3>🏆 IA Adoption Rate by State (Top 25 + Bottom 10)</h3>
+      <canvas id="chart-states" style="max-height:400px"></canvas>
+    </div>
+  </div>
+
+  <!-- FLAT RATE PROGRAMS -->
+  <div class="section">
+    <div class="section-title">
+      <span class="icon" style="background:rgba(34,211,153,0.12)">💰</span>
+      Known Flat-Rate Pricing Programs
+    </div>
+    <div class="flat-rate-grid" id="flat-rate-grid"></div>
+  </div>
+
+  <!-- DATA TABLE -->
+  <div class="section">
+    <div class="section-title">
+      <span class="icon" style="background:rgba(167,139,250,0.12)">🔍</span>
+      School Explorer
+    </div>
+    <div class="table-container">
+      <div class="table-controls">
+        <input type="text" class="search-box" id="search-input" placeholder="Search schools, programs, states...">
+        <select class="filter-select" id="filter-ia">
+          <option value="all">All IA Status</option>
+          <option value="yes">Has IA ✅</option>
+          <option value="no">No IA ❌</option>
+        </select>
+        <select class="filter-select" id="filter-state">
+          <option value="all">All States</option>
+        </select>
+        <select class="filter-select" id="filter-control">
+          <option value="all">All Types</option>
+        </select>
+      </div>
+      <div class="table-info" id="table-info">Loading...</div>
+      <div class="table-scroll">
+        <table class="data-table" id="data-table">
+          <thead>
+            <tr>
+              <th data-sort="name">School ↕</th>
+              <th data-sort="state">State ↕</th>
+              <th data-sort="ia">IA ↕</th>
+              <th data-sort="program">Program ↕</th>
+              <th data-sort="partner">Partner ↕</th>
+              <th data-sort="cost">Cost Model</th>
+            </tr>
+          </thead>
+          <tbody id="table-body"></tbody>
+        </table>
+      </div>
+      <div class="pagination" id="pagination"></div>
+    </div>
+  </div>
+
+  <footer>
+    Inclusive Access Research Dashboard &middot; 6,400+ US institutions &middot; Data compiled March 2026
+  </footer>
+</div>
+
+<script>
+// ========== LOAD DATA ==========
+let DATA = null;
+let filteredSchools = [];
+let currentPage = 0;
+const PAGE_SIZE = 50;
+let sortKey = 'name';
+let sortDir = 1;
+
+const FIPS_MAP = {
+  "AL":"01","AK":"02","AZ":"04","AR":"05","CA":"06","CO":"08","CT":"09","DE":"10","FL":"12","GA":"13",
+  "HI":"15","ID":"16","IL":"17","IN":"18","IA":"19","KS":"20","KY":"21","LA":"22","ME":"23","MD":"24",
+  "MA":"25","MI":"26","MN":"27","MS":"28","MO":"29","MT":"30","NE":"31","NV":"32","NH":"33","NJ":"34",
+  "NM":"35","NY":"36","NC":"37","ND":"38","OH":"39","OK":"40","OR":"41","PA":"42","RI":"44","SC":"45",
+  "SD":"46","TN":"47","TX":"48","UT":"49","VT":"50","VA":"51","WA":"53","WV":"54","WI":"55","WY":"56",
+  "DC":"11","PR":"72","GU":"66","VI":"78","AS":"60","MP":"69"
+};
+
+const STATE_NAMES = {
+  "AL":"Alabama","AK":"Alaska","AZ":"Arizona","AR":"Arkansas","CA":"California","CO":"Colorado",
+  "CT":"Connecticut","DE":"Delaware","FL":"Florida","GA":"Georgia","HI":"Hawaii","ID":"Idaho",
+  "IL":"Illinois","IN":"Indiana","IA":"Iowa","KS":"Kansas","KY":"Kentucky","LA":"Louisiana",
+  "ME":"Maine","MD":"Maryland","MA":"Massachusetts","MI":"Michigan","MN":"Minnesota","MS":"Mississippi",
+  "MO":"Missouri","MT":"Montana","NE":"Nebraska","NV":"Nevada","NH":"New Hampshire","NJ":"New Jersey",
+  "NM":"New Mexico","NY":"New York","NC":"North Carolina","ND":"North Dakota","OH":"Ohio","OK":"Oklahoma",
+  "OR":"Oregon","PA":"Pennsylvania","RI":"Rhode Island","SC":"South Carolina","SD":"South Dakota",
+  "TN":"Tennessee","TX":"Texas","UT":"Utah","VT":"Vermont","VA":"Virginia","WA":"Washington",
+  "WV":"West Virginia","WI":"Wisconsin","WY":"Wyoming","DC":"District of Columbia","PR":"Puerto Rico",
+  "GU":"Guam","VI":"Virgin Islands","AS":"American Samoa","MP":"N. Mariana Islands"
+};
+
+async function init() {
+  try {
+    const resp = await fetch('dashboard_data.json');
+    DATA = await resp.json();
+    renderStats();
+    renderMap();
+    renderCharts();
+    renderFlatRates();
+    initTable();
+  } catch(e) {
+    console.error('Error loading data:', e);
+    document.getElementById('stats-grid').innerHTML = `<div class="stat-card"><div class="label">Error</div><div class="value">Could not load data</div><div class="detail">${e.message}</div></div>`;
+  }
+}
+
+// ========== STATS ==========
+function renderStats() {
+  const s = DATA.stats;
+  const pct = ((s.hasIA / s.total) * 100).toFixed(1);
+  document.getElementById('stats-grid').innerHTML = `
+    <div class="stat-card">
+      <div class="label">Total Schools</div>
+      <div class="value">${s.total.toLocaleString()}</div>
+      <div class="detail">Across ${s.states} states & territories</div>
+    </div>
+    <div class="stat-card">
+      <div class="label">Has Inclusive Access</div>
+      <div class="value">${s.hasIA.toLocaleString()}</div>
+      <div class="detail">${pct}% adoption rate</div>
+    </div>
+    <div class="stat-card">
+      <div class="label">No Inclusive Access</div>
+      <div class="value">${s.noIA.toLocaleString()}</div>
+      <div class="detail">${(100 - pct).toFixed(1)}% of institutions</div>
+    </div>
+    <div class="stat-card">
+      <div class="label">Named Programs</div>
+      <div class="value">${DATA.topPrograms.reduce((a,b) => a+b.count, 0).toLocaleString()}</div>
+      <div class="detail">${DATA.topPrograms.length} distinct program models</div>
+    </div>
+    <div class="stat-card">
+      <div class="label">With Source URLs</div>
+      <div class="value">${s.withUrls.toLocaleString()}</div>
+      <div class="detail">${((s.withUrls/s.total)*100).toFixed(0)}% documented</div>
+    </div>
+  `;
+}
+
+// ========== MAP ==========
+async function renderMap() {
+  const stateMap = {};
+  DATA.byState.forEach(s => { stateMap[s.state] = s; });
+
+  const width = document.getElementById('map-container').clientWidth - 48;
+  const height = Math.min(width * 0.6, 500);
+
+  const svg = d3.select('#us-map').attr('width', width).attr('height', height);
+  const tooltip = document.getElementById('map-tooltip');
+
+  const us = await d3.json('https://cdn.jsdelivr.net/npm/us-atlas@3/states-10m.json');
+  const projection = d3.geoAlbersUsa().fitSize([width, height], topojson.feature(us, us.objects.states));
+  const path = d3.geoPath().projection(projection);
+
+  const colorScale = d3.scaleSequential(d3.interpolateBlues).domain([0, 80]);
+
+  const fipsToState = {};
+  Object.entries(FIPS_MAP).forEach(([st, fips]) => { fipsToState[fips] = st; });
+
+  svg.selectAll('path')
+    .data(topojson.feature(us, us.objects.states).features)
+    .join('path')
+    .attr('d', path)
+    .attr('fill', d => {
+      const fips = String(d.id).padStart(2, '0');
+      const st = fipsToState[fips];
+      const data = stateMap[st];
+      return data ? colorScale(data.rate) : '#1e293b';
+    })
+    .on('mousemove', (event, d) => {
+      const fips = String(d.id).padStart(2, '0');
+      const st = fipsToState[fips];
+      const data = stateMap[st];
+      if (!data) return;
+      const name = STATE_NAMES[st] || st;
+      tooltip.innerHTML = `
+        <div class="tt-state">${name} (${st})</div>
+        <div class="tt-row"><span>Total Schools</span><span class="tt-val">${data.total}</span></div>
+        <div class="tt-row"><span>Has IA</span><span class="tt-val" style="color:var(--accent-green)">${data.hasIA}</span></div>
+        <div class="tt-row"><span>No IA</span><span class="tt-val" style="color:var(--accent-red)">${data.noIA}</span></div>
+        <div class="tt-row"><span>Adoption Rate</span><span class="tt-val" style="color:var(--accent-cyan)">${data.rate}%</span></div>
+      `;
+      tooltip.style.opacity = 1;
+      const rect = document.getElementById('map-container').getBoundingClientRect();
+      tooltip.style.left = (event.clientX - rect.left + 15) + 'px';
+      tooltip.style.top = (event.clientY - rect.top - 10) + 'px';
+    })
+    .on('mouseleave', () => { tooltip.style.opacity = 0; });
+}
+
+// ========== CHARTS ==========
+function renderCharts() {
+  Chart.defaults.color = '#8892b0';
+  Chart.defaults.borderColor = 'rgba(42,48,80,0.5)';
+  Chart.defaults.font.family = 'Inter';
+
+  // Control chart
+  const controlCtx = document.getElementById('chart-control').getContext('2d');
+  const controlLabels = DATA.byControl.map(c => c.control);
+  new Chart(controlCtx, {
+    type: 'bar',
+    data: {
+      labels: controlLabels,
+      datasets: [
+        { label: 'Has IA', data: DATA.byControl.map(c => c.hasIA), backgroundColor: '#34d399', borderRadius: 6 },
+        { label: 'Total', data: DATA.byControl.map(c => c.total - c.hasIA), backgroundColor: '#1e293b', borderRadius: 6 },
+      ]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: { display: true, position: 'top' },
+        tooltip: { callbacks: { afterLabel: (ctx) => {
+          const d = DATA.byControl[ctx.dataIndex];
+          return `Adoption: ${d.rate}%`;
+        }}}
+      },
+      scales: {
+        x: { stacked: true, grid: { display: false } },
+        y: { stacked: true, grid: { color: 'rgba(42,48,80,0.3)' } }
+      }
+    }
+  });
+
+  // Level chart
+  const levelCtx = document.getElementById('chart-level').getContext('2d');
+  new Chart(levelCtx, {
+    type: 'doughnut',
+    data: {
+      labels: DATA.byLevel.map(l => `${l.level} (${l.rate}%)`),
+      datasets: [{
+        data: DATA.byLevel.map(l => l.hasIA),
+        backgroundColor: ['#60a5fa', '#a78bfa', '#34d399', '#fb923c'],
+        borderWidth: 2,
+        borderColor: '#1a1f35',
+        hoverOffset: 8
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: { position: 'bottom' },
+        tooltip: { callbacks: { afterLabel: (ctx) => {
+          const d = DATA.byLevel[ctx.dataIndex];
+          return `${d.hasIA} of ${d.total} schools`;
+        }}}
+      }
+    }
+  });
+
+  // Partners chart
+  const partnerCtx = document.getElementById('chart-partners').getContext('2d');
+  new Chart(partnerCtx, {
+    type: 'doughnut',
+    data: {
+      labels: DATA.partners.map(p => p.partner),
+      datasets: [{
+        data: DATA.partners.map(p => p.count),
+        backgroundColor: ['#22d3ee', '#f472b6', '#fb923c', '#a78bfa'],
+        borderWidth: 2,
+        borderColor: '#1a1f35',
+        hoverOffset: 8
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: { position: 'bottom' },
+      }
+    }
+  });
+
+  // Programs chart
+  const progCtx = document.getElementById('chart-programs').getContext('2d');
+  const sorted = [...DATA.topPrograms].sort((a,b) => a.count - b.count);
+  new Chart(progCtx, {
+    type: 'bar',
+    data: {
+      labels: sorted.map(p => p.name),
+      datasets: [{
+        label: 'Schools',
+        data: sorted.map(p => p.count),
+        backgroundColor: sorted.map((_, i) => {
+          const colors = ['#60a5fa','#22d3ee','#34d399','#a78bfa','#fb923c','#f472b6','#f87171','#fbbf24','#94a3b8','#818cf8','#2dd4bf','#e879f9'];
+          return colors[i % colors.length];
+        }),
+        borderRadius: 6
+      }]
+    },
+    options: {
+      indexAxis: 'y',
+      responsive: true,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { grid: { color: 'rgba(42,48,80,0.3)' } },
+        y: { grid: { display: false } }
+      }
+    }
+  });
+
+  // States bar chart (top 25 + bottom 10)
+  const statesCtx = document.getElementById('chart-states').getContext('2d');
+  const realStates = DATA.byState.filter(s => s.total >= 5);
+  const byRate = [...realStates].sort((a,b) => b.rate - a.rate);
+  const display = [...byRate.slice(0, 25), ...byRate.slice(-10)];
+  // Remove duplicates
+  const seen = new Set();
+  const unique = display.filter(s => { if (seen.has(s.state)) return false; seen.add(s.state); return true; });
+
+  new Chart(statesCtx, {
+    type: 'bar',
+    data: {
+      labels: unique.map(s => s.state),
+      datasets: [{
+        label: 'IA Rate %',
+        data: unique.map(s => s.rate),
+        backgroundColor: unique.map(s => {
+          if (s.rate >= 60) return '#34d399';
+          if (s.rate >= 40) return '#60a5fa';
+          if (s.rate >= 20) return '#fb923c';
+          return '#f87171';
+        }),
+        borderRadius: 4
+      }]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: { display: false },
+        tooltip: { callbacks: { afterLabel: (ctx) => {
+          const s = unique[ctx.dataIndex];
+          return `${s.hasIA} of ${s.total} schools`;
+        }}}
+      },
+      scales: {
+        x: { grid: { display: false } },
+        y: { grid: { color: 'rgba(42,48,80,0.3)' }, min: 0, max: 100, ticks: { callback: v => v + '%' } }
+      }
+    }
+  });
+}
+
+// ========== FLAT RATES ==========
+function renderFlatRates() {
+  const grid = document.getElementById('flat-rate-grid');
+  const perSem = DATA.flatRates.filter(f => f.type === 'per_semester').sort((a,b) => a.price - b.price);
+  const perCr = DATA.flatRates.filter(f => f.type === 'per_credit').sort((a,b) => a.price - b.price);
+  const all = [...perSem.slice(0, 20), ...perCr.slice(0, 10)];
+
+  grid.innerHTML = all.map(f => `
+    <div class="flat-rate-item">
+      <div class="school-info">
+        <div class="school-name">${f.school}</div>
+        <div class="program-name">${f.program} · ${f.state}</div>
+      </div>
+      <div class="price-tag ${f.type === 'per_semester' ? 'semester' : 'credit'}">
+        $${f.price}${f.type === 'per_semester' ? '/sem' : '/cr'}
+      </div>
+    </div>
+  `).join('');
+}
+
+// ========== DATA TABLE ==========
+function initTable() {
+  // Populate state dropdown
+  const stateSelect = document.getElementById('filter-state');
+  const states = [...new Set(DATA.schools.map(s => s.state))].sort();
+  states.forEach(s => {
+    const opt = document.createElement('option');
+    opt.value = s;
+    opt.textContent = STATE_NAMES[s] || s;
+    stateSelect.appendChild(opt);
+  });
+
+  // Populate control dropdown
+  const controlSelect = document.getElementById('filter-control');
+  const controls = [...new Set(DATA.schools.map(s => s.control))].filter(Boolean).sort();
+  controls.forEach(c => {
+    const opt = document.createElement('option');
+    opt.value = c;
+    opt.textContent = c;
+    controlSelect.appendChild(opt);
+  });
+
+  // Event listeners
+  document.getElementById('search-input').addEventListener('input', debounce(filterTable, 200));
+  document.getElementById('filter-ia').addEventListener('change', filterTable);
+  document.getElementById('filter-state').addEventListener('change', filterTable);
+  document.getElementById('filter-control').addEventListener('change', filterTable);
+
+  // Sort headers
+  document.querySelectorAll('.data-table th[data-sort]').forEach(th => {
+    th.addEventListener('click', () => {
+      const key = th.dataset.sort;
+      if (sortKey === key) sortDir *= -1;
+      else { sortKey = key; sortDir = 1; }
+      document.querySelectorAll('.data-table th').forEach(t => t.classList.remove('sorted'));
+      th.classList.add('sorted');
+      filterTable();
+    });
+  });
+
+  filterTable();
+}
+
+function filterTable() {
+  const query = document.getElementById('search-input').value.toLowerCase();
+  const iaFilter = document.getElementById('filter-ia').value;
+  const stateFilter = document.getElementById('filter-state').value;
+  const controlFilter = document.getElementById('filter-control').value;
+
+  filteredSchools = DATA.schools.filter(s => {
+    if (iaFilter !== 'all' && s.ia !== iaFilter) return false;
+    if (stateFilter !== 'all' && s.state !== stateFilter) return false;
+    if (controlFilter !== 'all' && s.control !== controlFilter) return false;
+    if (query) {
+      const haystack = `${s.name} ${s.state} ${s.program} ${s.partner} ${s.cost}`.toLowerCase();
+      return haystack.includes(query);
+    }
+    return true;
+  });
+
+  filteredSchools.sort((a, b) => {
+    const av = a[sortKey] || '';
+    const bv = b[sortKey] || '';
+    return av.localeCompare(bv) * sortDir;
+  });
+
+  currentPage = 0;
+  renderTablePage();
+}
+
+function renderTablePage() {
+  const start = currentPage * PAGE_SIZE;
+  const page = filteredSchools.slice(start, start + PAGE_SIZE);
+  const totalPages = Math.ceil(filteredSchools.length / PAGE_SIZE);
+
+  document.getElementById('table-info').textContent = `Showing ${start + 1}–${Math.min(start + PAGE_SIZE, filteredSchools.length)} of ${filteredSchools.length.toLocaleString()} schools`;
+
+  document.getElementById('table-body').innerHTML = page.map(s => `
+    <tr>
+      <td title="${s.name}">${s.name}</td>
+      <td>${s.state}</td>
+      <td><span class="ia-badge ${s.ia || 'unknown'}">${s.ia || '?'}</span></td>
+      <td title="${s.program}">${s.program || '—'}</td>
+      <td>${s.partner || '—'}</td>
+      <td title="${s.cost}">${s.cost || '—'}</td>
+    </tr>
+  `).join('');
+
+  document.getElementById('pagination').innerHTML = `
+    <button onclick="goPage(-1)" ${currentPage === 0 ? 'disabled' : ''}>← Prev</button>
+    <div class="page-info">Page ${currentPage + 1} of ${totalPages || 1}</div>
+    <button onclick="goPage(1)" ${currentPage >= totalPages - 1 ? 'disabled' : ''}>Next →</button>
+  `;
+}
+
+function goPage(delta) {
+  currentPage += delta;
+  renderTablePage();
+  document.querySelector('.table-scroll').scrollTop = 0;
+}
+
+function debounce(fn, ms) {
+  let timer;
+  return (...args) => { clearTimeout(timer); timer = setTimeout(() => fn(...args), ms); };
+}
+
+// GO!
+init();
+</script>
+</body>
+</html>
