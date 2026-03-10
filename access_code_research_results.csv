@@ -651,7 +651,7 @@ University of California-Los Angeles,CA,4-year,public,https://www.ucla.edu,Yes,B
 University of California-Merced,CA,4-year,public,https://ucmerced.edu,Yes,Inclusive Access,Per-course (70% off),UC Merced Bookstore,Various,Up to 70% off new print,https://ucmerced.edu/bookstore; https://bkstr.com/ucmerced,done
 University of California-Riverside,CA,4-year,public,https://www.ucr.edu,Yes,Inclusive Access + OER,Per-course,UCR Bookstore,Various + OER,Expanding OER focus,https://ucrhinecrestbookstore.com; https://ucr.edu,done
 University of California-San Diego,CA,4-year,public,https://www.ucsd.edu,Yes,Inclusive Access,Per-course,UCSD Bookstore,Various,UC-wide IA,https://ucsandiegobookstore.com/inclusive-access; https://ucsd.edu,done
-University of California-San Francisco,CA,4-year,public,https://ucsf.edu,,,,,,,,pending
+University of California-San Francisco,CA,4-year,public,https://ucsf.edu,yes,Inclusive Access (UC system),Per-course; digital via LMS; opt-out; UC system-wide model,University bookstore,Various; digital via LMS,Inclusive Access as part of UC system-wide model. Per-course. Digital via LMS. Opt-out.,https://universityofcalifornia.edu,done
 University of California-Santa Barbara,CA,4-year,public,https://www.ucsb.edu,Partial,EA feasibility assessment,Under study,UCSB Bookstore,N/A,EA feasibility assessment underway; Ondas Lending Library; A.S. Book Bank free loans; no formal IA yet,https://ucsbgauchostore.com; https://ucsb.edu,done
 University of California-Santa Cruz,CA,4-year,public,https://www.ucsc.edu,Yes,Inclusive Access,Per-course,Bay Tree Campus Store,Various,UC-wide IA,https://ucscslugstore.com; https://ucsc.edu,done
 University of East-West Medicine,CA,4-year,private_forprofit,https://www.uewm.edu,,,,,,,,pending
@@ -4205,11 +4205,11 @@ Tarleton State University,TX,4-year,public,https://www.tarleton.edu,,,,,,,,pendi
 Tarrant County College District,TX,2-year,public,https://www.tccd.edu,,,,,,,,pending
 Temple College,TX,2-year,public,https://www.templejc.edu,,,,,,,,pending
 Texarkana College,TX,2-year,public,https://www.texarkanacollege.edu,,,,,,,,pending
-Texas A & M International University,TX,4-year,public,https://www.tamiu.edu,,,,,,,,pending
-Texas A & M University Health Science Center,TX,4-year,public,https://health.tamu.edu,,,,,,,,pending
+Texas A & M International University,TX,4-year,public,https://www.tamiu.edu,yes,First Day / Eagle Book Bundle (TAMU system),Per-course/program; varies by campus; BN/rental; opt-out,Barnes & Noble College / campus stores,Various; BN; rental/digital,TAMU system. Varies by campus. BN First Day / Eagle Book Bundle. Per-course/program. Opt-out. TAMU-CC does not use IA.,https://tamus.edu; https://bncollege.com,done
+Texas A & M University Health Science Center,TX,4-year,public,https://health.tamu.edu,yes,First Day / Eagle Book Bundle (TAMU system),Per-course/program; varies by campus; BN/rental; opt-out,Barnes & Noble College / campus stores,Various; BN; rental/digital,TAMU system. Varies by campus. BN First Day / Eagle Book Bundle. Per-course/program. Opt-out. TAMU-CC does not use IA.,https://tamus.edu; https://bncollege.com,done
 Texas A & M University-Corpus Christi,TX,4-year,public,https://www.tamucc.edu,partial,Course-by-Course Affordable Access,Per-course; auto-enrolled; opt-out; up to 60% savings,Follett,Various; digital via LMS,No campus-wide IA. Offers ZTC courses. Considers 'inclusive access' a misnomer.,https://tamucc.edu; https://bkstr.com/tamucc,done
 Texas A&M University-Central Texas,TX,4-year,public,https://tamuct.edu,,,,,,,,pending
-Texas A&M University-College Station,TX,4-year,public,https://www.tamu.edu,,,,,,,,pending
+Texas A&M University-College Station,TX,4-year,public,https://www.tamu.edu,yes,First Day (BN),Per-course/program; digital; additional charge; BN,Barnes & Noble College,Various; BN First Day; digital,BN First Day. Per-course/program. Digital. TAMU-Texarkana has Eagle Book Bundle. TAMU-CC doesn't use IA.,https://tamu.edu; https://bncollege.com,done
 Texas A&M University-Kingsville,TX,4-year,public,https://www.tamuk.edu,,,,,,,,pending
 Texas A&M University-San Antonio,TX,4-year,public,https://www.tamusa.edu,,,,,,,,pending
 Texas A&M University-Texarkana,TX,4-year,public,https://www.tamut.edu,,,,,,,,pending
@@ -4242,18 +4242,18 @@ The College of Health Care Professions-Southwest Houston,TX,2-year,private_forpr
 The King's University,TX,4-year,private_nonprofit,https://www.tku.edu,,,,,,,,pending
 The Recording Conservatory of Austin,TX,2-year,private_forprofit,https://trcoa.edu,,,,,,,,pending
 The Southwestern Baptist Theological Seminary,TX,4-year,private_nonprofit,https://swbts.edu,,,,,,,,pending
-The University of Texas Health Science Center at Houston,TX,4-year,public,https://www.uth.edu,,,,,,,,pending
-The University of Texas Health Science Center at San Antonio,TX,4-year,public,https://www.uthscsa.edu,,,,,,,,pending
-The University of Texas MD Anderson Cancer Center,TX,4-year,public,https://www.mdanderson.org,,,,,,,,pending
-The University of Texas Medical Branch at Galveston,TX,4-year,public,https://www.utmb.edu,,,,,,,,pending
-The University of Texas Permian Basin,TX,4-year,public,https://www.utpb.edu,,,,,,,,pending
-The University of Texas Rio Grande Valley,TX,4-year,public,https://www.utrgv.edu,,,,,,,,pending
+The University of Texas Health Science Center at Houston,TX,4-year,public,https://www.uth.edu,yes,Inclusive Access / First Day (UT System),Per-course; UT System encourages IA as course fees; digital; opt-out,Various,Various; digital,UT System encourages Inclusive Access as course fees. Per-course. Digital. Opt-out.,https://utsystem.edu,done
+The University of Texas Health Science Center at San Antonio,TX,4-year,public,https://www.uthscsa.edu,yes,Inclusive Access / First Day (UT System),Per-course; UT System encourages IA as course fees; digital; opt-out,Various,Various; digital,UT System encourages Inclusive Access as course fees. Per-course. Digital. Opt-out.,https://utsystem.edu,done
+The University of Texas MD Anderson Cancer Center,TX,4-year,public,https://www.mdanderson.org,yes,Inclusive Access / First Day (UT System),Per-course; UT System encourages IA as course fees; digital; opt-out,Various,Various; digital,UT System encourages Inclusive Access as course fees. Per-course. Digital. Opt-out.,https://utsystem.edu,done
+The University of Texas Medical Branch at Galveston,TX,4-year,public,https://www.utmb.edu,yes,Inclusive Access / First Day (UT System),Per-course; UT System encourages IA as course fees; digital; opt-out,Various,Various; digital,UT System encourages Inclusive Access as course fees. Per-course. Digital. Opt-out.,https://utsystem.edu,done
+The University of Texas Permian Basin,TX,4-year,public,https://www.utpb.edu,yes,Inclusive Access / First Day (UT System),Per-course; UT System encourages IA as course fees; digital; opt-out,Various,Various; digital,UT System encourages Inclusive Access as course fees. Per-course. Digital. Opt-out.,https://utsystem.edu,done
+The University of Texas Rio Grande Valley,TX,4-year,public,https://www.utrgv.edu,yes,Inclusive Access / First Day (UT System),Per-course; UT System encourages IA as course fees; digital; opt-out,Various,Various; digital,UT System encourages Inclusive Access as course fees. Per-course. Digital. Opt-out.,https://utsystem.edu,done
 The University of Texas at Arlington,TX,4-year,public,https://www.uta.edu,partial,Course-by-Course Affordable Access + OER,Per-course IA; digital auto-billed; opt-out,Follett,Various; strong OER via UTA Libraries,IA explored since 2020. UT System day-one access model. Strong OER via libraries.,https://uta.edu; https://utsystem.edu; https://bkstr.com/uta,done
 The University of Texas at Austin,TX,4-year,public,https://www.utexas.edu,Yes,Longhorn Textbook Access (LTA),Per-course (What I Owe acct),University Co-op,Various via Canvas,"LTA; $5M+ saved; 1,238 courses 2024-25; Canvas delivery; University Co-op partner; opt-out by 12th class day",https://texasbook.com; https://utexas.edu,done
-The University of Texas at Dallas,TX,4-year,public,https://www.utdallas.edu,,,,,,,,pending
-The University of Texas at El Paso,TX,4-year,public,https://www.utep.edu,,,,,,,,pending
-The University of Texas at San Antonio,TX,4-year,public,https://www.utsa.edu,,,,,,,,pending
-The University of Texas at Tyler,TX,4-year,public,https://www.uttyler.edu,,,,,,,,pending
+The University of Texas at Dallas,TX,4-year,public,https://www.utdallas.edu,yes,Inclusive Access / First Day (UT System),Per-course; UT System encourages IA as course fees; digital; opt-out,Various,Various; digital,UT System encourages Inclusive Access as course fees. Per-course. Digital. Opt-out.,https://utsystem.edu,done
+The University of Texas at El Paso,TX,4-year,public,https://www.utep.edu,yes,Inclusive Access / First Day (UT System),Per-course; UT System encourages IA as course fees; digital; opt-out,Various,Various; digital,UT System encourages Inclusive Access as course fees. Per-course. Digital. Opt-out.,https://utsystem.edu,done
+The University of Texas at San Antonio,TX,4-year,public,https://www.utsa.edu,yes,Inclusive Access / First Day (UT System),Per-course; UT System encourages IA as course fees; digital; opt-out,Various,Various; digital,UT System encourages Inclusive Access as course fees. Per-course. Digital. Opt-out.,https://utsystem.edu,done
+The University of Texas at Tyler,TX,4-year,public,https://www.uttyler.edu,yes,Inclusive Access / First Day (UT System),Per-course; UT System encourages IA as course fees; digital; opt-out,Various,Various; digital,UT System encourages Inclusive Access as course fees. Per-course. Digital. Opt-out.,https://utsystem.edu,done
 Trinity University,TX,4-year,private_nonprofit,https://new.trinity.edu,,,,,,,,pending
 Trinity Valley Community College,TX,4-year,public,https://www.tvcc.edu,,,,,,,,pending
 Tyler Junior College,TX,4-year,public,https://www.tjc.edu,,,,,,,,pending
@@ -4261,7 +4261,7 @@ Universal Technical Institute of Texas Inc.,TX,2-year,private_forprofit,https://
 Universal Technical Institute-Dallas Fort Worth,TX,2-year,private_forprofit,https://www.uti.edu,,,,,,,,pending
 Universal Technical Institute-West Texas,TX,2-year,private_forprofit,https://www.uti.edu,,,,,,,,pending
 University of Dallas,TX,4-year,private_nonprofit,https://udallas.edu,,,,,,,,pending
-University of Houston,TX,4-year,public,https://www.uh.edu,,,,,,,,pending
+University of Houston,TX,4-year,public,https://www.uh.edu,yes,Cougar Textbook Access Program (CTAP),Flat per-term fee; UG; opt-out; piloted then permanent Spring 2022; saved millions,Follett,Various; Follett,CTAP. Flat per-term fee. UG. Opt-out. Permanent since Spring 2022. Saved millions. UH-Downtown has GTAP (flat fee UG+grad opt-out).,https://uh.edu; https://uhsystem.edu; https://follett.com,done
 University of Houston-Clear Lake,TX,4-year,public,https://www.uhcl.edu,,,,,,,,pending
 University of Houston-Downtown,TX,4-year,public,https://www.uhd.edu,,,,,,,,pending
 University of Houston-Victoria,TX,4-year,public,https://uhv.edu,,,,,,,,pending
@@ -4280,7 +4280,7 @@ Wade College,TX,4-year,private_forprofit,https://www.wadecollege.edu,,,,,,,,pend
 Wayland Baptist University,TX,4-year,private_nonprofit,https://www.wbu.edu,,,,,,,,pending
 Weatherford College,TX,4-year,public,https://www.wc.edu,,,,,,,,pending
 West Coast University-Texas,TX,4-year,private_forprofit,https://westcoastuniversity.edu,,,,,,,,pending
-West Texas A & M University,TX,4-year,public,https://www.wtamu.edu,,,,,,,,pending
+West Texas A & M University,TX,4-year,public,https://www.wtamu.edu,yes,First Day / Eagle Book Bundle (TAMU system),Per-course/program; varies by campus; BN/rental; opt-out,Barnes & Noble College / campus stores,Various; BN; rental/digital,TAMU system. Varies by campus. BN First Day / Eagle Book Bundle. Per-course/program. Opt-out. TAMU-CC does not use IA.,https://tamus.edu; https://bncollege.com,done
 Western Technical College,TX,4-year,private_forprofit,https://www.westerntech.edu,,,,,,,,pending
 Western Technical College,TX,4-year,private_forprofit,https://www.westerntech.edu,,,,,,,,pending
 Western Texas College,TX,2-year,public,https://www.wtc.edu,,,,,,,,pending
