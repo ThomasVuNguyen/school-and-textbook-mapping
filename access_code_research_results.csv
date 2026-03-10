@@ -809,7 +809,7 @@ Yale University,CT,4-year,private_nonprofit,https://www.yale.edu,No,No formal IA
 American University,DC,4-year,private_nonprofit,https://www.american.edu,Yes,Eagle Access,Per-course (tuition bill),Follett,Various via Canvas,Follett; up to 60% off; auto-enrolled; opt-out by add/drop,https://american.bncollege.com; https://american.edu,done
 Arizona State University - Washington D.C.,DC,4-year,public,https://www.asu.edu,,,,,,,https://asusundevilbookstores.com/inclusive-access; https://asu.edu/academics/bookstore,pending
 Career Technical Institute,DC,2-year,private_forprofit,https://www.careertechnical.edu,,,,,,,,pending
-Gallaudet University,DC,4-year,private_nonprofit,https://gallaudet.edu,,,,,,,,pending
+Gallaudet University,DC,4-year,private_nonprofit,https://gallaudet.edu,no,N/A,Traditional purchase,University bookstore,Various,No formal IA found. Specializes in deaf/hard-of-hearing education.,https://gallaudet.edu,done
 George Washington University,DC,4-year,private_nonprofit,https://www.gwu.edu,Partial,VitalSource IA + OER,Per-course + OER,GW Bookstore,"VitalSource, OER",Library critical of auto-billing; strong OER advocacy,https://gwu.bncollege.com; https://gwu.edu,done
 Georgetown University,DC,4-year,private_nonprofit,https://www.georgetown.edu,Yes,First Day Complete,Per-course,Follett,Various,Follett First Day; students advocate opt-in model,https://georgetown.bkstr.com; https://georgetown.edu,done
 Howard University,DC,4-year,private_nonprofit,https://www.howard.edu,Yes,Equitable Access + Instant Access,Flat fee/sem (UG); bundled (grad),Howard Bookstore,Various,Fall 2022; flat fee UG; Instant Access grad; 2-week opt-out; OER library,https://howard.bkstr.com; https://howard.edu,done
@@ -822,9 +822,9 @@ Relay Graduate School of Education - Washington D.C,DC,4-year,private_nonprofit,
 Saint Michael College of Allied Health,DC,2-year,private_forprofit,https://www.smcah.edu,,,,,,,,pending
 Strayer University-District of Columbia,DC,4-year,private_forprofit,https://www.strayer.edu/campus-locations/district-columbia/washington,,,,,,,,pending
 Strayer University-Global Region,DC,4-year,private_forprofit,https://www.strayer.edu,,,,,,,,pending
-The Catholic University of America,DC,4-year,private_nonprofit,https://www.catholic.edu,,,,,,,,pending
+The Catholic University of America,DC,4-year,private_nonprofit,https://www.catholic.edu,no,N/A,Traditional purchase,CUA bookstore,Various,No formal IA program. Open access resources discussed but not a textbook billing model.,https://cua.edu,done
 The Chicago School at Washington DC,DC,4-year,private_nonprofit,https://www.thechicagoschool.edu/washington-dc,,,,,,,,pending
-Trinity Washington University,DC,4-year,private_nonprofit,https://www2.trinitydc.edu,,,,,,,,pending
+Trinity Washington University,DC,4-year,private_nonprofit,https://www2.trinitydc.edu,no,N/A,Traditional purchase,University bookstore,Various,No formal IA found. Small university.,https://trinitydc.edu,done
 University of the District of Columbia,DC,4-year,public,https://www.udc.edu,Yes,Follett Access,Fee on student account,Follett,Various (digital),Auto-enrolled; digital via LMS; opt-out,https://udc.bkstr.com; https://udc.edu,done
 University of the Potomac-Washington DC Campus,DC,4-year,private_forprofit,https://www.potomac.edu,,,,,,,,pending
 Wesley Theological Seminary,DC,4-year,private_nonprofit,https://www.wesleyseminary.edu,,,,,,,,pending
@@ -1744,25 +1744,25 @@ University of the Cumberlands,KY,4-year,private_nonprofit,https://www.ucumberlan
 West Kentucky Community and Technical College,KY,2-year,public,https://westkentucky.kctcs.edu,,,,,,,,pending
 Western Kentucky University,KY,4-year,public,https://www.wku.edu,yes,First Day / Big Red Backpack,Additional course charge; digital via LMS; opt-out,Barnes & Noble College,BN First Day; various,BN First Day IA + Big Red Backpack program. Reduce costs. Materials by first day.,https://wku.edu; https://bncollege.com,done
 Academy of Interactive Entertainment,LA,2-year,private_nonprofit,https://lafayette.aie.edu,,,,,,,,pending
-Baton Rouge Community College,LA,2-year,public,https://www.mybrcc.edu,,,,,,,,pending
+Baton Rouge Community College,LA,2-year,public,https://www.mybrcc.edu,yes,Inclusive Access,Digital via Canvas; discounted; charged to account; opt-out,College bookstore,Various; digital via Canvas,IA: digital course materials via Canvas. Discounted rate. Charged to student account. Opt-out.,https://mybrcc.edu,done
 Baton Rouge General Medical Center School of Nursing & School of Radiologic Technology,LA,2-year,private_nonprofit,https://www.brgeneral.org/medical-education/school-of-nursing/ OR school of radiologic technology,,,,,,,,pending
 Blue Cliff College,LA,2-year,private_forprofit,https://www.bluecliffcollege.edu,,,,,,,,pending
 Blue Cliff College-Alexandria,LA,2-year,private_forprofit,https://bluecliffcollege.edu,,,,,,,,pending
 Blue Cliff College-Lafayette,LA,2-year,private_forprofit,https://bluecliffcollege.edu,,,,,,,,pending
 Blue Cliff College-Metairie,LA,2-year,private_forprofit,https://www.bluecliffcollege.edu,,,,,,,,pending
-Bossier Parish Community College,LA,2-year,public,https://www.bpcc.edu,,,,,,,,pending
+Bossier Parish Community College,LA,2-year,public,https://www.bpcc.edu,yes,Inclusive Access,Digital materials via LMS; discounted; opt-out,College bookstore,Various; digital materials,IA: digital materials via LMS at discounted rate. Opt-out available.,https://bpcc.edu,done
 Bridges Christian College,LA,4-year,private_nonprofit,https://www.bcc.edu,,,,,,,,pending
-Centenary College of Louisiana,LA,4-year,private_nonprofit,https://www.centenary.edu,,,,,,,,pending
+Centenary College of Louisiana,LA,4-year,private_nonprofit,https://www.centenary.edu,no,N/A,Traditional purchase,College bookstore,Various,No formal IA found. Small private liberal arts college.,https://centenary.edu,done
 Central Louisiana Technical Community College,LA,2-year,public,https://www.cltcc.edu,,,,,,,,pending
 Chamberlain University-Louisiana,LA,4-year,private_forprofit,https://www.chamberlain.edu,,,,,,,,pending
 Delgado Community College,LA,2-year,public,https://www.dcc.edu,,,,,,,,pending
 Delta College of Arts & Technology,LA,2-year,private_forprofit,https://www.deltacollege.com,,,,,,,,pending
 Digital Media Institute,LA,2-year,private_nonprofit,https://www.dmi.edu,,,,,,,,pending
-Dillard University,LA,4-year,private_nonprofit,https://www.dillard.edu,,,,,,,,pending
+Dillard University,LA,4-year,private_nonprofit,https://www.dillard.edu,no,N/A,Traditional purchase,University bookstore,Various,No formal IA found. HBCU in New Orleans.,https://dillard.edu,done
 Fletcher Technical Community College,LA,2-year,public,https://www.fletcher.edu,,,,,,,,pending
 Fortis College-Baton Rouge,LA,2-year,private_forprofit,https://www.fortis.edu,,,,,,,,pending
 Franciscan Missionaries of Our Lady University,LA,4-year,private_nonprofit,https://www.franu.edu,,,,,,,,pending
-Grambling State University,LA,4-year,public,https://www.gram.edu,,,,,,,,pending
+Grambling State University,LA,4-year,public,https://www.gram.edu,yes,Inclusive Access / Follett ACCESS,Digital via LMS; charged to student account; opt-out,Follett,Various; digital via Moodle,Follett ACCESS inclusive access. Digital course materials via LMS. Charged to account. Opt-out.,https://gram.edu; https://bkstr.com,done
 Healthcare Training Institute,LA,2-year,private_forprofit,https://healthcaretraininginstitutenola.net,,,,,,,,pending
 Herzing University-New Orleans,LA,4-year,private_nonprofit,https://www.herzing.edu,,,,,,,,pending
 ITI Technical College,LA,2-year,private_forprofit,https://www.iticollege.edu,,,,,,,,pending
@@ -1782,7 +1782,7 @@ McNeese State University,LA,4-year,public,https://www.mcneese.edu,yes,Inclusive 
 Miller-Motte College-McCann-Monroe,LA,2-year,private_forprofit,https://www.mccann.edu,,,,,,,,pending
 NationsUniversity,LA,4-year,private_nonprofit,https://www.nationsu.edu,,,,,,,,pending
 New Orleans Baptist Theological Seminary,LA,4-year,private_nonprofit,https://www.nobts.edu,,,,,,,,pending
-Nicholls State University,LA,4-year,public,https://www.nicholls.edu,,,,,,,,pending
+Nicholls State University,LA,4-year,public,https://www.nicholls.edu,yes,Colonel Bundle (Inclusive Access),Flat rate per semester; auto-enrolled; digital + physical; opt-out,Follett/BN,Various; digital via LMS,Colonel Bundle: inclusive access. Flat rate per semester. Auto-enrolled. Digital and physical options.,https://nicholls.edu,done
 Northshore Technical Community College,LA,2-year,public,https://northshorecollege.edu,,,,,,,,pending
 Northwest Louisiana Technical Community College,LA,2-year,public,https://www.nltcc.edu,,,,,,,,pending
 Northwestern State University of Louisiana,LA,4-year,public,https://www.nsula.edu,Yes,IncludED Textbook Program,Per-course (MyNSU billing),NSU Campus Store,Various via LMS,Auto-enrolled; rent/purchase reduced cost; digital+physical; opt-out,https://nsula.bkstr.com; https://nsula.edu,done
@@ -1797,7 +1797,7 @@ SOWELA Technical Community College,LA,2-year,public,https://www.sowela.edu,,,,,,
 Saint Joseph Seminary College,LA,4-year,private_nonprofit,https://www.sjasc.edu,,,,,,,,pending
 South Louisiana Community College,LA,2-year,public,https://www.solacc.edu,,,,,,,,pending
 Southeastern Louisiana University,LA,4-year,public,https://www.southeastern.edu,yes,Textbook Rental System (Follett),Per-course charge on student invoice,Follett,Follett; various,Textbooks issued per-course charge. Follett partnership.,https://southeastern.edu; https://bkstr.com/southeastern,done
-Southeastern Louisiana University - Albert Cammon Middle School,LA,4-year,public,https://www.southeastern.edu,,,,,,,,pending
+Southeastern Louisiana University - Albert Cammon Middle School,LA,4-year,public,https://www.southeastern.edu,yes,Textbook Rental System,Per-course charge added to invoice; rental; return required,University bookstore,Various; rental format,Textbook Rental System: per-course charge on invoice. Books must be returned in good condition or charged full retail.,https://southeastern.edu,done
 Southeastern Louisiana University - Destrahan High School,LA,4-year,public,https://www.southeastern.edu,,,,,,,,pending
 Southeastern Louisiana University - EBR Parish School System Prof Dev,LA,4-year,public,https://www.southeastern.edu,,,,,,,,pending
 Southeastern Louisiana University - St Amant High School,LA,4-year,public,https://www.southeastern.edu,,,,,,,,pending
@@ -1808,7 +1808,7 @@ Southern University at Shreveport,LA,2-year,public,https://www.susla.edu,,,,,,,,
 The Chicago School at Xavier University of Louisiana,LA,4-year,private_nonprofit,https://www.thechicagoschool.edu/in-the-community/locations,,,,,,,,pending
 Tulane University of Louisiana,LA,4-year,private_nonprofit,https://tulane.edu,Yes,NTC Undergrad Bundle (FDC),Flat fee/semester,Barnes & Noble,Various,BN First Day Complete; NTC UG only; flat fee; opt-out available,https://tulane.bkstr.com; https://tulane.edu,done
 University of Holy Cross,LA,4-year,private_nonprofit,https://uhcno.edu,,,,,,,,pending
-University of Louisiana at Lafayette,LA,4-year,public,https://www.louisiana.edu,,,,,,,,pending
+University of Louisiana at Lafayette,LA,4-year,public,https://www.louisiana.edu,yes,First Day Complete,BN First Day Complete; course charge; opt-out,Barnes & Noble College,Various; BN First Day Complete,BN First Day Complete. All required materials. Course charge on account. Opt-out available.,https://louisiana.edu; https://bncollege.com,done
 University of Louisiana at Monroe,LA,4-year,public,https://www.ulm.edu,Yes,Warhawk Bundle (BN FDC),Per-course (35-50% off),Barnes & Noble,Various,August 2022 launch; BN FDC; auto-enrolled; opt-out,https://ulm.bncollege.com; https://ulm.edu,done
 University of New Orleans,LA,4-year,public,https://new.uno.edu,yes,Follett ACCESS,$27/credit hour; on tuition/fees,Follett,Follett ACCESS; multiple,All-inclusive. $27/cr on tuition. Materials on first day.,https://uno.edu; https://bkstr.com/unobookstore,done
 Xavier University of Louisiana,LA,4-year,private_nonprofit,https://www.xula.edu,,,,,,,,pending
@@ -3339,7 +3339,7 @@ Zane State College,OH,4-year,public,https://www.zanestate.edu,,,,,,,,pending
 ATA College,OK,2-year,private_forprofit,https://www.ata.edu/campus/tulsa-ok,,,,,,,,pending
 Autry Technology Center,OK,2-year,public,https://autrytech.edu,,,,,,,,pending
 Bacone College,OK,4-year,private_nonprofit,https://www.bacone.edu,,,,,,,,pending
-Cameron University,OK,4-year,public,https://www.cameron.edu,,,,,,,,pending
+Cameron University,OK,4-year,public,https://www.cameron.edu,yes,First Day / Inclusive Access,Digital via Canvas; discounted; charged to account; opt-out,University bookstore,Various; digital via Canvas,First Day/IA: digital materials via Canvas. Discounted. Charged to account.,https://cameron.edu,done
 Canadian Valley Technology Center,OK,2-year,public,https://www.cvtech.edu,,,,,,,,pending
 Carl Albert State College,OK,2-year,public,https://www.carlalbert.edu,,,,,,,,pending
 Central Oklahoma College,OK,2-year,private_forprofit,https://centraloc.edu,,,,,,,,pending
@@ -3348,7 +3348,7 @@ College of the Muscogee Nation,OK,2-year,public,https://cmn.edu,,,,,,,,pending
 Columbia College - Fort Sill,OK,4-year,private_nonprofit,https://www.ccis.edu/locations/fort-sill,,,,,,,,pending
 Community Care College,OK,2-year,private_nonprofit,https://www.communitycarecollege.edu,,,,,,,,pending
 Connors State College,OK,2-year,public,https://connorsstate.edu,,,,,,,,pending
-East Central University,OK,4-year,public,https://www.ecok.edu,,,,,,,,pending
+East Central University,OK,4-year,public,https://www.ecok.edu,yes,First Day / Inclusive Access,Digital via LMS; course charge; opt-out,University bookstore,Various; digital via LMS,First Day/IA. Digital materials. Course charge.,https://ecok.edu,done
 Eastern Oklahoma State College,OK,2-year,public,https://www.eosc.edu,,,,,,,,pending
 Family of Faith Christian University,OK,4-year,private_nonprofit,https://www.familyoffaith.edu,,,,,,,,pending
 Gordon Cooper Technology Center,OK,2-year,public,https://www.gctech.edu,,,,,,,,pending
@@ -3361,36 +3361,36 @@ Miller-Motte College-Tulsa,OK,2-year,private_forprofit,https://www.miller-motte.
 Moore Norman Technology Center,OK,2-year,public,https://www.mntc.edu,,,,,,,,pending
 Murray State College,OK,2-year,public,https://www.mscok.edu,,,,,,,,pending
 Northeastern Oklahoma A&M College,OK,2-year,public,https://www.neo.edu,,,,,,,,pending
-Northeastern State University,OK,4-year,public,https://www.nsuok.edu,,,,,,,,pending
+Northeastern State University,OK,4-year,public,https://www.nsuok.edu,yes,First Day,Digital via LMS; course charge; opt-out,BN College,Various; BN First Day,BN First Day. Digital by first day. Course charge.,https://nsuok.edu; https://bncollege.com,done
 Northern Oklahoma College,OK,2-year,public,https://www.noc.edu,,,,,,,,pending
 Northwestern Oklahoma State University,OK,4-year,public,https://www.nwosu.edu,,,,,,,,pending
 Oklahoma Baptist University,OK,4-year,private_nonprofit,https://www.okbu.edu,,,,,,,,pending
 Oklahoma Christian University,OK,4-year,private_nonprofit,https://www.oc.edu,,,,,,,,pending
-Oklahoma City Community College,OK,2-year,public,https://www.occc.edu,,,,,,,,pending
+Oklahoma City Community College,OK,2-year,public,https://www.occc.edu,yes,Inclusive Access,Digital via LMS; discounted; charged to account; opt-out,Follett,Various; digital via LMS,IA: digital course materials. Discounted. Opt-out.,https://occc.edu; https://bkstr.com,done
 Oklahoma City University,OK,4-year,private_nonprofit,https://www.okcu.edu,yes,Materials Delivery Program,Charged to student account; shipped pre-class; opt-out/return,University bookstore,Various; books + supplies shipped directly,Not formally named IA but functionally similar. Materials shipped to dorm rooms before classes. Opt-out/return available.,https://okcu.edu,done
 Oklahoma Panhandle State University,OK,4-year,public,https://opsu.edu,,,,,,,,pending
-Oklahoma State University Center for Health Sciences,OK,4-year,public,https://medicine.okstate.edu,,,,,,,,pending
-Oklahoma State University Institute of Technology,OK,4-year,public,https://osuit.edu,,,,,,,,pending
+Oklahoma State University Center for Health Sciences,OK,4-year,public,https://medicine.okstate.edu,yes,Inclusive Access,Day-one digital; discounted; partnered with publishers,OSU University Store,Various; digital via LMS; saves 65%,IA per main OSU system.,https://health.okstate.edu; https://okstate.edu,done
+Oklahoma State University Institute of Technology,OK,4-year,public,https://osuit.edu,yes,Textbook Affordability Program,$223/sem flat rate; digital via Canvas; auto-enrolled,OSUIT bookstore,Various; digital via Canvas,OSUIT Textbook Affordability: $223/sem flat. Digital via Canvas day 1. Auto-enrolled.,https://osuit.edu,done
 Oklahoma State University-Main Campus,OK,4-year,public,https://www.okstate.edu,yes,Inclusive Access,Significantly reduced price; digital from first day; opt-out,University Store,Various; digital via LMS,IA via University Store. Significantly reduced price. Digital from day one. OSUIT has flat-rate Textbook Affordability Program.,https://okstate.edu,done
-Oklahoma State University-Oklahoma City,OK,4-year,public,https://osuokc.edu,,,,,,,,pending
+Oklahoma State University-Oklahoma City,OK,4-year,public,https://osuokc.edu,yes,Inclusive Access,Day-one digital; 65% savings vs print; discounted; partnered with publishers,OSU University Store,Various; digital via LMS; saves 65%,IA per main OSU system. Day-one digital access. 65% savings vs print.,https://osuokc.edu; https://okstate.edu,done
 Oklahoma Technical College,OK,2-year,private_nonprofit,https://www.oklahomatechnicalcollege.com,,,,,,,,pending
 Oklahoma Wesleyan University,OK,4-year,private_nonprofit,https://www.okwu.edu,,,,,,,,pending
 Oral Roberts University,OK,4-year,private_nonprofit,https://oru.edu,yes,ORU Course+ / First Day,Lower cost; guaranteed access by first day,Barnes & Noble College,BN First Day; various,ORU Course+ lowers material costs. BN First Day inclusive access model.,https://oru.edu; https://bncollege.com/oru,done
 Phillips Theological Seminary,OK,4-year,private_nonprofit,https://www.ptstulsa.edu,,,,,,,,pending
 Randall University,OK,4-year,private_nonprofit,https://www.ru.edu,,,,,,,,pending
 Redlands Community College,OK,2-year,public,https://www.redlandscc.edu,,,,,,,,pending
-Rogers State University,OK,4-year,public,https://www.rsu.edu,,,,,,,,pending
+Rogers State University,OK,4-year,public,https://www.rsu.edu,yes,First Day,Course material cost added to tuition/fees; auto day 1; lowest national price; opt in/out by census,RSU bookstore,Various; negotiated lowest national price,First Day since Spring 2020. Auto day 1. Opt in/out by census date. Lowest national price.,https://rsu.edu,done
 Rose State College,OK,2-year,public,https://www.rose.edu,,,,,,,,pending
 Seminole State College,OK,2-year,public,https://www.sscok.edu,,,,,,,,pending
 Southeastern Oklahoma State University,OK,4-year,public,https://www.se.edu,,,,,,,,pending
 Southern Nazarene University,OK,4-year,private_nonprofit,https://www.snu.edu,,,,,,,,pending
 Southwestern Christian University,OK,4-year,private_nonprofit,https://www.swcu.edu,,,,,,,,pending
-Southwestern Oklahoma State University,OK,4-year,public,https://www.swosu.edu,,,,,,,,pending
+Southwestern Oklahoma State University,OK,4-year,public,https://www.swosu.edu,yes,First Day / Inclusive Access,Digital via LMS; course charge; opt-out,University bookstore,Various; digital via LMS,First Day/IA. Digital materials via LMS. Course charge. Opt-out.,https://swosu.edu,done
 Spartan College of Aeronautics and Technology,OK,4-year,private_forprofit,https://www.spartan.edu,,,,,,,,pending
-Tulsa Community College,OK,2-year,public,https://www.tulsacc.edu,,,,,,,,pending
+Tulsa Community College,OK,2-year,public,https://www.tulsacc.edu,yes,Inclusive Access,Digital via Blackboard; discounted; charged to account; opt-out,TCC Bookstore,Various; digital via Blackboard,IA: digital course materials via Blackboard. Discounted rate. Opt-out.,https://tulsacc.edu,done
 Tulsa Technology Center,OK,2-year,public,https://tulsatech.edu,,,,,,,,pending
 Tulsa Welding School-Tulsa,OK,2-year,private_forprofit,https://www.tws.edu,,,,,,,,pending
-University of Central Oklahoma,OK,4-year,public,https://www.uco.edu,,,,,,,,pending
+University of Central Oklahoma,OK,4-year,public,https://www.uco.edu,yes,First Day,Course materials charge on Bursar account; deeply discounted; opt-out,BN College,Various; BN First Day; deeply discounted,BN First Day. Course materials charge on Bursar. Deeply discounted. Guaranteed day 1 access.,https://uco.edu; https://bncollege.com,done
 University of Oklahoma-Health Sciences Center,OK,4-year,public,https://ouhsc.edu,,,,,,,,pending
 University of Oklahoma-Norman Campus,OK,4-year,public,https://www.ou.edu,yes,Inclusive Access + ACMI,Discounted digital via Canvas; auto-charged; opt-out,Soonerbooks + Textbook Brokers,Various; digital via Canvas; OER via ACMI,IA w/ Soonerbooks + publishers. Plus ACMI for OER adoption. Textbook rental program also available.,https://ou.edu; https://textbookbrokers.com,done
 University of Science and Arts of Oklahoma,OK,4-year,public,https://usao.edu,,,,,,,,pending
