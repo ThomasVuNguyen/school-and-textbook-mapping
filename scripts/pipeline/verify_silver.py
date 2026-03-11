@@ -325,6 +325,8 @@ def main():
     parser = argparse.ArgumentParser(description="Verify SILVER dataset with Cloudrift")
     parser.add_argument("--batch-size", type=int, default=0,
                         help="Max schools to verify this run (0 = all)")
+    parser.add_argument("--urls-only", action="store_true",
+                        help="Only verify schools that have real source URLs (skip N/A)")
     parser.add_argument("--dry-run", action="store_true",
                         help="Show what would be done without verifying")
     parser.add_argument("--reset", action="store_true",
@@ -362,7 +364,17 @@ def main():
     for row in all_schools:
         key = row["school_name"].strip().lower()
         if key not in checkpoint:
+            url = (row.get("source_url") or "").strip()
+            has_url = url and url.lower() not in ("n/a", "none", "")
+            if args.urls_only and not has_url:
+                continue
             to_verify.append(row)
+
+    # Sort: schools with URLs first (they need actual verification)
+    def url_sort_key(r):
+        u = (r.get("source_url") or "").strip()
+        return 0 if u and u.lower() not in ("n/a", "none", "") else 1
+    to_verify.sort(key=url_sort_key)
 
     if args.batch_size > 0:
         to_verify = to_verify[:args.batch_size]
